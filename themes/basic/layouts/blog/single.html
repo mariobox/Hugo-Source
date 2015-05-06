@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+<h2>{{ .Title }}</h2>
+    
+<div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+
+
+{{ .Content }}
+
+<p>Tags: {{ range .Params.tags }}<a href="../../tags/{{ . }}">{{ . }}</a> {{ end }}</p>
+
+
+{{ partial "footer.html" . }}

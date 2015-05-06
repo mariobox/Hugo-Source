@@ -1,0 +1,90 @@
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
+
+body {
+        font-family: 'Titillium Web', serif;
+        margin-top: 0;
+        margin-left: 0;
+        border-top-width: 10px;
+        border-top-color: #e5e4e2;
+	border-top-style: solid;
+        width: 100%;
+        font-size: 20px;
+      }
+
+nav {
+        background-color: #e5e4e2;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 20px;
+        margin-top: 15px;
+        box-shadow: 0px 3px 2px #ccc;
+      }
+
+nav a:link, a:visited {
+        text-decoration: none;
+      }
+
+nav a:hover {
+        color: #000000;
+      }
+
+#header {
+        text-align: center;
+        width: 100%;
+      }
+
+.content {
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 15%;
+        padding-bottom: 20px;
+      }
+
+      
+.social {
+        float: left;
+        width: 40%;
+        margin-left: 15%;
+        line-height: 0.8em;
+      }
+
+     
+.contact {
+        float: right;
+        width: 30%;
+        line-height: 0.8em;
+      }
+     
+ul { 
+        list-style: square outside; 
+      }
+
+a:link {
+        color: #000000;
+      }
+
+a:visited {
+        color: #000000;
+      }
+
+a:hover {
+        color: #d3d3d3;
+      }
+
+html { 
+        overflow-y: scroll; 
+      }
+
+.profile {
+  padding: 4px;
+  border: 1px solid #ccc;
+  box-shadow: 1px 3px 3px #ddd;
+}
+
+img {
+  max-width: 100%;
+}
+
+.date {
+  color: #c7c7c7;
+}

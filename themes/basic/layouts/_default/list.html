@@ -1,0 +1,13 @@
+
+{{ partial "header.html" . }}
+  <h2>{{ .Title }}</h2>
+
+    {{ range first 15 .Data.Pages }}
+        {{ if eq .Type "blog"}}
+	      <p><span class="date"> {{ .Date.Format "2006-01-02" }} | </span> <span><a href="{{ .Permalink }}">{{ .Title }}</a></span></p>
+	          {{ end }}
+		    {{ end }}
+
+		      
+					{{ partial "footer.html" . }}
+					

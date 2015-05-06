@@ -1,0 +1,10 @@
+baseurl = "http://www.mariosanchez.org/"
+
+languageCode = "en-us"
+
+title = "Mario Sanchez Carrion"
+
+
+pluralizelisttitles = false
+theme = "basic"
+
