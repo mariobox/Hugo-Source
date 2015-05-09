@@ -98,14 +98,14 @@ img {
 
 @media screen and (max-width: 800px) {
     .contact {
-        width: 70%;
+        width: 75%;
         float: left;
         margin-left: 15%;
         line-height: 0.8em;
       }
 
     .social {
-        width: 70%;
+        width: 75%;
         float: left;
         line-height: 0.8em;
       }
