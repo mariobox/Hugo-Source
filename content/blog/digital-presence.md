@@ -41,13 +41,11 @@ A static site generator is basically a program that takes your content and merge
 
 While using a static site generator is extremely easy, setting one up can be a royal pain for non-programmers like me. I definitely wanted to go this route, though, so I focused on acquiring the skills and tools to make it happen. The process took some time, some sweat equity, quite a bit of reading and plenty of trial and error, but in the end I succeded. 
 
-The static site generator I'm currently using is [Jekyll](http://www.jekyllrb.com), although there are literally [hundreds](https://staticsitegenerators.net/) that you can choose from.
-
-**Update:** As of March 30, 2015 I am not using Jekyll any more. I have switched to [Hugo](http://www.gohugo.io). 
+The first static site generator I used was [Jekyll](http://www.jekyllrb.com). After a few months, though, I started to find Jekyll somehow limiting (it's a fairly old SSG), so I gave [Hugo](http://gohugo.io) a try and have been using it ever since. I am extremely happy with Hugo: it is fast, intuitive, and just needs one executable file to run (no complicated dependencies).
 
 ### The Tools of the Trade ###
 
-In order to deploy a static site generator I had to learn a few things: 
+In order to run my site using a static site generator I had to learn a few things: 
 
 - [Markdown](http://daringfireball.net/projects/markdown/) to write blog posts and content in general (easy); 
 - [HTML and CSS](http://www.htmlandcssbook.com/) to tweak the look and feel of the site (HTML, easy; CSS a little harder); 
@@ -56,15 +54,8 @@ In order to deploy a static site generator I had to learn a few things:
 
 Aside from that, I had to download the following programs: 
 
-- [Git for Windows](http://git-scm.com/download/win) to version control my site and access a command line emmulator called Git Bash;
-- Ruby and Ruby's Dev Package, necessary to make Jekyll run;
-- Python, also needed to run Jekyll; and
-- The Jekyll and Github Pages gems: to generate the site and enable hosting in [Github Pages](https://pages.github.com/).
+- [Git for Windows](http://git-scm.com/download/win) to version control my site and access a command line emmulator called Git Bash; and
+- The [Hugo](http://gohugo.io) executable.
 
-[This site](http://jekyll-windows.juthilo.com/) gives a very good overview of how to install Jekyll if you have a Windows box.
+Finally, I opened an account with [Github](http://www.github.com) to create the [site's remote repository](https://github.com/mariobox/mariobox.github.io) where I version-control the site's source files, and another repository to version and host the site's public files (those that get served to the web by Github pages to render the site in the browser).
 
-Finally, I opened an account with [Github](http://www.github.com) to create the [site's remote repository](https://github.com/mariobox/mariobox.github.io) (basically a backup copy of my website's files that Github uses to generate and serve my site to the public web). I also cloned an existing repository called [Jekyll Now](https://github.com/barryclark/jekyll-now), which provides a basic template for a Jekyll blog, so you don't have to start from scratch (you can later tweak it locally, in your computer, to make it look the way you want).
-
-### Next Steps ###
-
-So, what's next? Perhaps tweak the look and feel of the site some more, creating sub-domains, deploying to a virtual private server (VPS), and installing a Linux operating system. Stay tuned.

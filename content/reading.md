@@ -11,22 +11,22 @@ slug = "reading"
 
 <a href="http://www.amazon.com/gp/product/0307463745/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307463745&linkCode=as2&tag=theinternet0f-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0307463745&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=0307463745" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h5><a href="http://www.amazon.com/gp/product/0307463745/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307463745&linkCode=as2&tag=theinternet0f-20">Rework</a></h5>
+<h3><a href="http://www.amazon.com/gp/product/0307463745/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307463745&linkCode=as2&tag=theinternet0f-20">Rework</a></h3>
 <p>This book grabs almost every piece of business conventional wisdom and shatters it. Reading it is an eye-opening experience. It will force you to reconsider everything  you thought was true about business and make you work in a more practical way. Some say this book applies only to small businesses and start-ups, but I find it applicable to business in general, no matter the size of the company. One of the best business books I've ever read.</p>
 
 <hr />
 
-<a href="http://www.amazon.com/gp/product/160832253X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=theinternet0f-20&linkId=2N5DPE2NZFU4HNYW"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=160832253X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=160832253X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/160832253X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=theinternet0f-20&linkId=2N5DPE2NZFU4HNYW"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=160832253X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" width="100px"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=160832253X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h5><a href="http://www.amazon.com/gp/product/160832253X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=theinternet0f-20&linkId=O32RCXTRI2VEOFCO">Work the System: The Simple Mechanics of Making More and Working Less</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=160832253X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</h5>
+<h3><a href="http://www.amazon.com/gp/product/160832253X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=theinternet0f-20&linkId=O32RCXTRI2VEOFCO">Work the System: The Simple Mechanics of Making More and Working Less</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=160832253X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</h3>
 <p>Ground breaking book about the importance of implementing systems in your business and personal life. Well written, entertaining, rooted in a deeply personal story, the book deals not only with the <em>why</em> but also with the <em>how</em> of developing systems. I wrote a more detailed review <a href="http://www.mariosanchez.org/post/wts/">here</a>.</p>
 
 <hr />
 
 <a href="http://www.amazon.com/gp/product/0761147489/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761147489&linkCode=as2&tag=theinternet0f-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0761147489&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=0761147489" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h5><a href="http://www.amazon.com/gp/product/0761147489/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761147489&linkCode=as2&tag=theinternet0f-20">I Will Teach You To Be Rich</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=1591845572" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h5>
+<h3><a href="http://www.amazon.com/gp/product/0761147489/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761147489&linkCode=as2&tag=theinternet0f-20">I Will Teach You To Be Rich</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=1591845572" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h3>
 
 <p>Quirky title but great primer on personal finance. Everything that should be taught about personal finance in high school but isn't. Ideal for the younger crowd just starting out or for older folk that were never properly introduced to saving and investing. Plenty of tactical advice written in a style that makes an otherwise dry topic fun.</p>
 
@@ -34,7 +34,7 @@ slug = "reading"
 
 <a href="http://www.amazon.com/gp/product/1591845572/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591845572&linkCode=as2&tag=theinternet0f-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1591845572&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=1591845572" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h5><a href="http://www.amazon.com/gp/product/1591845572/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591845572&linkCode=as2&tag=theinternet0f-20&linkId=HKVWWQAWVT2WZ2MH">The Personal MBA: Master the Art of Business</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=1591845572" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h5>
+<h3><a href="http://www.amazon.com/gp/product/1591845572/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591845572&linkCode=as2&tag=theinternet0f-20&linkId=HKVWWQAWVT2WZ2MH">The Personal MBA: Master the Art of Business</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=1591845572" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h3>
 
 <p>Outstanding. I was completely blown away by this book. It starts as a compelling case against spending a small fortune attending business school, and offering an alternative path: anybody can get a quality business education without mortgaging our lives by reading the right books and applying the concepts in real life. It then lays out a comprehensive overview of every single business fundamental, concept and function. To complement the book, the author has curated a list of <a href="http://personalmba.com/best-business-books/">99 must-read business books</a> so the reader can delve deeper into the different business subjects. Make sure to check the <a href="http://book.personalmba.com">book's website</a>, where you will find concise outlines of each of the chapters.</p>
 
@@ -42,22 +42,22 @@ slug = "reading"
 
 <a href="http://www.amazon.com/gp/product/B00JCC5JKI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JCC5JKI&linkCode=as2&tag=theinternet0f-20&linkId=M4EIJYL7C3EZLRLK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JCC5JKI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=B00JCC5JKI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h5><a href="http://www.amazon.com/gp/product/B00JCC5JKI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JCC5JKI&linkCode=as2&tag=theinternet0f-20&linkId=HGQHHGB2E44KTGWS">If You Can: How Millennials Can Get Rich Slowly</a></h5>
+<h3><a href="http://www.amazon.com/gp/product/B00JCC5JKI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JCC5JKI&linkCode=as2&tag=theinternet0f-20&linkId=HGQHHGB2E44KTGWS">If You Can: How Millennials Can Get Rich Slowly</a></h3>
 <p>Great primer on how to start investing to build wealth. Very short book (the printed edition is only 27 pages), full of good advice and great recommendations for further reading. The best $0.99 you will ever spend.</p>
 
 <hr />
 
 <a href="http://www.amazon.com/gp/product/081298692X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298692X&linkCode=as2&tag=theinternet0f-20&linkId=ZX5CH2BQUYOFU2QH"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=081298692X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" width="120"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=081298692X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h5><a href="http://www.amazon.com/gp/product/081298692X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298692X&linkCode=as2&tag=theinternet0f-20&linkId=ZX5CH2BQUYOFU2QH">I am Zlatan: My Story On and Off the Field</a></h5>
+<h3><a href="http://www.amazon.com/gp/product/081298692X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298692X&linkCode=as2&tag=theinternet0f-20&linkId=ZX5CH2BQUYOFU2QH">I am Zlatan: My Story On and Off the Field</a></h3>
 <p>The honest and entertaining biography of Zlatan Ibrahimovic, one of soccer's greatest (and most misunderstood) stars. An inspiring story about an immigrant kid from the ghetto who managed to make it big while being true to himself, through a combination of talent, hard work, persistence and a winner's attitude. Loved this book!</p>
 
 <hr />
 
 <a href="http://www.amazon.com/gp/product/1585424331/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1585424331&linkCode=as2&tag=theinternet0f-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1585424331&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=1585424331" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h5><a href="http://www.amazon.com/gp/product/1585424331/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1585424331&linkCode=as2&tag=theinternet0f-20&linkId=Y2GWPBNXBDDCH52X">Think and Grow Rich</a>
-</h5>
+<h3><a href="http://www.amazon.com/gp/product/1585424331/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1585424331&linkCode=as2&tag=theinternet0f-20&linkId=Y2GWPBNXBDDCH52X">Think and Grow Rich</a>
+</h3>
 <p>The original "The Secret". A motivational book based on the notion that the way you think determines your level of success.</p><p> Many modern day gurus have appropriated the ideas and concepts originally developed in this book (not always giving proper credit). </p><p>The book has many good points and actionable ideas, but at the same time there's a lot of new-agey kind of stuff (surprising for a book that's almost 80 years old).</p><p>  Worth a read, though. The best chapters, in my opinion: <strong>Chapter 15</strong> (on Fear), <strong>Chapter 5</strong> (on Specialized Knowledge-where he introduces the popular MasterMind principle), <strong>Chapter 6</strong> (on Immagination) and <strong>Chapter 7</strong> (on Organized Planning).</p>
 
 
@@ -66,38 +66,38 @@ slug = "reading"
 
 <a href="http://www.amazon.com/gp/product/1490313370/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1490313370&linkCode=as2&tag=theinternet0f-20"><img border="0" src="http://ecx.images-amazon.com/images/I/71w-fDq5-1L.jpg?_encoding=UTF8&ASIN=1490313370&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" width="150" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=1490313370" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h5><a href="http://www.amazon.com/gp/product/1490313370/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1490313370&linkCode=as2&tag=theinternet0f-20">Choose Yourself!</a></h5>
+<h3><a href="http://www.amazon.com/gp/product/1490313370/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1490313370&linkCode=as2&tag=theinternet0f-20">Choose Yourself!</a></h3>
 <p>This is <strong><a href="http://www.jamesaltucher.com">James Altucher</a></strong>'s latest book, and in my opinion his best.  This book will help you make sense of the new realities of the world of work.</p><p>The author explains how an era dominated by old paradigms like job security, benefits, stability, and college credentials as predictors of success is coming to an end and giving way to the age of the artist/entrepreneur.</p><p>The book also gives us a blueprint we can follow to succeed in these new, uncharted waters: to take care of our mental, physical, emotional and spiritual needs, and train ourselves to generate and sell ideas.</p><p>You can either love or hate James Altucher but, anyway, this is book is a must-read to better understand why the old recipees for success no longer work. </p>
 
 <hr />
 
 <a href="http://www.amazon.com/gp/product/0804137501/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137501&linkCode=as2&tag=theinternet0f-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0804137501&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=0804137501" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h5><a href="http://www.amazon.com/gp/product/0804137501/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137501&linkCode=as2&tag=theinternet0f-20">Remote</a></h5>
+<h3><a href="http://www.amazon.com/gp/product/0804137501/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137501&linkCode=as2&tag=theinternet0f-20">Remote</a></h3>
 <p>Not as good as their previous book <em>Rework</em>, Jason Fried and David Heinemeier Hansson nevertheless make a good case for remote working, and demonstrate that not embracing it has little to do with technology an more with fear of losing control.</p><p>While the book's content could probably be fit for a long essay or article rather than a whole book it is still an interesting read, especially the tips to manage and motivate a remote work force.</p>
 
 <hr />
 
 <a href="http://www.amazon.com/gp/product/B006M9T8NI/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006M9T8NI&linkCode=as2&tag=theinternet0f-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006M9T8NI&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=B006M9T8NI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<h5><a href="http://www.amazon.com/gp/product/B006M9T8NI/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006M9T8NI&linkCode=as2&tag=theinternet0f-20">Ikigai</a></h5>
+<h3><a href="http://www.amazon.com/gp/product/B006M9T8NI/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006M9T8NI&linkCode=as2&tag=theinternet0f-20">Ikigai</a></h3>
 <p><strong><a href="http://www.sebastianmarshall.com">Sebastian Marshall</a></strong> is a bright, self-taught twentysomething living in Asia, who is determined to leave his mark in the strategy consulting world. Drawing heavily from history and the careful study of classic and current business books, he offers insightful advice on strategy, productivity and business in general.</p><p>The book was put together in a week (mostly from blog content) as a dare to an old-school publisher who had offered to publish it but had been dragging the project for months.  As a result, some passages may sound repetitive and there are several grammatical and spelling errors, but don't get fooled: there is gold on those pages if you just can see beyond the surface.</p>
 
 <hr />
 
 <a href="http://www.amazon.com/gp/product/0321525655/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321525655&linkCode=as2&tag=theinternet0f-20"><img border="0"  width="105"src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0321525655&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=0321525655" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h5><a href="http://www.amazon.com/gp/product/1626810915/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1626810915&linkCode=as2&tag=theinternet0f-20">Presentation Zen</a></h5>
+<h3><a href="http://www.amazon.com/gp/product/1626810915/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1626810915&linkCode=as2&tag=theinternet0f-20">Presentation Zen</a></h3>
 <p>This is an extremely well written book that goes beyond the traditional idea of a business presentation (Powerpoint slide after Powerpoint slide packed with tables and bullet points) and teaches you how to communicate effectively by embracing a minimalist approach. Just as a logo is not a brand, the slides are not the presentation. They exist only to help you tell a story more effectively. This is probably the only business book that can double up as coffee table book! The illustrations and imagery of Japanese culture that the author uses to support his points are simply gorgeous, so I recomment getting the paper book, not the Kindle version.</p>
 
 <hr />
 
 <a href="http://www.amazon.com/gp/product/1626810915/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1626810915&linkCode=as2&tag=theinternet0f-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1626810915&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=1626810915" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<h5><a href="http://www.amazon.com/gp/product/1626810915/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1626810915&linkCode=as2&tag=theinternet0f-20">How to Win at the Sport of Business</a></h5>
+<h3><a href="http://www.amazon.com/gp/product/1626810915/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1626810915&linkCode=as2&tag=theinternet0f-20">How to Win at the Sport of Business</a></h3>
 <p><a href="http://www.blogmaverick.com">Mark Cuban</a> took a collection of blog posts, gave them flow and direction and bundled it all up in an eBook, where he shares some of his most valuable business tenets as well as inspiring and entertaining stories from his beginnings as a salesman and an entrepreneur.  Short, easy to read and full of good advice.</p>
 
 <hr />
 
-<h5>Read (without review)</h5>
+<h3>Read (without review)</h3>
 <p>These are the covers of good books I've read and recommend. I haven't gotten around to posting a brief review yet. I'll update this section regularly.</p>
 
 

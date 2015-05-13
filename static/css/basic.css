@@ -1,81 +1,118 @@
+/* FONT FACES */
+
 @import url(http://fonts.googleapis.com/css?family=Titillium+Web);
 
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic);
+
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400italic,700italic,400,700);
+
+
+/* RESET */
+
+html { 
+        overflow-y: scroll;
+}
+
+
+/* MAIN ELEMENTS */
+
 body {
-        font-family: 'Titillium Web', serif;
-        margin-top: 0;
-        margin-left: 0;
+        font-family: Roboto, sans-serif;
+        color: #222;
+        line-height: 1.7em;
+        font-size: 1.05em;
+        margin: auto;
         border-top-width: 10px;
         border-top-color: #e5e4e2;
 	border-top-style: solid;
-        width: 100%;
-        font-size: 1.25em;
+        width: 90%;
+                
       }
 
-nav {
-        background-color: #e5e4e2;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        font-size: 1em;
-        margin-top: 15px;
-        box-shadow: 0px 3px 2px #ccc;
-        text-shadow: 1px 1px white;
-      }
+h1, h2, h3, h4, h5, h6 {
+      font-family: 'Roboto Condensed'
+}
 
-nav a:link, a:visited {
-        text-decoration: none;
-      }
+h1, h2 {
+      margin-top: 1.2em;
+}
 
-nav a:hover {
-        color: #000000;
-      }
-
-#header {
-        text-align: center;
-        width: 100%;
-      }
-
-
-.content {
-        width: 70%;
-        margin-left: 15%;
-        margin-right: 15%;
-        padding-bottom: 20px;
-      }
-
-      
-.social {
-        float: left;
-        width: 40%;
-        margin-left: 15%;
-        line-height: 0.8em;
-      }
-
-     
-.contact {
-        float: right;
-        width: 30%;
-        line-height: 0.8em;
-      }
-     
 ul { 
         list-style: square outside; 
       }
 
 a:link {
-        color: #000000;
+        color: #000;
       }
 
 a:visited {
-        color: #000000;
+        color: #000;
       }
 
 a:hover {
-        color: #d3d3d3;
+        color: #999;
       }
 
-html { 
-        overflow-y: scroll; 
+header {
+        padding-top: 20px;
+        padding-bottom: 50px;
+                
+       }
+
+nav {
+  font-family: 'Titillium Web', serif;
+  float: right;
+  margin-top: 5px;
+  font-size: 1em;
+}
+
+nav a:link {
+        text-decoration: none;
+        color: #222;
+}
+
+nav a:visited {
+        text-decoration: none;
+        color: #222;
+}
+
+nav a:hover {
+        text-decoration: none;
+        color: #222;
+}
+
+hr {
+     border-top: 1px solid #888;
+}
+
+article {
+        padding-bottom: 20px;
+        clear: both;
       }
+
+.logo {
+ font-family: 'Titillium Web', serif;
+ font-size: 1.8em;
+ font-weight: 400;
+ color: #222;
+ float: left;
+ 
+}
+
+img {
+  max-width: 100%;
+}
+
+footer {
+   padding-bottom: 250px;
+}
+
+
+/* CLASSES */     
+
+.date {
+  color: #999;
+}
 
 .profile {
   padding: 4px;
@@ -84,42 +121,56 @@ html {
 }
 
 .social-icon {
-  height: 48px;
+  height: 36px;
   padding-right: 20px;
 }
 
-img {
-  max-width: 100%;
-}
 
-.date {
-  color: #999;
-  padding-right: 20px;
-}
+.footer-pic {
+       padding-top: 20px;
+       float: left;
+      }
+
+     
+.contact {
+        float: right;
+      }
+     
+
+
+/* MEDIA QUERIES */
+
 
 @media screen and (max-width: 800px) {
 
+.logo {
+   width: 100%;
+}
+
+nav {
+   float: left;
+}
+
+.profile-pic {
+   float: left;
+}
+
 .contact {
-   width: 90%;
    float: left;
-   margin-left: 5%;
-   line-height: 0.8em;
-}
-
-.social {
-   width: 90%;
-   float: left;
-   margin-left: 5%;
-   line-height: 0.8em;
-}
-
-.content {
-   width: 90%;
-   margin-left: 5%;
+   width: 100%;
 }
 
 body {
-   font-size: 1em;
+    font-size: 1em;
 }
 
-    
+}
+
+
+@media screen and (min-width: 888.888px) {
+
+body {
+   max-width: 800px;
+}
+
+} 
