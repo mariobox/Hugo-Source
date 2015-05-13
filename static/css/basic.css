@@ -22,9 +22,6 @@ body {
         line-height: 1.7em;
         font-size: 1.05em;
         margin: auto;
-        border-top-width: 10px;
-        border-top-color: #e5e4e2;
-	border-top-style: solid;
         width: 90%;
                 
       }
@@ -90,14 +87,6 @@ article {
         clear: both;
       }
 
-.logo {
- font-family: 'Titillium Web', serif;
- font-size: 1.8em;
- font-weight: 400;
- color: #222;
- float: left;
- 
-}
 
 img {
   max-width: 100%;
@@ -135,6 +124,15 @@ footer {
 .contact {
         float: right;
       }
+
+.logo {
+ font-family: 'Titillium Web', serif;
+ font-size: 1.8em;
+ font-weight: 400;
+ color: #222;
+ float: left;
+ 
+}
      
 
 
