@@ -16,3 +16,5 @@ Places I've been. Things that caught my eye.
 [Barcelona](../barcelona/) - 2013
 
 [Madrid](../madrid/) - 2013
+
+[Italy In Motion Exhibit](../italyinmotion/) - 2013
