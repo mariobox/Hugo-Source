@@ -7,6 +7,8 @@ slug = "photos"
 
 Places I've been. Things that caught my eye.
 
+[Lima](../lima/) - 2015
+
 [Bogota](../bogota/) - 2015
 
 [Dubai](../dubai/) - 2015
