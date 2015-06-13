@@ -5,7 +5,7 @@ date = "2014-09-27"
 slug = "about"
 +++
 
-<img src="http://farm5.staticflickr.com/4032/4447940514_44c70d069c_z.jpg" class="profile"><br />
+<img src="http://farm5.staticflickr.com/4032/4447940514_44c70d069c_z.jpg" width="800px" class="profile"><br />
 ### Who Am I? ###
 
 My name is Mario Sanchez Carrion. I am a Miami-based product manager and technology enthusiast.  
