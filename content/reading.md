@@ -16,7 +16,7 @@ slug = "reading"
 
 <hr />
 
-<a href="http://www.amazon.com/gp/product/160832253X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=theinternet0f-20&linkId=2N5DPE2NZFU4HNYW"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=160832253X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" width="100px"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=160832253X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/160832253X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=theinternet0f-20&linkId=2N5DPE2NZFU4HNYW"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=160832253X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=160832253X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <h3><a href="http://www.amazon.com/gp/product/160832253X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=theinternet0f-20&linkId=O32RCXTRI2VEOFCO">Work the System: The Simple Mechanics of Making More and Working Less</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=160832253X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3>
@@ -56,7 +56,7 @@ slug = "reading"
 
 <a href="http://www.amazon.com/gp/product/1585424331/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1585424331&linkCode=as2&tag=theinternet0f-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1585424331&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=1585424331" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h3><a href="http://www.amazon.com/gp/product/1585424331/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1585424331&linkCode=as2&tag=theinternet0f-20&linkId=Y2GWPBNXBDDCH52X">Think and Grow Rich</a>
+<h3><a href="http://www.amazon.com/gp/product/1585424331/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1585424331&linkCode=as2&tag=theinternet0f-20&linkId=Y2GWPBNXBDDCh32X">Think and Grow Rich</a>
 </h3>
 <p>The original "The Secret". A motivational book based on the notion that the way you think determines your level of success.</p><p> Many modern day gurus have appropriated the ideas and concepts originally developed in this book (not always giving proper credit). </p><p>The book has many good points and actionable ideas, but at the same time there's a lot of new-agey kind of stuff (surprising for a book that's almost 80 years old).</p><p>  Worth a read, though. The best chapters, in my opinion: <strong>Chapter 15</strong> (on Fear), <strong>Chapter 5</strong> (on Specialized Knowledge-where he introduces the popular MasterMind principle), <strong>Chapter 6</strong> (on Immagination) and <strong>Chapter 7</strong> (on Organized Planning).</p>
 

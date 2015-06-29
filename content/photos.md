@@ -1,13 +1,11 @@
 +++
-title = "Photos"
+title = "Travel"
 description = ""
 date = "2014-09-27"
-slug = "photos"
+slug = "travel"
 +++
 
 Places I've been. Things that caught my eye.
-
-[Lima](../lima/) - 2015
 
 [Bogota](../bogota/) - 2015
 
@@ -18,5 +16,3 @@ Places I've been. Things that caught my eye.
 [Barcelona](../barcelona/) - 2013
 
 [Madrid](../madrid/) - 2013
-
-[Italy In Motion Exhibit](../italyinmotion/) - 2013

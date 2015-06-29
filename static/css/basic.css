@@ -39,47 +39,47 @@ ul {
       }
 
 a:link {
-        color: #000;
+        color: #222;
       }
 
 a:visited {
-        color: #000;
+        color: #222;
       }
 
 a:hover {
-        color: #999;
+        color: #222;
       }
 
 header {
         padding-top: 20px;
-        padding-bottom: 50px;
+        padding-bottom: 30px;
                 
        }
 
 nav {
-  font-family: 'Titillium Web', serif;
-  float: right;
+  font-family: 'Roboto Condensed', sans-serif;
+  float: left;
   margin-top: 5px;
   font-size: 1em;
 }
 
 nav a:link {
         text-decoration: none;
-        color: #222;
+        color: #555;
 }
 
 nav a:visited {
         text-decoration: none;
-        color: #222;
+        color: #555;
 }
 
 nav a:hover {
         text-decoration: none;
-        color: #222;
+        color: #555;
 }
 
 hr {
-     border-top: 1px solid #888;
+     border-top: 1px solid #999;
 }
 
 article {
@@ -126,12 +126,13 @@ footer {
       }
 
 .logo {
- font-family: 'Titillium Web', serif;
- font-size: 1.8em;
- font-weight: 400;
- color: #222;
+ 
  float: left;
  
+}
+
+.navtop {
+  font-size: 1.5em;
 }
      
 
@@ -139,14 +140,14 @@ footer {
 /* MEDIA QUERIES */
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 450px) {
 
-.logo {
-   width: 100%;
+navtop {
+   float: left;
 }
 
-nav {
-   float: left;
+.logo {
+  float: none
 }
 
 .profile-pic {
@@ -165,10 +166,10 @@ body {
 }
 
 
-@media screen and (min-width: 888.888px) {
+@media screen and (min-width: 704px) {
 
 body {
-   max-width: 800px;
+   max-width: 640px;
 }
 
 } 

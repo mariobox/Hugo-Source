@@ -1,6 +1,6 @@
 
 {{ partial "header.html" . }}
-  <h2>{{ .Title }}</h2>
+  <h1>{{ .Title }}</h1>
 
     {{ range first 15 .Data.Pages }}
         {{ if eq .Type "blog"}}
