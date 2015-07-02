@@ -9,7 +9,7 @@ This site is a DIY project, created using basic front end web development tools 
 
 These are the tools and resources I'm currently using:
 
-* [Hugo](http://www.gohugo.io) static site generator. After trying Jekyll for a while, I find Hugo much more versatile our of the box. It is fast, easy to set up and a pleasure to use.  Plus, it doesn't require other programs to run. Everything I need, nothing that I don't. 
+* [Hugo](http://www.gohugo.io) static site generator. After trying Jekyll for a while, I find Hugo much more versatile out of the box. It is fast, easy to set up and a pleasure to use.  Plus, it doesn't require other programs to run. Everything I need, nothing that I don't. 
 
 * [Markdown](http://daringfireball.net/projects/markdown/) to write the content of blog posts and pages.
 
