@@ -16,7 +16,7 @@ slug = "reading"
 
 <hr />
 
-<a href="http://www.amazon.com/gp/product/160832253X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=theinternet0f-20&linkId=2N5DPE2NZFU4HNYW"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=160832253X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=160832253X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/160832253X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=theinternet0f-20&linkId=2N5DPE2NZFU4HNYW"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=160832253X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" width="100px" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=160832253X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <h3><a href="http://www.amazon.com/gp/product/160832253X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160832253X&linkCode=as2&tag=theinternet0f-20&linkId=O32RCXTRI2VEOFCO">Work the System: The Simple Mechanics of Making More and Working Less</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=160832253X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </h3>
