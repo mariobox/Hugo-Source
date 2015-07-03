@@ -37,3 +37,5 @@ If you are deep into digital self-reliance, you may choose to deploy your site t
 In order to use a SSG you will need to learn, at a bare minimum, the basics of HTML and CSS, a few key Linux-style commands, how to write in Markdown, and have access to a Linux-style terminal emulator.
 
 For this site, I am currently using a SSG called [Hugo](http://www.gohugo.io). It is lightning fast and doesn't require you to download any program other than the Hugo executable. Since I'm working in a Windows box, I use a terminal emulator called [Git Bash](https://msysgit.github.io/). I am deploying the resulting static files in [Github Pages](https://pages.github.com/) using [Git](http://git-scm.com/) for version control and to push (upload) my site to Github Page's server.
+
+**Update:** Read [this article](http://davidwalsh.name/introduction-static-site-generators) for a more comprehensive explanation of how static site generators work.
