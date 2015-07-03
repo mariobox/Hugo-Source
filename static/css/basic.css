@@ -1,6 +1,5 @@
 /* FONT FACES */
 
-@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic);
 
@@ -20,7 +19,7 @@ body {
         font-family: Roboto, sans-serif;
         color: #222;
         line-height: 1.7em;
-        font-size: 1.05em;
+        font-size: 1.1em;
         margin: auto;
         width: 90%;
                 
@@ -51,7 +50,7 @@ a:hover {
       }
 
 header {
-        padding-top: 20px;
+        padding-top: 25px;
         padding-bottom: 30px;
                 
        }

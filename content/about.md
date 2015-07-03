@@ -21,7 +21,7 @@ I was born and raised in beautiful [Lima, Peru](http://farm5.staticflickr.com/41
 
 Equipped with a degree in Industrial Engineering and a couple of years of experience as an entrepreneur I moved to Miami in 1989, where I decided to pursue a career in marketing. I enrolled in the University of Miami on a merit scholarship and earned an MBA in marketing and international business.
 
-Since then, I have performed different [marketing and sales roles](http://www.linkedin.com/in/mariobox/) for large consumer goods companies doing business in the U.S. and Latin America. My core competencies are product marketing strategy, product development and international marketing. 
+Since then, I have performed different [marketing and sales roles](http://www.linkedin.com/in/mariobox/) for large consumer goods companies doing business in the U.S. and Latin America. My core competencies are product development, product marketing and international business. 
 
 <a name="2"></a>
 
@@ -31,17 +31,19 @@ Since then, I have performed different [marketing and sales roles](http://www.li
 
 * I'm defined as an [ISTJ](http://www.16personalities.com/istj-personality) introvert according to the Myers-Briggs personality type indicator. I am most comfortable by myself, and thrive in working environments that are challenging, process-driven and detail-oriented, and where I have the autonomy to set my own pace and make decisions.
 
-* I am an avid soccer fan. My reserved demeanor can quickly change when I'm watching my favorite team, Argentine side [River Plate](http://farm5.staticflickr.com/4055/4448440498_5d731b2102_z.jpg). I also follow Spain's La Liga, Italy's Serie A and the German Bundesliga.
+* I am an avid soccer fan. I rarely miss a game of my favorite team, Argentine side [River Plate](http://farm5.staticflickr.com/4055/4448440498_5d731b2102_z.jpg). I also follow Spain's La Liga, Italy's Serie A and the German Bundesliga.
 
-* I enjoy [reading](../reading/) books about marketing, personal development and biographies
+* I am a frequent traveler both for business and pleasure. So far, I've visited 36 different countries.
 
-* Other topics of interest to me are: personal finance and investment, self-directed learning and web development.
+* I enjoy [reading](../reading/) books about marketing, personal development and biographies.
+
+* Other topics of interest to me are: personal finance and investing, self-directed learning and web development.
 
 <a name="3"></a>
 
 ### About This Site ###
 
-This site is a DIY project to teach myself front end web development techniques. If you want to know the latest implementation details of this site read the [colophon](../colophon/).
+This site is a DIY project I started to learn and practice front end web development techniques. If you want to know about the latest implementation details of this site read the [colophon](../colophon/).
 
 
 <a name="4"></a>
