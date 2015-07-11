@@ -38,20 +38,20 @@ ul {
       }
 
 a:link {
-        color: #222;
-      }
+        color: #013ADF;
+        }
 
 a:visited {
-        color: #222;
+        color: #013ADF;
       }
 
 a:hover {
-        color: #222;
-      }
+        color: #013ADF;
+        }
 
 header {
-        padding-top: 25px;
-        padding-bottom: 30px;
+        padding-top: 0px;
+        padding-bottom: 0px;
                 
        }
 
@@ -98,9 +98,9 @@ footer {
 
 /* CLASSES */     
 
-.date {
+/*.date {
   color: #999;
-}
+}*/
 
 .profile {
   padding: 4px;
