@@ -2,14 +2,14 @@
 {{ partial "header.html" . }}
 
 
-<h1>Brief Bio</h1>
+<h2>Brief Bio</h2>
 
-<p>Product manager and technology enthusiast based in Miami, with a <a  href="http://www.linkedin.com/in/mariobox/">consistent track record</a> helping Fortune 500 companies succeed by developing and marketing consumer products specifically targeted to Latin America and other emerging economies.</p>
+<p>My name is <strong>Mario Sanchez Carrion</strong>. I am a product manager and technology enthusiast based in Miami, with a <a  href="http://www.linkedin.com/in/mariobox/">consistent track record</a> helping Fortune 500 companies succeed by developing and marketing consumer products specifically targeted to Latin America and other emerging economies.</p>
 <p>Other areas of interest are: <a href="/money-tips">personal finance and investing</a>, self-directed learning and <a href="../colophon/">web development</a>.</p>
 <h3><a href="/about/">More</a></h3>
+<hr />
 
-
-<h1>Blog Posts</h1>
+<h2>Blog Posts</h2>
 {{ range first 10 .Data.Pages }}
         {{ if eq .Type "blog"}}
 	      <p><span class="date"> {{ .Date.Format "2006-01-02" }} | </span> <span><a href="{{ .Permalink }}">{{ .Title }}</a></span></p>
@@ -19,7 +19,9 @@
 		    
 <h3><a href="/blog/">All Posts</a></h3>
 
-<h1>Recommended Reading</h1>
+<hr />
+
+<h2>Recommended Reading</h2>
 
 <p><a href="http://www.amazon.com/gp/product/0307463745/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307463745&linkCode=as2&tag=theinternet0f-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0307463745&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=0307463745" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
@@ -41,11 +43,14 @@
 
 <h3><a href="../reading/">All Reviews</a></h3>
 
-<h1>Travel</h1>
+<hr />
+
+<h2>Travel</h2>
 <p>I am a frequent traveler, both for business and pleasure. I regulary post pictures from my trips <a href="../travel/">here</a>.</p>
 
+<hr />
 
-<h1>Latest Tweets</h1>
+<h2>Latest Tweets</h2>
 
 <a class="twitter-timeline" href="https://twitter.com/mariobox" 
 data-widget-id="619601185633366016"  
@@ -58,11 +63,10 @@ data-tweet-limit="3">Tweets by @mariobox</a>
 
 <h3><a href="http://www.twitter.com/mariobox/">All Tweets</a></h3>
 
-<h1>Contact</h1>
+<hr />
+
+<h2>Contact</h2>
 <img src="../images/mypictr_165x165.jpg" class="profile">
 <p>The best way to contact me is by email: <a href="mailto:mario@mariosanchez.org">mario@mariosanchez.org</a>.</p><p>  You can also find me online at: <a href="http://www.twitter.com/mariobox/">Twitter</a>, <a href="http://www.linkedin.com/in/mariobox">LinkedIn</a>, <a href="http://www.github.com/mariobox">Github</a> and <a href="http://www.teamtreehouse.com/mariosanchezcarrion">Treehouse</a>.</p>
 
-{{ partial "footer.html" . }}    
-
-		      
-					
+{{ partial "footer.html" . }}   				

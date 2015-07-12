@@ -38,19 +38,21 @@ ul {
       }
 
 a:link {
-        color: #013ADF;
+        color: #3366ff;
+        font-weight: bold;
+        text-decoration: none;
         }
 
 a:visited {
-        color: #013ADF;
+        color: #3366ff;
       }
 
 a:hover {
-        color: #013ADF;
+        color: #3366ff;
         }
 
 header {
-        padding-top: 0px;
+        padding-top: 15px;
         padding-bottom: 0px;
                 
        }
