@@ -80,7 +80,11 @@ nav a:hover {
 }
 
 hr {
-     border-top: 1px solid #999;
+	border: solid #ddd;
+	clear: both;
+	border-width: 1px 0 0;
+	height: 0;
+	margin-bottom: .9em;
 }
 
 article {
