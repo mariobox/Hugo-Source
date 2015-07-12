@@ -59,14 +59,15 @@ header {
 
 nav {
   font-family: 'Roboto Condensed', sans-serif;
-  float: left;
-  margin-top: 5px;
-  font-size: 1em;
+  float: right;
+  margin-top: 4px;
+  font-size: 0.9em;
 }
 
 nav a:link {
         text-decoration: none;
         color: #555;
+        font-weight: normal;
 }
 
 nav a:visited {
@@ -147,6 +148,14 @@ footer {
 
 
 /* MEDIA QUERIES */
+
+@media screen and (max-width: 589px) {
+
+nav {
+   float: left;
+}
+
+}
 
 
 @media screen and (max-width: 450px) {
