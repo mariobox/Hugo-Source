@@ -19,4 +19,3 @@ slug = "italyinmotion"
 <p><p><img src="http://40.media.tumblr.com/fd86906b536ed214661e1d28f1df4578/tumblr_nogpcm9V3V1qz7ur9o2_1280.jpg" class="profile"><br /></p><br /></p>
 
 <p><p><img src="http://40.media.tumblr.com/3ee2ca933a64470933895b93420f68a0/tumblr_nogpcm9V3V1qz7ur9o4_1280.jpg" class="profile"><br /></p><br /></p>
-
