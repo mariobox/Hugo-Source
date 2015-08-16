@@ -1,8 +1,16 @@
 
-  {{ partial "header.html" . }}
+{{ partial "header.html" . }}
 
-    <h1>{{ .Title }}</h1>
-          {{ .Content }}
+<div class="contain">
+<div class="nine col">
 
-      {{ partial "footer.html" . }}
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+</div>
+
+{{ partial "sidebar.html" . }}
+
+{{ partial "footer.html" . }}
     

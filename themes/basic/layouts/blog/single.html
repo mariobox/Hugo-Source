@@ -1,13 +1,24 @@
 {{ partial "header.html" . }}
 
+<div class="contain">
+<div class="nine col">
+
 <h1>{{ .Title }}</h1>
     
-<div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+<div class="date">
+<p>
+{{ .Date.Format "January 2, 2006" }}
+</p>
+</div>
 
 
 {{ .Content }}
 
 <p>Tags: {{ range .Params.tags }}<a href="../../tags/{{ . }}">{{ . }}</a> {{ end }}</p>
+
+</div>
+
+{{ partial "sidebar.html" . }}
 
 
 {{ partial "footer.html" . }}

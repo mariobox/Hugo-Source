@@ -23,5 +23,5 @@ These are the tools and resources I'm currently using:
 
 * The fonts I am currently using are **Roboto** and **Roboto Condensed**, both available in [Google Fonts](http://www.google.com/fonts/).
 
-* For styling, I created an [ultra-simple CSS file](/css/basic.css) that renders a one-column responsive site that looks good in laptops, tablets and phones.
+* For styling, I am using a responsive css sheet called <em>framework.css</em> created by [Ev Bogue](http://www.evbogue) with some minor modifications to the font and line height selections.
 

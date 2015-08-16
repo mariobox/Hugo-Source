@@ -1,28 +1,25 @@
 
 {{ partial "header.html" . }}
 
+<div class="contain">
+<div class="nine col">
+
 
 <p>My name is <strong>Mario Sanchez Carrion</strong>. I am a product manager and technology enthusiast based in Miami.</p>
 <p>This is a simple personal page I created to learn how to build and deploy a website using a static site generator. I am currently using <a href="http://gohugo.io">Hugo</a>.</p>
 <p>Feel free to poke around the site. These are some <a href="/blog">things I've written</a>, some <a href="/reading/">books I've read</a> and some <a href="/travel/">places I've been</a>. For a more detailed personal profile visit my <a href="/about/">about page</a>.</p>
-<p>If you are tech-inclined and are interested in the implementation details of this site read the <a href="/colophon/">colophon</a>.
+<p>If you are tech-inclined and are interested in the implementation details of this site read the <a href="/colophon/">colophon</a>.</p>
 
-<hr />
+<h2>Stream</h2>
+<p><span class="date"> 2015-08-16 | </span> <span>Refactored site using <em>framework.css</em>, a responsive style sheet by <a href="http://www.evbogue">Ev Bogue</a>.</p>
+
+<p><span class="date"> 2015-08-12 | </span> <span>Added pictures from <a href="/brooklyn/">Brooklyn</a> trip.</p>
+
+<p><span class="date"> 2015-08-10 | </span> <span>Finished Reading <strong>Made To Stick</strong>.</p>
+
+</div>
 
 
-<h2>Contact</h2>
-<img src="../images/mypictr_165x165.jpg" class="profile">
-<p>The best way to contact me is by email: <a href="mailto:mario@mariosanchez.org">mario@mariosanchez.org</a>.</p>
-
-<p>You can also find me online in: 
-
-<ul>
-<li><a href="http://www.twitter.com/mariobox/">Twitter</a></li>
-<li><a href="http://www.linkedin.com/in/mariobox">LinkedIn</a></li>
-<li><a href="http://www.github.com/mariobox">Github</a></li>
-<li><a href="http://www.teamtreehouse.com/mariosanchezcarrion">Treehouse</a>.</li>
-</ul>
-
-</p>
+{{ partial "sidebar.html" . }}
 
 {{ partial "footer.html" . }}   				

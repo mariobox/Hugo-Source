@@ -1,13 +1,23 @@
 
 {{ partial "header.html" . }}
-  <h1>{{ .Title }}</h1>
 
-    {{ range first 15 .Data.Pages }}
-        {{ if eq .Type "blog"}}
-	      <p><span class="date"> {{ .Date.Format "2006-01-02" }} | </span> <span><a href="{{ .Permalink }}">{{ .Title }}</a></span></p>
-	          {{ end }}
-		    {{ end }}
+<div class="contain">
+<div class="nine col">
+  
+<h1>{{ .Title }}</h1>
 
+{{ range first 15 .Data.Pages }}
+
+{{ if eq .Type "blog"}}
+	      
+<p><span class="date"> {{ .Date.Format "2006-01-02" }} | </span> <span><a href="{{ .Permalink }}">{{ .Title }}</a></span></p>
+
+{{ end }}
+{{ end }}
+
+</div>
+
+{{ partial "sidebar.html" . }}
 		      
-					{{ partial "footer.html" . }}
+{{ partial "footer.html" . }}
 					

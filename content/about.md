@@ -6,7 +6,7 @@ slug = "about"
 +++
 
 
-<img src="http://farm5.staticflickr.com/4032/4447940514_44c70d069c_z.jpg" class="otherpic"><br />
+<img src="http://farm5.staticflickr.com/4032/4447940514_44c70d069c_z.jpg" class="roundcorners"><br />
 <a name="1"></a>
 
 ### Who Am I? ###
