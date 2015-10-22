@@ -16,7 +16,7 @@ url = "/now"
 
 I spend most of the time at my day job. Other than that, this is what I'm doing now:
 
-* Start my day with a 30-45 stretching routine followed by a healthy breakfast. Every day.
+* Start my day with a 30-45 minute stretching routine followed by a healthy breakfast. Every day.
 
 * Simplifying my life and constantly getting rid of stuff, with a [practical minimalism](http://www.mariosanchez.org/mini) frame of mind.
 
