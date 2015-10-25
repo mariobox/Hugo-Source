@@ -364,6 +364,8 @@ img.profile {
         border: 1px solid #ccc;
         box-shadow: 1px 3px 3px #ddd;
 	margin-bottom: 1em;
+        margin-right:2%;
+        float: left;
 }
 
 img {
@@ -453,3 +455,19 @@ button:active {
 .navbar a:link {
 	text-decoration: none;
 }
+
+nav {
+        margin-top: 5px;
+        text-align: left;
+}
+
+nav a:link {
+        text-decoration: none;
+        color: #222;
+}
+
+.logo {
+ float: left;
+ margin-right: 5%;
+ text-decoration: none;
+ }

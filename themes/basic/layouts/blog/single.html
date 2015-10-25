@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <div class="contain">
-<div class="nine col">
+<div class="eight col off-two">
 
 <h1>{{ .Title }}</h1>
     
@@ -16,9 +16,11 @@
 
 <p>Tags: {{ range .Params.tags }}<a href="../../tags/{{ . }}">{{ . }}</a> {{ end }}</p>
 
+<hr />
+
 </div>
 
-{{ partial "sidebar.html" . }}
+</div>
 
 
 {{ partial "footer.html" . }}
