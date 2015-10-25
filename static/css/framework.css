@@ -459,11 +459,22 @@ button:active {
 nav {
         margin-top: 5px;
         text-align: left;
+        color: #222;
 }
 
 nav a:link {
         text-decoration: none;
-        color: #222;
+        color: #999;
+}
+
+nav a:visited {
+        text-decoration: none;
+        color: #999;
+}
+
+nav a:active {
+        text-decoration: none;
+        color: #999;
 }
 
 .logo {
