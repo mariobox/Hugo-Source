@@ -7,6 +7,8 @@ slug = "travel"
 
 Places I've been. Things that caught my eye.
 
+[Milan and Cinque Terre](../cinqueterre/) - 2015
+
 [Brooklyn and Manhattan](../brooklyn/) - 2015
 
 [Lima](../lima/) - 2015
