@@ -1,6 +1,6 @@
 +++
 
-date = "2015-10-20"
+date = "2015-11-11"
 
 Categories = []
 
@@ -14,22 +14,26 @@ url = "/now"
 
 
 
-I spend most of the time at my day job. Other than that, this is what I'm doing now:
+This is how I spend my time these days:
 
-* Start my day with a 30-45 minute stretching routine followed by a healthy breakfast. Every day.
+* I start my day with a 30-45 minute stretching routine followed by a healthy breakfast. 
 
-* Simplifying my life and constantly getting rid of stuff, with a [practical minimalism](http://www.mariosanchez.org/mini) frame of mind.
+* I go to work every day, where I develop power tools that make people work faster, easier and more effectively.
 
-* Becoming more active managing and growing my investments. I am now focusing on undervalued stocks and real estate.
+* I am constantly simplifying my life and my surroundings, with a [practical minimalism](http://www.mariosanchez.org/mini) frame of mind.
 
-* Reading, mainly personal development and investment books. Currently reading:  [Other People's Money: Inside the Housing Crisis and the Demise of the Greatest Real Estate Deal Ever Made](http://www.amazon.com/Other-Peoples-Money-Housing-Greatest/dp/0142180718).
+* I monitor and manage my investments, focusing on undervalued stocks and real estate.
 
-* Learning to use a static site generator to update this site. Currently using [Hugo](http://gohugo.io) in conjuction with a responsive cascading style sheet.
+* I'm always [reading](../reading/) something. Currently, it's:  [Other People's Money: Inside the Housing Crisis and the Demise of the Greatest Real Estate Deal Ever Made](http://www.amazon.com/Other-Peoples-Money-Housing-Greatest/dp/0142180718).
 
-* Planning trips for the next few months. Possible destinations: Portland, Raleigh, Lima Peru, Greece.
+* I'm learning to use the [static site generator](http://gohugo.io) that powers this site. 
 
-* Figuring out how will I spend my next 30 years. No specifics yet, but it will be something I enjoy and am good at, and not dictated by the traditional yardsticks of success, like money, status or the opinion of others. The aim is to be happy and not stressed.
+* I'm planning trips for the next few months. Possible destinations: Portland, Raleigh, Peru, Greece, Iceland.
 
-This page was inspired by [Derek Sivers](http://www.sivers.org/nowff).
+* I keep in touch and spend time with my family.
 
-Last Updated: October 20, 2015
+* I rarely miss a game of my favorite soccer team, Argentine side River Plate.
+
+This page was inspired by the awesome [Derek Sivers](http://www.sivers.org/nowff).
+
+Last Updated: November 11, 2015
