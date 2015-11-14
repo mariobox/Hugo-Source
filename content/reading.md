@@ -22,7 +22,7 @@ slug = "reading"
 </h3>
 
 
-<p>Read this book to learn how to make people pay attention, remember, and act on your ideas. Learn to identify when others are trying to manipulate you, too! </p>
+<p>Read this book to learn how to make people pay attention, remember, and act on your ideas. Learn to frame ideas and concepts in a way that makes others care about your message. Next time you stumble upon a great  communicator, you'll recognize that they are applying  some or all of the techniques discussed in this book. </p>
 
 <hr />
 

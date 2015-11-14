@@ -1,6 +1,6 @@
 +++
 
-date = "2015-11-11"
+date = "2015-11-14"
 
 Categories = []
 
@@ -24,7 +24,7 @@ This is how I spend my time these days:
 
 * I monitor and manage my investments, focusing on undervalued stocks and real estate.
 
-* I'm always [reading](../reading/) something. Currently, it's:  [Other People's Money: Inside the Housing Crisis and the Demise of the Greatest Real Estate Deal Ever Made](http://www.amazon.com/Other-Peoples-Money-Housing-Greatest/dp/0142180718).
+* I'm always [reading](../reading/) something. Currently, it's:  [Why I Left Goldman Sachs](http://www.amazon.com/gp/product/B008ENA74E/ref=dp-kindle-redirect?ie=UTF8&btkr=1), by Greg Smith.
 
 * I'm learning to use the [static site generator](http://gohugo.io) that powers this site. 
 

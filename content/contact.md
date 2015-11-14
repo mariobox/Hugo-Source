@@ -9,10 +9,7 @@ The best way to reach me is by Email: <a href="mailto:mario@mariosanchez.org">ma
 
 You can also find me in:
 
-* [LinkedIn](http://www.linkedin.com/in/mariobox)
-* [Twitter](http://www.twitter.com/mariobox)
-* [Github](http://www.github.com/mariobox)
-* [Treehouse](http://www.teamtreehouse.com/mariosanchezcarrion)
-* [Instagram](http://www.instagram.com/mariosc305)
+[LinkedIn](http://www.linkedin.com/in/mariobox) | 
+[Instagram](http://www.instagram.com/mariosc305) | [Twitter](http://www.twitter.com/mariobox) | [Github](http://www.github.com/mariobox) | [Treehouse](http://www.teamtreehouse.com/mariosanchezcarrion)
 
 
