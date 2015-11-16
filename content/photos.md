@@ -1,8 +1,8 @@
 +++
-title = "Travel"
+title = "Photos"
 description = ""
 date = "2014-09-27"
-slug = "travel"
+slug = "photos"
 +++
 
 Places I've been. Things that caught my eye.

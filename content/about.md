@@ -13,7 +13,7 @@ slug = "about"
 
 My name is Mario Sanchez Carrion. I am a Miami-based marketing professional, industrial engineer and tech enthusiast. 
 
-I was born and raised in beautiful [Lima, Peru](http://farm5.staticflickr.com/4115/4935682049_a0215ceb6e_z.jpg), way before people started [raving](http://goo.gl/h0lZgl) about Peruvian food and calling our millenary landmarks [wonders of the world](http://news.nationalgeographic.com/news/2007/07/photogalleries/seven-wonders/photo5.html).
+I was born and raised in [Lima, Peru](http://farm5.staticflickr.com/4115/4935682049_a0215ceb6e_z.jpg), way before people started [raving](http://goo.gl/h0lZgl) about Peruvian food and calling our millenary landmarks [wonders of the world](http://news.nationalgeographic.com/news/2007/07/photogalleries/seven-wonders/photo5.html).
 
 Equipped with a degree in Industrial Engineering and a couple of years of experience as an entrepreneur I moved to Miami in 1989, where I decided to pursue a career in marketing. I enrolled in the University of Miami on a merit scholarship and earned an MBA in marketing and international business.
 
@@ -31,15 +31,15 @@ Since then, I have performed different [marketing and sales roles](http://www.li
 
 * I am a frequent traveler both for business and pleasure. So far, I've visited 55 different countries.
 
-* I enjoy [reading](../reading/) books about marketing, personal development and biographies.
+* I enjoy [reading](../reading/) books about marketing, invetsting, personal development and biographies.
 
-* Other topics of interest to me are: personal finance and investing, self-directed learning and web development.
+* I'm also interested in self-directed learning, education reform, and digital self reliance.
 
 <a name="3"></a>
 
 ### About This Site ###
 
-This site is a DIY project I started to learn and practice front end web development techniques. If you want to know about the latest implementation details of this site read the [colophon](../colophon/).
+This site is a DIY project to learn how to design and deploy a basic website. If you want to know what are the tools and technologies behind this site [it's all here](../colophon/).
 
 
 <a name="4"></a>
@@ -47,7 +47,5 @@ This site is a DIY project I started to learn and practice front end web develop
 ### How To Contact Me ###
 
 The best way to reach me is by Email: <a href="mailto:mario@mariosanchez.org">mario@mariosanchez.org</a>.
-
-You can also find me online at [Twitter](http://www.twitter.com/mariobox/), [LinkedIn](http://www.linkedin.com/in/mariobox), [Github](http://www.github.com/mariobox) and [Treehouse](http://www.teamtreehouse.com/mariosanchezcarrion).
 
 Please feel free to reach out (no pitching please).

@@ -82,6 +82,10 @@ p  {
 	margin-bottom: 1em;
 }
 
+p.small {
+        font-size: 0.8em;
+}
+
 li {
 	font-family: sans-serif;
 	font-size: 1em;
