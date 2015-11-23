@@ -246,16 +246,32 @@ pre code {
 	box-sizing: border-box;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 400px) and (max-width: 872px) {
+
+       .contain {
+                width: 90%
+}
+}
+
+
+@media (max-width: 873px) {
 	.contain {
-		width: 90%;
+		width: 80%;
 	}
 }
 
-@media (min-width: 829px) {
+
+@media (min-width: 874px) and (max-width: 1100px) {
+
+       .contain {
+                width: 70%
+}
+}
+
+@media (min-width: 1101px) {
 
         .contain {
-		width: 80%;
+		width: 65%;
 	}
 	.col {
 		padding-left: 1em;
