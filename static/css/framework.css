@@ -190,6 +190,11 @@ a:focus {
   color: #999;
 }
 
+mark {
+    background-color: #ccffcc;
+    color: black;
+}
+
 
 /* code */
 
