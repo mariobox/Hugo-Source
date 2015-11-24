@@ -63,6 +63,10 @@ article {
 	display: block;
 }
 
+html { 
+  overflow-y: scroll; 
+}
+
 
 /* typography */
 
@@ -382,6 +386,14 @@ pre code {
 
 img.roundcorners {
     border-radius: 3%;
+}
+
+img.roundnew {
+    border-radius: 10%;
+    border: 1px solid #ccc;
+    margin-bottom: 2em;
+    margin-right:2%;
+    float: left;
 }
         
 
