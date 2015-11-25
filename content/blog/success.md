@@ -23,22 +23,14 @@ Here they are:
 ### People
 
 * Family
-
 * Friends
-
 * Business Contacts
-
 * Mentors
-
 * Heroes/Role Models
-
 * Peers
 * Advisors
-
 * Students
-
 * Clients
-
 * Service Providers
 
 
@@ -46,37 +38,22 @@ Here they are:
 ### Resources
 
 * Cash
-
 * Stocks/Bonds/Mutual Funds
-
 * Stock Options
-
 * 401K/IRAs Retirement Accounts
-
 * Real Estate
-
 * Vehicles
-
 * Computer
-
 * Tablet
-
 * Phone
-
 * Other Professional Equipment
 * Lines of Credit
-
 * Credit Cards
-
 * Digital Assets (domain, website, profiles)
-
 * Corporations
-
 * Processes/Systems
 * Patents
-
 * Royalties
-
 * Brands
 
 
@@ -84,26 +61,15 @@ Here they are:
 ### Self
 
 * Values
-
 * Skills
-
 * Health
-
 * Education
-
-
 * Style/Image
-
 * Habits
-
 * Traditions
-
 * Goals and Objectives
-
 * Personal Branding
-
 * Management Style
-
 * Personality Profile
 
 
@@ -112,21 +78,13 @@ Here they are:
 ### Credentials
 
 * Degrees
-
 * Resume
-
 * Testimonials
-
 * Letters of Recommendation
-
 * Portfolio
-
 * Credit Score
-
 * Business Licenses
-
 * Passports
-
 * Visas
 * Driver License
 
@@ -137,16 +95,10 @@ Here they are:
 * Student Associations
 * Political Affiliations
 * Religious Organizations
-
 * Community Organizations
-
 * Mastermind Groups
-
 * Professional Organizations
-
 * Charities
-
 * Boards
-
 * Frequent Flyer Programs
 * Clubs

@@ -16,7 +16,7 @@ url = "/mini"
 
 There's a lot of talk about minimalism these days, and much confusion about what it means. While I'm far from being an authority on the subject (I consider myself a minimalist-in-training) I'm going to throw in my two cents and explain what minimalism means to me.
 
-Minimalism doesn't mean that we have to turn into some sort of Buddhist monk going through life with six or seven worldly possessions.  Getting rid of stuff is not the goal here, but rather the consequence of choosing to live in a more deliberate way. 
+Minimalism doesn't mean that we have to turn into some sort of Buddhist monk going through life with six or seven worldly possessions.  <mark>Getting rid of stuff is not the goal here, but rather the consequence of choosing to live in a more deliberate way</mark>. 
 
 Minimalism starts by understanding that everything we surround ourselves with either adds value to our life or is just taking space. Things add value by being useful or by bringing us joy. Everything we let into our lives has to earn it's place. 
 
