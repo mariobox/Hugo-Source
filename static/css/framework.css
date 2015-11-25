@@ -410,6 +410,23 @@ img {
 	max-width: 100%;
 }
 
+li.travpic {
+  width: 120px;
+  margin-right: 20px;
+  margin-bottom: 20px;margin-bottom: 20px;
+  list-style-type: none;
+  display: inline-block;
+  font-size: 0.8em;
+  
+}
+
+img.travpic {
+    border-radius: 10%;
+    border: 1px solid #ccc;
+    width: 120px;
+    
+}
+
 
 /* button */
 
