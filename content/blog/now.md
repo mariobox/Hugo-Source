@@ -1,6 +1,6 @@
 +++
 
-date = "2015-11-14"
+date = "2015-11-23"
 
 Categories = []
 
@@ -36,4 +36,4 @@ This is how I spend my time these days:
 
 This page was inspired by the awesome [Derek Sivers](http://www.sivers.org/nowff).
 
-Last Updated: November 14, 2015
+Last Updated: November 23, 2015
