@@ -32,7 +32,7 @@ This is how I spend my time these days:
 
 * I keep in touch and spend time with my family.
 
-* I rarely miss a game of my favorite soccer team, Argentine side River Plate.
+* I rarely miss a game of my favorite soccer team, Argentine side [River Plate](http://farm5.staticflickr.com/4055/4448440498_5d731b2102_z.jpg).
 
 This page was inspired by the awesome [Derek Sivers](http://www.sivers.org/nowff).
 
