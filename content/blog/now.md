@@ -24,7 +24,7 @@ This is how I spend my time these days:
 
 * I monitor and manage my investments, focusing on undervalued stocks and real estate.
 
-* I'm always [reading](../reading/) something. Currently, it's:  [Why I Left Goldman Sachs](http://www.amazon.com/gp/product/B008ENA74E/ref=dp-kindle-redirect?ie=UTF8&btkr=1), by Greg Smith.
+* I'm always [reading](../reading/) something.
 
 * I'm learning to use the [static site generator](http://gohugo.io) that powers this site. 
 
@@ -36,4 +36,4 @@ This is how I spend my time these days:
 
 This page was inspired by the awesome [Derek Sivers](http://www.sivers.org/nowff).
 
-Last Updated: November 11, 2015
+Last Updated: November 23, 2015
