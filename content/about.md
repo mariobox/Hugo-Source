@@ -39,7 +39,7 @@ Since then, I have performed different [marketing and sales roles](http://www.li
 
 ### About This Site ###
 
-This site is a DIY project to learn how to design and deploy a basic website. If you want to know what are the tools and technologies behind this site [it's all here](../colophon/).
+This site is a DIY project to learn how to design and deploy a basic website. If you want to know how this site is made [it's all here](../colophon/).
 
 
 <a name="4"></a>
