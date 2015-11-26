@@ -19,37 +19,37 @@ Italy - 2015</a>
 NYC - 2015</a>
 </li>
 <li class="travpic">
-<a href="http://../lima/">
+<a href="../lima/">
 <img src="https://41.media.tumblr.com/9439de5a70d9c47640a63d76f335eb98/tumblr_nplc2hPYSe1qz7ur9o3_1280.jpg" class="travpic">
 Lima - 2015</a>
 </li>
 <li class="travpic">
-<a href="http://../bogota/">
+<a href="../bogota/">
 <img src="http://36.media.tumblr.com/9245d7420ec6e64cc74bfa89e38e9b46/tumblr_nmnn7lm1sF1qz7ur9o1_1280.jpg" class="travpic">
 Bogota - 2015</a>
 </li>
 <li class="travpic">
-<a href="http://../dubai/">
+<a href="../dubai/">
 <img src="http://36.media.tumblr.com/82e0df387de60828e2b08c98089b3dff/tumblr_nm3x24PUSv1qz7ur9o6_1280.jpg" class="travpic">
 Dubai - 2015</a>
 </li>
 <li class="travpic">
-<a href="http://../russia/">
+<a href="../russia/">
 <img src="http://36.media.tumblr.com/e86708ba4dd6bb60ff08d66bf2ac982d/tumblr_njsbq6nX1b1qz7ur9o1_1280.jpg" class="travpic">
 Russia - 2014</a>
 </li>
 <li class="travpic">
-<a href="http://../barcelona/">
+<a href="../barcelona/">
 <img src="http://40.media.tumblr.com/cd6a1cdfe4ec9fb42b30b35cf04acd04/tumblr_njsq1q59J91qz7ur9o1_1280.jpg" class="travpic">
 Barcelona - 2013</a>
 </li>
 <li class="travpic">
-<a href="http://../madrid/">
+<a href="../madrid/">
 <img src="http://40.media.tumblr.com/c55b8b9419b8926e08f14069954c92a2/tumblr_njuixeTKsk1qz7ur9o1_1280.jpg" class="travpic">
 Madrid - 2013</a>
 </li>
 <li class="travpic">
-<a href="http://../italyinmotion/">
+<a href="../italyinmotion/">
 <img src="http://41.media.tumblr.com/09784396750c3cdfab2cb0d5379f2160/tumblr_nogpcm9V3V1qz7ur9o7_1280.jpg" class="travpic">
 IIM - 2013</a>
 </li>
