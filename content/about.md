@@ -13,7 +13,7 @@ slug = "about"
 
 My name is Mario Sanchez Carrion. I am a Miami-based marketing professional, industrial engineer and tech enthusiast. 
 
-I was born and raised in [Lima, Peru](http://farm5.staticflickr.com/4115/4935682049_a0215ceb6e_z.jpg), way before people started [raving](http://goo.gl/h0lZgl) about Peruvian food and calling our millenary landmarks [wonders of the world](http://news.nationalgeographic.com/news/2007/07/photogalleries/seven-wonders/photo5.html).
+I was born and raised in [Lima, Peru](http://farm5.staticflickr.com/4115/4935682049_a0215ceb6e_z.jpg), before people started [raving](http://goo.gl/h0lZgl) about Peruvian food and calling our millenary landmarks [wonders of the world](http://news.nationalgeographic.com/news/2007/07/photogalleries/seven-wonders/photo5.html).
 
 Equipped with a degree in Industrial Engineering and a couple of years of experience as an entrepreneur I moved to Miami in 1989, where I decided to pursue a career in marketing. I enrolled in the University of Miami on a merit scholarship and earned an MBA in marketing and international business.
 
@@ -46,6 +46,4 @@ This site is a DIY project to learn how to design and deploy a basic website. If
 
 ### How To Contact Me ###
 
-The best way to reach me is by Email: <a href="mailto:mario@mariosanchez.org">mario@mariosanchez.org</a>.
-
-Please feel free to reach out (no pitching please).
+The best way to reach me is by Email: <a href="mailto:mario@mariosanchez.org">mario@mariosanchez.org</a>. I'm also in some [social networks](../contact/), although I usually don't spend a lot of time in them.

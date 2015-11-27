@@ -16,7 +16,9 @@ url = "/best-tools"
 
 When I was growing up in Peru back in the 80's I used to play tennis every weekend. I was never very good at it, but I loved to have the coolest rackets and shoes. Back then that meant either a [Dunlop Maxply](http://www.80s-tennis.com/pages/maxply-fort_80-ad.html) or a [Wilson Jack Kramer](http://racquetmuseum.com/2014/01/23/wilson-jack-kramer-autograph/) racket, and a pair of [Adidas Stan Smith](https://en.wikipedia.org/wiki/Adidas_Stan_Smith) tennis shoes. Needless to say, none of those tools made me be a better player. They were just status symbols.
 
-There is a right time for buying yourself great tools, but it is usually not when you are just a beginner or a dabbler. At the early stages of every endevour, focused and disciplined practice will get you further than using the latest gadgets. 
+There is a right time for buying yourself great tools, but it is usually not when you are just a beginner or a dabbler. <mark>At the early stages of any endevour, focused and disciplined practice will get you further than using the latest gadgets</mark>. 
+
+For example:
 
 * Rather than asking "what blogging platform should I use?" develop the habit of writing often and see if it is something you want to pursue. 
 
