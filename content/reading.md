@@ -11,7 +11,7 @@ slug = "reading"
 
 <p><a rel="nofollow" href="http://www.amazon.com/gp/product/1455527475/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455527475&linkCode=as2&tag=theinternet0f-20&linkId=MXIBWQ3BHWAMI2HL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1455527475&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" width="100px"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=1455527475" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <h3><a rel="nofollow" href="http://www.amazon.com/gp/product/1455527475/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455527475&linkCode=as2&tag=theinternet0f-20&linkId=2ZPZILUMQ7AZOC2J">Why I Left Goldman Sachs: A Wall Street Story</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=theinternet0f-20&l=as2&o=1&a=1455527475" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h3>
-<p>Fascinating insider stroy about the culture of one of Wall Street's most iconic institutions, through the eyes of somebody who went through all the motions until he decided it was time to leave. </p><p>
+<p>Fascinating insider story about the culture of one of Wall Street's most iconic institutions, through the eyes of somebody who went through all the motions until he decided it was time to leave. </p><p>
 
 
 Some critics have dismissed Smith's account as oportunistic or naive, but the bottom line is that it sheds a powerful light on some of Wall Street's worse practices. </p><p>
