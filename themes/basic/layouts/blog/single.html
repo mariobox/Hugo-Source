@@ -14,7 +14,13 @@
 
 {{ .Content }}
 
-<p>Tags: <span class="tag">{{ range .Params.tags }}<a href="../../tags/{{ . }}">{{ . }}</a></span><span class="tag">{{ end }}</span></p>
+<br />
+
+<p><strong>Tags:</strong> 
+<ul>
+{{ range .Params.tags }}<li id="tags"> <a href="../../tags/{{ . }}">{{ . }}</a> </li>{{ end }}
+</ul>
+</p>
 
 <hr />
 
