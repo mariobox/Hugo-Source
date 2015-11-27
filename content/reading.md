@@ -14,10 +14,10 @@ slug = "reading"
 <p>Fascinating insider stroy about the culture of one of Wall Street's most iconic institutions, through the eyes of somebody who went through all the motions until he decided it was time to leave. </p><p>
 
 
-Some critics have dismissed Smith's account as oportunistic or naive, but the bottom line is that his book sheds a powerful light on some of Wall Street's worse practices. </p><p>
+Some critics have dismissed Smith's account as oportunistic or naive, but the bottom line is that it sheds a powerful light on some of Wall Street's worse practices. </p><p>
 
 
-Required reading for all those who seek to understand the role of corporate politics business and how it can advance or hinder a business career.</p>
+Required reading for those who seek to understand corporate politics and how it can advance or hinder a business career.</p>
 <hr />
 
 <p><a rel="nofollow" href="http://www.amazon.com/gp/product/0142180718/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142180718&linkCode=as2&tag=theinternet0f-20&linkId=JSVFCTQYRFLRES6G"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0142180718&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=theinternet0f-20" width=
