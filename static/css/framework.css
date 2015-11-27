@@ -445,14 +445,28 @@ li.travpic {
   list-style-type: none;
   display: inline-block;
   font-size: 0.8em;
+  text-transform: uppercase;
+  text-align: center;
   
+}
+
+.travpic a:link {
+  text-decoration: none;
+}
+
+.travpic a:visited {
+  text-decoration: none;
+}
+
+.travpic a:active {
+  text-decoration: none;
 }
 
 img.travpic {
     border-radius: 10%;
     border: 1px solid #ccc;
     width: 120px;
-    
+        
 }
 
 
