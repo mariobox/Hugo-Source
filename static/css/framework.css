@@ -267,6 +267,18 @@ li#tags {
     color: #222;
 }
 
+.menu {
+    font-weight: normal;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+.menu a:hover {
+    color: #222;
+    font-weight: bold;
+}
+
 /* grid */
 
 .contain {
