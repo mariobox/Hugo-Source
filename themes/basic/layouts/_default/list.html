@@ -6,6 +6,12 @@
   
 <h1>{{ .Title }}</h1>
 
+<p>
+                    {{ if eq .Title "Blog" }}
+                      {{ .Site.Params.blogblurb }}
+                    {{ end }}
+                </p>
+
 {{ range first 15 .Data.Pages }}
 
 {{ if eq .Type "blog"}}
