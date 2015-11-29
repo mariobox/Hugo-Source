@@ -25,3 +25,5 @@ These are the tools and resources I'm currently using:
 
 * For styling, I am using a responsive css sheet called <em>framework.css</em> created by [Ev Bogue](http://www.evbogue) with some minor modifications to the font and line height selections.
 
+I have also created a [humans.txt](../humans.txt) file, which contains pretty much the same information as above, but in a more standard format, as suggested by the [Humanstxt](http://humanstxt.org) organization.
+
