@@ -90,13 +90,6 @@ p.small {
         font-size: 0.8em;
 }
 
-li {
-	font-family: sans-serif;
-	font-size: 1em;
-	line-height: 1.5em;
-	margin-bottom: 1em;
-}
-
 ul,
 ol {
 	margin-bottom: 1em;
@@ -107,9 +100,13 @@ ul {
 }
 
 li {
-	margin-bottom: .38em;
+	font-family: sans-serif;
+	font-size: 1em;
+	line-height: 1.5em;
+        margin-bottom: .38em;
 	margin-left: 1em;
 }
+
 
 h1,
 h2,
@@ -239,6 +236,7 @@ pre code {
 }
 
 
+/* tags */
 
 li#tags {
     padding: 2px;
@@ -267,6 +265,9 @@ li#tags {
     color: #222;
 }
 
+
+/* menu items */
+
 .menu {
     font-weight: normal;
     float: right;
@@ -278,6 +279,7 @@ li#tags {
     color: #222;
     font-weight: bold;
 }
+
 
 /* grid */
 
@@ -295,21 +297,11 @@ li#tags {
 	box-sizing: border-box;
 }
 
-@media (max-width: 888px) {
-       .contain {
-                width: 90%
-}
-}
 
-
-@media (min-width: 889px) {
-	.contain {
-		width: 952px;
-}
 .col {
-		padding-left: 1em;
-		padding-right: 1em;
-		box-sizing: border-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	box-sizing: border-box;
 	}
 	.col:first-child {
 		padding-left: 1em;
@@ -360,7 +352,9 @@ li#tags {
 	.one-half.col {
 		width: 50%;
 	}
+
 	/* Offsets */
+
 	.off-one.col {
 		margin-left: 8%;
 	}
@@ -403,10 +397,22 @@ li#tags {
 	.off-one-half.col {
 		margin-left: 50%;
 	}
+
+
+/* media queries */
+
+@media (max-width: 888px) {
+       .contain {
+                width: 90%
+}
 }
 
 
-
+@media (min-width: 889px) {
+	.contain {
+		width: 952px;
+}
+}
 
 
 /* images */
@@ -517,9 +523,11 @@ button:active {
 }
 
 
-/* navbar */
+/* navigation */
 
-.navbar {
+# Not using .nav bar for now but leaving in just in case #
+
+/*.navbar {
 	background: #eee;
 	background: linear-gradient(#fff, #eee);
 	width: 100%;
@@ -551,6 +559,7 @@ button:active {
 .navbar a:link {
 	text-decoration: none;
 }
+*/
 
 nav {
         margin-top: 5px;
@@ -573,8 +582,3 @@ nav a:active {
         color: #999;
 }
 
-.logo {
- float: left;
- margin-right: 5%;
- text-decoration: none;
- }
