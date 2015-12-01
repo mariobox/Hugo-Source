@@ -408,13 +408,13 @@ li#tags {
 }
 
 
-@media (min-width: 889px) and (max-width: 950px) {
+@media (min-width: 889px) and (max-width: 1024px) {
 	.contain {
 		width: 80%;
 }
 }
 
-@media (min-width: 951px) {
+@media (min-width: 1025px) {
         .contain {
                 width: 70%;
 }
