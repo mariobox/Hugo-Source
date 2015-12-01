@@ -5,7 +5,7 @@ date = "2014-09-27"
 slug = "about"
 +++
 
-<p><img src="../images/msc-rio.JPG" class="roundcorners"></p>
+<p><img src="http://mariosanchez.org/images/msc-rio.jpg" class="roundcorners"></p>
 
 <a name="1"></a>
 

@@ -403,17 +403,22 @@ li#tags {
 
 @media (max-width: 888px) {
        .contain {
-                width: 90%
+                width: 95%;
 }
 }
 
 
-@media (min-width: 889px) {
+@media (min-width: 889px) and (max-width: 950px) {
 	.contain {
-		width: 952px;
+		width: 80%;
 }
 }
 
+@media (min-width: 951px) {
+        .contain {
+                width: 70%;
+}
+}
 
 /* images */
 
