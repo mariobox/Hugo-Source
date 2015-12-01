@@ -5,14 +5,13 @@ date = "2014-09-27"
 slug = "about"
 +++
 
+<p><img src="../images/msc-rio.JPG" class="roundcorners"></p>
 
 <a name="1"></a>
 
 My name is Mario Sanchez Carrion. I am a **Miami-based marketing professional**, industrial engineer and tech enthusiast. 
 
-I was born and raised in [Lima, Peru](http://farm5.staticflickr.com/4115/4935682049_a0215ceb6e_z.jpg), before people started [raving](http://goo.gl/h0lZgl) about Peruvian food (it's that good!) and calling our millenary landmarks [wonders of the world](http://news.nationalgeographic.com/news/2007/07/photogalleries/seven-wonders/photo5.html) (they're worth visiting!).
-
-Equipped with a degree in **Industrial Engineering** and a couple of years of experience as an entrepreneur I moved to Miami in 1989, where I decided to pursue a career in marketing. I enrolled in the University of Miami on a merit scholarship and earned an **MBA in marketing and international business**.
+I was born and raised in [Lima, Peru](http://farm5.staticflickr.com/4115/4935682049_a0215ceb6e_z.jpg). Equipped with a degree in **Industrial Engineering** and a couple of years of experience as an entrepreneur I moved to Miami in 1989, where I decided to pursue a career in marketing. I enrolled in the University of Miami on a merit scholarship and earned an **MBA in marketing and international business**.
 
 Since then, I have developed  [my career](http://www.linkedin.com/in/mariobox/) in large consumer goods companies doing business in the **U.S. and Latin America**. 
 
