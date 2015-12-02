@@ -23,7 +23,7 @@ These are the tools and resources I'm currently using:
 
 * The fonts I am currently using are **Roboto** and **Roboto Condensed**, both available in [Google Fonts](http://www.google.com/fonts/).
 
-* For styling, I am using a responsive css sheet called <em>framework.css</em> created by [Ev Bogue](http://www.evbogue) with some minor modifications to the font and line height selections.
+* For styling, I am using a minimal css sheet that I put together from scratch. I used to run a resposive multi-column framework but for the effects of this site (just one column) it was overkill, so I stopped using it. For more complicated sites, though, a responsive framework is the way to go.
 
 I have also created a [humans.txt](../humans.txt) file, which contains pretty much the same information as above, but in a more standard format, as suggested by the [Humanstxt](http://humanstxt.org) organization.
 
