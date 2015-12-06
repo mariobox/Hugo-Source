@@ -5,18 +5,20 @@
 <h1>{{ .Title }}</h1>
 
 <p>
-                    {{ if eq .Title "Blog" }}
-                      {{ .Site.Params.blogblurb }}
-                    {{ end }}
-                </p>
-
-{{ range first 15 .Data.Pages }}
-
-{{ if eq .Type "blog"}}
-	      
-<p><span class="date"> {{ .Date.Format "2006-01-02" }} | </span> <span><a href="{{ .Permalink }}">{{ .Title }}</a></span></p>
-
+{{ if eq .Title "Blog" }}
+{{ .Site.Params.blogblurb }}
 {{ end }}
+</p>
+
+{{ range .Data.Pages.GroupByDate "2006" }}
+<h3>{{ .Key }}</h3>
+<ul class="nobullet">
+    {{ range .Pages }}
+    <li>
+    <div class="meta"><span class="date">{{ .Date.Format "2006-01-02" }}</span> | <a href="{{ .Permalink }}">{{ .Title }}</a></div>
+    </li>
+    {{ end }}
+</ul>
 {{ end }}
 
 <hr />
