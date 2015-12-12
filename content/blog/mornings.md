@@ -4,7 +4,7 @@ date = "2015-11-23"
 
 Categories = []
 
-Tags = ["life"]
+Tags = ["life", "productivity"]
 
 Description = ""
 

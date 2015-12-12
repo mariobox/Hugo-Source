@@ -4,7 +4,7 @@ date = "2015-01-26"
 
 Categories = []
 
-Tags = ["business"]
+Tags = ["business", "productivity"]
 
 Description = ""
 
