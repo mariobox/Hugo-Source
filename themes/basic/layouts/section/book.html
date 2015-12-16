@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+
+<h1>{{ .Title }}</h1>
+
+<p>{{ .Site.Params.bookblurb }}</p>
+
+<hr />
+
+{{ range .Data.Pages }}
+{{ .Render "summary" }}
+<br />
+<hr />
+
+{{ end }}
+
+<br />
+
+{{ partial "footer.html" . }}
