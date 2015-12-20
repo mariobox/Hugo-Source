@@ -262,8 +262,8 @@ li#tags {
 
 .menu {
     font-weight: normal;
-    float: right;
-    margin-left: 30px;
+    float: left;
+    margin-right: 30px;
     
 }
 
@@ -283,8 +283,7 @@ img.roundcorners {
 img.roundnew {
     border-radius: 10%;
     border: 1px solid #ccc;
-    margin-bottom: 2em;
-    margin-right:2%;
+    margin-bottom: 0.5em;
     float: left;
 }
         
@@ -405,3 +404,88 @@ nav a:active {
         text-decoration: none;
         color: #999;
 }
+
+/* Grid */
+
+.contain {
+	position: relative;
+	width: 100%;
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+
+.col {
+	width: 100%;
+	float: left;
+        padding-bottom: 1em;
+	box-sizing: border-box;
+}
+/* For devices larger than 400px */
+
+@media (min-width: 400px) {
+	.contain {
+		width: 100%;
+		padding: 0;
+	}
+}
+/* For devices larger than 550px */
+
+@media (min-width: 550px) {
+	.contain {
+		width: 100%;
+	}
+	.col {
+		margin-left: 0.5em;
+		box-sizing: border-box;
+	}
+
+        .col:first-child {
+		margin-left: 0;
+	}
+	
+	.one.col {
+		width: 8%;
+	}
+	.two.col {
+		width: 16%;
+	}
+	.three.col {
+		width: 24%;
+	}
+	.four.col {
+		width: 32%;
+	}
+	.five.col {
+		width: 40%;
+	}
+	.six.col {
+		width: 48%;
+	}
+	.seven.col {
+		width: 56%;
+	}
+	.eight.col {
+		width: 64%;
+	}
+	.nine.col {
+		width: 72%;
+	}
+	.ten.col {
+		width: 80%;
+	}
+	.eleven.col {
+		width: 88%;
+	}
+	.twelve.col {
+		width: 100%;
+		margin-left: 0;
+	}
+	.one-third.col {
+		width: 33.3%;
+	}
+	.two-thirds.col {
+		width: 66.6%;
+	}
+	.one-half.col {
+		width: 50%;
+	}
