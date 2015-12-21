@@ -1,11 +1,12 @@
 
 {{ partial "header.html" . }}
 
-
 <h1>{{ .Title }}</h1>
 
 {{ range .Data.Pages.GroupByDate "2006" }}
+
 <h3>{{ .Key }}</h3>
+
 <ul class="nobullet">
     {{ range .Pages }}
     {{ .Render "li" }}
@@ -14,9 +15,5 @@
 
 {{ end }}
 
-
-
-
-		      
 {{ partial "footer.html" . }}
 					

@@ -1,24 +1,23 @@
 {{ partial "header.html" . }}
 
-
 <h1>{{ .Title }}</h1>
     
 <div class="date">
+
 <p>
 {{ .Date.Format "January 2, 2006" }} - {{ .FuzzyWordCount }} Words
 </p>
-</div>
 
+</div>
 
 {{ .Content }}
 
 <br />
 
-<p><strong>Tags:</strong> 
+<p><strong>Tags:</strong></p> 
+
 <ul>
 {{ range .Params.tags }}<li id="tags"> <a href="../../tags/{{ . }}">{{ . }}</a> </li>{{ end }}
 </ul>
-</p>
-
 
 {{ partial "footer.html" . }}
