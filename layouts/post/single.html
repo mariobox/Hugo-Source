@@ -5,7 +5,7 @@
 <div class="date">
 
 <p>
-{{ .Date.Format "January 2, 2006" }} - {{ .FuzzyWordCount }} Words
+{{ .Date.Format "January 2, 2006" }} - {{ .WordCount }} Words
 </p>
 
 </div>
@@ -16,8 +16,20 @@
 
 <p><strong>Tags:</strong></p> 
 
+{{ $baseurl := .Site.BaseURL }}
+
 <ul>
-{{ range .Params.tags }}<li id="tags"> <a href="../../tags/{{ . }}">{{ . }}</a> </li>{{ end }}
+{{ range .Params.tags }}<li id="tags"> <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> </li>{{ end }}
 </ul>
+
+<center>
+
+<div>
+	{{ if .PrevInSection }}<a href="{{ .PrevInSection.Permalink }}">Previous</a> | {{ end }}<a href="{{ $baseurl }}/post/">Blog</a>{{ if .NextInSection }} | <a href="{{ .NextInSection.Permalink }}">Next</a>{{ end }}
+</div>
+
+</center>
+
+<br />
 
 {{ partial "footer.html" . }}

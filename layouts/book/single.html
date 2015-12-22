@@ -7,8 +7,10 @@
 
 <p><strong>Tags:</strong> 
 
+{{ $baseurl := .Site.BaseURL }}	
+
 <ul>
-{{ range .Params.tags }}<li id="tags"> <a href="../../tags/{{ . }}">{{ . }}</a> </li>{{ end }}
+{{ range .Params.tags }}<li id="tags"> <a href="{{ $baseurl }}/tags/{{ . }}">{{ . }}</a> </li>{{ end }}
 </ul>
 
 </p>
