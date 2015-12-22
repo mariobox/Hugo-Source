@@ -8,7 +8,7 @@ Tags = ["books"]
 
 Description = ""
 
-title = "Other People's Money: Inside the Housing Crisis and the Demise of the Greatest Real Estate Deal Ever Made"
+title = "Other People's Money"
 url = "/opm/"
 +++
 
