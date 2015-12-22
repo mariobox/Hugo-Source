@@ -16,7 +16,7 @@ url = "/sgtci/"
 
 <img src="/images/sgtci.jpg" width="100px">
 
-The carrer advice I wish I had received when I was 18 years old. This book exposes the "follow your passion" myth and argues that the best way to be successful and happy at work is to become extremely good at what we do. Read it before embarking on any significant career change or if you're trying to get more satisfaction out of your current job or career.
+The career advice I wish I had received when I was 18 years old. This book exposes the "follow your passion" myth and argues that the best way to be successful and happy at work is to become extremely good at what we do. Read it before embarking on any significant career change or if you're trying to get more satisfaction out of your current job or career.
 
 <!--more-->
 
