@@ -42,13 +42,13 @@ Creates a Git repository in the current folder.
 
 <pre><code>git clone /path/to/repository</code></pre>
 
-Clones (makes a working copy) of a repository you want to have in your computer. If the repository is in a repository host like [Github](http://www.github.com) the repository will typically have a URL like: https://github.com/username/username.github.io.git.
+Clones (makes a working copy) of an existing repository. If the repository is in a host like [Github](http://www.github.com) the path to repository will typically be a URL like: https://github.com/username/username.github.io.git.
 
 -----
 
 <pre><code>git status -s</code></pre>
 
-Shows you the status of files in current directory, in short notation. You will get one or two characters to the left of the file name: 
+Shows you the status of files in the current directory, in short notation. You will get one or two characters to the left of the file name: 
 
 * M: the file has been modified
 * A: new file that has been added to the staging area
@@ -57,7 +57,9 @@ Shows you the status of files in current directory, in short notation. You will 
 
 -----
 
-<pre><code>git add file name</code></pre>, or
+<pre><code>git add file name</code></pre>
+
+or
 
 <pre><code>git add --all</code></pre>
 
@@ -79,4 +81,4 @@ Pushes (uploads) your changes to your remote repository.
 
 <pre><code>git pull origin master</code></pre>
 
-If you've made changes to your remote repository that are not reflected in your local repository, this command will merge (copy) those changes to your local repository. This is very useful when you mess something up in your local repository and want your files to revert back to the state they were when they were last pushed to your remote.
+If you've made changes to your remote repository that are not reflected in your local repository, this command will merge (copy) those changes to your local repository. This is very useful when you mess something up in your local and want your files to revert back to the state they were when they were last pushed to your remote.
