@@ -129,13 +129,13 @@ These are good for the common areas of your site. Go ahead and create:
 * header.html (includes a link to the style sheet and the site's navigation)
 * footer.html (for copyright or similar info)
 
-Place this templates in a folder called /layouts/partials/. These partial templates can be called from any other template (for example from single.hmtl or list.html) by simply using the following code within those templates:
+Place these templates in a folder called /layouts/partials/. These partial templates can be called from any other template (for example from single.hmtl or list.html) by simply using the following code within those templates:
 
 <pre><code>{{ partial "header.html" . }}</code></pre>
 
 or 
 
-<pre><code>{{ partial "footer.html . "}}</code></pre>
+<pre><code>{{ partial "footer.html" . }}</code></pre>
 
 -----
 
@@ -173,6 +173,8 @@ Once you have created content and templates it's time to view your site. Type th
 
 If everything went well Hugo will generate your website and you will be able to see it at http://localhost:1313 . 
 
+-----
+
 #### Get your site ready to upload
 
 Once you're satisfied with the way your site looks, run the hugo command by itself:
@@ -183,9 +185,9 @@ You are now ready to upload or git push your site to your web hosting service.
 
 -----
 
-*Update:*
+**Update:**
 
-If you don't want to start from scratch, I have created a Minimal Hugo Site and git pushed the [source code](https://github.com/mariobox/MinimalHugoSite) to github.
+If you don't want to start from scratch, I have created a Minimal Hugo Site and git pushed the [source code](https://github.com/mariobox/MinimalHugoSite) to Github.
 
 You can simply clone the repository by running:
 
