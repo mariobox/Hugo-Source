@@ -15,7 +15,7 @@ url = "/minimalhugo"
 +++
 
 
-These are the instructions to create a minimal, functional Hugo site. For more information read the [Hugo Documentation](http://gohugo.io/overview/introduction/)
+These are the instructions to create a minimal, functional Hugo site. For more information read the [Hugo Documentation](http://gohugo.io/overview/introduction/).
 
 #### Download Hugo 
 
@@ -23,27 +23,27 @@ You can download Hugo for many different platforms from the [Hugo site](http://g
 
 -----
 
-#### Install hugo in a work folder like C:\Users\Project
+#### Copy hugo.exe on a working folder
 
-Go to your terminal and from your root go to your /Project folder:
+Create a folder (you can name it /projects/) under your root, and then navigate to that folder by typing
 
-<pre><code>cd Project</code></pre>
-
------
-
-#### Create a new Hugo site in a subfolder of Project called /projecthugo:
-
-<pre><code>hugo new site ~/Project/projecthugo/</code></pre>
+<pre><code>cd projects</code></pre>
 
 -----
 
-#### Go to your Hugo site folder:
+#### Create a new Hugo site in a subfolder of /projects called /projecthugo
+
+<pre><code>hugo new site ~/projects/projecthugo/</code></pre>
+
+-----
+
+#### Go to your Hugo site folder
 
 <pre><code>cd projecthugo</code></pre>
 
 -----
 
-#### List the contents of the /projecthugo folder:
+#### List the contents of the /projecthugo folder
 
 <pre><code>ls</code></pre>
 
@@ -53,7 +53,7 @@ You should now see a skeleton with the basic structure of a Hugo site but no con
 
 -----
 
-#### Installing Hugo in your path.
+#### Install Hugo in your path.
 
 Copy the hugo.exe into your /projecthugo folder.
 
@@ -79,19 +79,15 @@ You can add more parameters later. For example, you may want to add a Title (if 
 
 Update the Description field and write some content below the second +++ line (leave one or two lines blank at the beginning).
 
-If you want your post to go live change <pre><code>draft = true</pre></code> 
-
-for 
-
-<pre><code>draft = false</code></pre>
+If you want your post to go live change <pre><code>draft = true</pre></code> for <pre><code>draft = false</code></pre>
 
 Create another post called post2.md following a similar process.
 
 -----
 
-### Create a couple of main pages that are not posts
+### Create a couple of pages that are not posts
 
-These are pages like **about** or **contact**
+These would be pages like **about** or **contact**.
 
 <pre><code>hugo new about.md</code></pre>
 
@@ -113,8 +109,8 @@ You will create four templates and place them in a folder called /layouts/_defau
 - li.html
 
 * Single is for your individual content (e.g. posts or pages)
-* List is to create a list of posts.
-* Summary and li are views that will be used in your List template, depending if you just want a list of posts titles or a summary of each post in addition to the title.
+* List is for a list of posts.
+* Summary and li are views that will be used in your list template, depending if you just want a list of posts titles or a summary of each post in addition to the title.
 
 The Hugo documentation provides instructions on what code to use in each of them.
 
@@ -126,7 +122,7 @@ You can create section specific templates if your site is larger but for now _de
 
 These are good for the common areas of your site. Go ahead and create:
 
-* header.html (includes a link to the style sheet and the site's navigation)
+* header.html (must include a link to the style sheet and the site's navigation)
 * footer.html (for copyright or similar info)
 
 Place these templates in a folder called /layouts/partials/. These partial templates can be called from any other template (for example from single.hmtl or list.html) by simply using the following code within those templates:
@@ -141,7 +137,7 @@ or
 
 #### Create an index.html template
 
-This template is only used for the home page. Create it however you want your home page to look and place it in the root of the /layouts folder. 
+This template is only used for the home page. Create it however you want your home page to look and place it in the root of the /layouts folder.  You can also choose to use a list of posts as your index page. In that case just save the list template as index.html
 
 -----
 
@@ -149,7 +145,9 @@ This template is only used for the home page. Create it however you want your ho
 
 Don't forget to link to the style sheet from the header.html partial template:
 
-<pre><code>< link rel="stylesheet" type="text/css" href="/css/style.css" ></code></pre>
+<pre><code>link rel="stylesheet" type="text/css" href="/css/style.css"</code></pre>
+
+You need to include the above code between <>.
 
 -----
 
@@ -181,7 +179,7 @@ Once you're satisfied with the way your site looks, run the hugo command by itse
 
 <pre><code>hugo</code></pre>
 
-You are now ready to upload or git push your site to your web hosting service.
+You are now ready to upload or git push your site to your web hosting service. Your site files will be in a folder called /public.
 
 -----
 
