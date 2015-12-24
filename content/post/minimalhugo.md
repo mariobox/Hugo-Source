@@ -71,15 +71,19 @@ again and you should now see the hugo executable:
 
 Open post1.md with your favorite text editor and you will see three fields already pre-written in the top section of the file, called "front matter" (between the +++ marks). By default, Hugo includes:
 
-* Description
+* Title
 * Date and 
 * Draft 
 
-You can add more parameters later. For example, you may want to add a Title (if not, Hugo will "guess" the title from the file name).
+You can add more parameters later (like Categories or Tags).
 
-Update the Description field and write some content below the second +++ line (leave one or two lines blank at the beginning).
+Hugo will match the title of your post with your post file name, so if you want to call it something different just replace the text between quotes in the Title field in the front matter.
 
-If you want your post to go live change <pre><code>draft = true</pre></code> for <pre><code>draft = false</code></pre>
+Now you can write some content below the second +++ line (leave one or two lines blank at the beginning).
+
+If you want your post to go live remember to change <pre><code>draft = true</pre></code> for <pre><code>draft = false</code></pre>
+
+If you keep it as draft your post will not show on your site.
 
 Create another post called post2.md following a similar process.
 
