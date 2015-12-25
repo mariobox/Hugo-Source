@@ -15,7 +15,7 @@ These are the tools and resources I'm currently using:
 
 * **Web Design Language**: HTML5 and CSS3 to tweak Hugo's templates and change the look and feel of the site.
 
-* **Text Editor**: Notepad (comes with Windows).
+* **Text Editor**: Vim.
 
 * **Version Control Tool**: [Git](http://www.git-scm.com). Since I'm still using Windows, I use the [Git for Windows]((https://msysgit.github.io/) app. However, I don't use the GUI but the bare-bones terminal emulator that comes with it, called Git Bash.
 
@@ -25,7 +25,7 @@ These are the tools and resources I'm currently using:
 
 * **Font Host**: [Google Fonts](http://www.google.com/fonts/). I am currently using **Roboto** for the content area and **Roboto Condensed** for headlines.
 
-* **Theme**: I am not using a specific theme but instead a minimal css sheet that I put together from scratch. I used to run a resposive multi-column framework but for the purposes of this site (just one column) it was overkill, so I stopped using it. For more complicated sites, though, a responsive framework is the way to go.
+* **Theme**: I am not using a theme, but rather a minimal css sheet called *style.css* with a responsive column layout.
 
 I have also created a [humans.txt](../humans.txt) file, which contains pretty much the same information as above, but in a more standard format, as suggested by the [HumansTxT](http://humanstxt.org) organization.
 
