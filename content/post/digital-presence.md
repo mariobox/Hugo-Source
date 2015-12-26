@@ -16,7 +16,7 @@ url = "/digital-presence"
 
 I've always been fascinated by the Internet. The idea of having a publishing platform capable of instantly reaching anybody in the world, with no gatekeepers, for free, is still mind boggling to me. Today, of course, everybody has a digital presence, although for most people that means a profile in one or more of the ubiquitous social networks that have taken the Internet by storm. 
 
-When I talk about a having a digital presence, though, I'm not talking about being a tenant in Zuck's massive apartment complex, but rather of building and owning our own digital home: a website that we can deploy using our own domain, designed and tweaked to our liking, and where we call the shots. 
+When I talk about a having a digital presence, though, I'm not talking about being a tenant in Zuck's massive apartment complex, but rather of building and owning our own digital home: a website that we can deploy using our own domain, custom-designed and tweaked to our liking. 
 
 ### The Early Days ###
 
