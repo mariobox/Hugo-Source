@@ -15,7 +15,7 @@ I didn't want to spend a lot of money but I still wanted my new writing setup to
 
 I also wanted to give the space some character, so I selected twelve pictures I had taken on my [trips](../photos/) and ordered 8x10 prints (I got them for less than $20 in Snapfish).  I also got some cheap but stylish frames from Walmart ($11 for a set of six, so $22 total).
 
-Finally, I added a lamp that I recycled from somewhere else for free.
+Finally, I added a recycled lamp I got for free.
 
 Last weekend I installed everything and this is how it now looks:
 
