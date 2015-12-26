@@ -27,5 +27,5 @@ These are the tools and resources I'm currently using:
 
 * **Theme**: I am not using a theme, but rather a minimal css sheet called *style.css* with a responsive column layout.
 
-I have also created a [humans.txt](../humans.txt) file, which contains pretty much the same information as above, but in a more standard format, as suggested by the [HumansTxT](http://humanstxt.org) organization.
+If you want to see these details in a more standard form I have created a [humans.txt](../humans.txt) file, following the guidelines of the [HumansTxT](http://humanstxt.org) organization.
 
