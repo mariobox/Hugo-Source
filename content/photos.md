@@ -11,28 +11,28 @@ Places I've been. Things that caught my eye.
 
 <ul>
 <li class="travpic">
-<a href="../cinqueterre/">
-<img src="http://41.media.tumblr.com/aba0b27f9be305fdfa0a772d0f7eb397/tumblr_nx1xselzwl1qz7ur9o9_1280.jpg" class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157661654698219">
+<img src="../../images/Italy.jpg" class="travpic">
 Italy</a>
 </li>
 <li class="travpic">
-<a href="../brooklyn/">
-<img src="http://41.media.tumblr.com/b3d3fff1a1857c1b03b3f6eec6ceb325/tumblr_nsgmwt1apO1qz7ur9o8_1280.jpg" class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157662121904929">
+<img src="../../images/brooklyn.jpg" class="travpic">
 NYC</a>
 </li>
 <li class="travpic">
 <a href="../lima/">
-<img src="https://41.media.tumblr.com/9439de5a70d9c47640a63d76f335eb98/tumblr_nplc2hPYSe1qz7ur9o3_1280.jpg" class="travpic">
+<img src="../../images/lima.jpg" class="travpic">
 Lima</a>
 </li>
 <li class="travpic">
-<a href="../bogota/">
-<img src="http://36.media.tumblr.com/9245d7420ec6e64cc74bfa89e38e9b46/tumblr_nmnn7lm1sF1qz7ur9o1_1280.jpg" class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157662242437980">
+<img src="../../images/bogota.jpg" class="travpic">
 Bogota</a>
 </li>
 <li class="travpic">
-<a href="../dubai/">
-<img src="http://36.media.tumblr.com/82e0df387de60828e2b08c98089b3dff/tumblr_nm3x24PUSv1qz7ur9o6_1280.jpg" class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157662242417670">
+<img src="../../images/dubai.jpg" class="travpic">
 Dubai</a>
 </li>
 </ul>
@@ -40,8 +40,8 @@ Dubai</a>
 <center><h3>2014</h3></center>
 <ul>
 <li class="travpic">
-<a href="../russia/">
-<img src="http://36.media.tumblr.com/e86708ba4dd6bb60ff08d66bf2ac982d/tumblr_njsbq6nX1b1qz7ur9o1_1280.jpg" class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157644876612770">
+<img src="../../images/russia.jpg" class="travpic">
 Russia</a>
 </li>
 </ul>
@@ -49,16 +49,11 @@ Russia</a>
 <center><h3>2013</h3></center>
 <ul>
 <li class="travpic">
-<a href="../barcelona/">
-<img src="http://40.media.tumblr.com/cd6a1cdfe4ec9fb42b30b35cf04acd04/tumblr_njsq1q59J91qz7ur9o1_1280.jpg" class="travpic">Barcelona</a>
+<a href="https://www.flickr.com/photos/mariobox/albums/72157638066507933">
+<img src="../../images/spain.jpg" class="travpic">Spain</a>
 </li>
 <li class="travpic">
-<a href="../madrid/">
-<img src="http://40.media.tumblr.com/c55b8b9419b8926e08f14069954c92a2/tumblr_njuixeTKsk1qz7ur9o1_1280.jpg" class="travpic">
-Madrid</a>
-</li>
-<li class="travpic">
-<a href="../italyinmotion/">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157633187026630">
 <img src="http://41.media.tumblr.com/09784396750c3cdfab2cb0d5379f2160/tumblr_nogpcm9V3V1qz7ur9o7_1280.jpg" class="travpic">
 IIM</a>
 </li>
