@@ -5,7 +5,7 @@ date = "2015-08-02"
 slug = "brooklyn"
 +++
 
-<p>Long weekend in NYC.</p>
+<p>Long weekend in Brooklyn and NYC.</p>
 
 <p><p><img src="http://40.media.tumblr.com/313d4025ac2c305d162c6fc8ae8df682/tumblr_nsgmwt1apO1qz7ur9o1_1280.jpg" class="profile"><br />Brooklyn Bridge</p><br /></p>
 
