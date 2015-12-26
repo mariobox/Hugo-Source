@@ -16,7 +16,7 @@ Inside Tram #1, a vintage 1920's cablecar that still operates today.</p><br /></
 Naviglio Grande, or Grand Canal.</p><br /></p>
 
 <p><p><img src="http://40.media.tumblr.com/f763a9886cb6d938c6a375d24ffc7e37/tumblr_nx1xcnzIRj1qz7ur9o1_1280.jpg" class="profile"><br />
-Milano skyline from the Duomo.</p><br /></p>
+Milano skyline seen from the Duomo.</p><br /></p>
 
 <p><p><img src="http://40.media.tumblr.com/1c8c1d4861ebadb94f6fb63b90e92d17/tumblr_nx1xcnzIRj1qz7ur9o6_1280.jpg" class="profile"><br />
 Milano Centrale</p><br /></p>
