@@ -21,7 +21,7 @@ Italy</a>
 NYC</a>
 </li>
 <li class="travpic">
-<a href="../lima/">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157624720611409">
 <img src="../../images/lima.jpg" class="travpic">
 Lima</a>
 </li>
