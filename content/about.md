@@ -15,8 +15,6 @@ I was born and raised in [Lima, Peru](http://farm5.staticflickr.com/4115/4935682
 
 Since then, I have developed  [my career](http://www.linkedin.com/in/mariobox/) in large consumer goods companies doing business in the **U.S. and Latin America**. 
 
-Over that timeframe I have performed the following **roles**: sales, product management, brand management, channel management, and product development.  
-
 My **core competencies** are product strategy, product development and sourcing, product marketing, and international business from the marketing and sales side.
 
 My engineering background helps me approach marketing from a **numbers-oriented, process-driven perspective**, where <mark>proper execution is as important as the strategy behind it</mark>. 
