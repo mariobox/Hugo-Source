@@ -6,6 +6,8 @@ Categories = []
 
 Tags = ["tech"]
 
+Drafts = "true"
+
 Description = ""
 
 title = "How To Use Gmail With Your Own Domain"
