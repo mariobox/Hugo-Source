@@ -10,7 +10,7 @@ Description = ""
 
 title = "Work The System"
 
-url = "/systems/"
+slug = "systems"
 
 +++
 

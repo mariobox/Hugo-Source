@@ -9,7 +9,7 @@ Tags = ["books"]
 Description = ""
 
 title = "Made To Stick"
-url = "/mts/"
+slug = "mts"
 +++
 
 

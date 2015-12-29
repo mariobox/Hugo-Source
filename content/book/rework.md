@@ -9,7 +9,7 @@ Tags = ["books"]
 Description = ""
 
 title = "Rework"
-url = "/rework/"
+slug = "rework"
 +++
 
 

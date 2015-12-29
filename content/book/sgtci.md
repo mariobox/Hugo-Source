@@ -10,7 +10,7 @@ Description = ""
 
 title = "So Good They Can't Ignore You"
 
-url = "/sgtci/"
+slug = "sgtci"
 
 +++
 

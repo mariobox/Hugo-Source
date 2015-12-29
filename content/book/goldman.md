@@ -9,7 +9,7 @@ Tags = ["books"]
 Description = ""
 
 title = "Why I Left Goldman Sachs"
-url = "/goldman/"
+slug = "goldman"
 +++
 
 

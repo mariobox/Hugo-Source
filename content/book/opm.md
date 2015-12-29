@@ -9,7 +9,7 @@ Tags = ["books"]
 Description = ""
 
 title = "Other People's Money"
-url = "/opm/"
+slug = "opm"
 +++
 
 
