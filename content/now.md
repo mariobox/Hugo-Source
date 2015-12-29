@@ -37,6 +37,8 @@ This is how I spend my time these days:
 
 This page was inspired by the awesome [Derek Sivers](http://www.sivers.org/nowff).
 
+<img src="/images/now.jpg" class="roundcorners">
+
 
 Last Updated: December 28, 2015
 
