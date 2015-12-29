@@ -4,12 +4,13 @@ date = "2015-11-23"
 
 Categories = []
 
-Tags = ["life", "productivity", "business"]
+Tags = []
 
 Description = ""
 
 title = "What I'm Doing Now"
-url = "/now"
+
+slug = "/now"
 +++
 
 
@@ -24,9 +25,9 @@ This is how I spend my time these days:
 
 * I monitor and manage my investments, focusing on undervalued stocks and real estate.
 
-* I'm always [reading](../reading/) something.
+* I'm always [reading](/book/) something.
 
-* I'm learning to use the [static site generator](http://gohugo.io) that powers this site. 
+* I'm learning to use the [static site generator](http://gohugo.io) that powers this site and using it to learn [Go](http://golang.org). 
 
 * I'm planning trips for the next few months. Possible destinations: Portland, Raleigh, Peru, Greece, Iceland.
 
@@ -36,4 +37,6 @@ This is how I spend my time these days:
 
 This page was inspired by the awesome [Derek Sivers](http://www.sivers.org/nowff).
 
-Last Updated: November 23, 2015
+
+Last Updated: December 28, 2015
+

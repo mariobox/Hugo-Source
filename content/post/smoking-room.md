@@ -9,7 +9,7 @@ Tags = ["life"]
 Description = ""
 
 title = "The Smoking Room"
-url = "/smoking-room"
+slug = "smoking-room"
 +++
 
 

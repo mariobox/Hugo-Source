@@ -9,7 +9,7 @@ Tags = ["life", "productivity"]
 Description = ""
 
 title = "The Power Morning Productivity Bubble"
-url = "/mornings"
+slug = "mornings"
 +++
 
 

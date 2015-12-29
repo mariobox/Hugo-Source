@@ -9,7 +9,7 @@ Tags = ["tech"]
 Description = ""
 
 title = "Understanding Static Site Generators"
-url = "/ssg"
+slug = "ssg"
 +++
 
 

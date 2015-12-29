@@ -4,7 +4,7 @@ Description = ""
 Tags = ["productivity", "life"]
 date = "2015-12-25T10:34:28-05:00"
 title = "My $100 Office"
-url = "/100office/"
+slug = "100office/"
 
 +++
 
@@ -19,7 +19,7 @@ Finally, I added a recycled lamp I got for free.
 
 Last weekend I installed everything and this is how it now looks:
 
-<img src = "../images/workstation.jpg">
+<img src = "/images/workstation.jpg">
 
 I am extremely happy with this new setup. I now have a place to write and code comfortably, that looks good and cost me less than $100.
 

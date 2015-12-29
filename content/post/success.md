@@ -9,7 +9,7 @@ Tags = [ "business", "life" ]
 Description = ""
 
 title = "The Building Blocks of Success"
-url = "/success/"
+slug = "success"
 +++
 
 

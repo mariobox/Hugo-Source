@@ -9,7 +9,7 @@ Tags = ["life", "productivity"]
 Description = ""
 
 title = "Practical Minimalism"
-url = "/mini"
+slug = "mini"
 +++
 
 

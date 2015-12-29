@@ -9,7 +9,7 @@ Tags = ["tech"]
 Description = ""
 
 title = "The Evolution Of My Digital Presence"
-url = "/digital-presence"
+slug = "digital-presence"
 +++
 
 

@@ -9,7 +9,7 @@ Tags = ["business"]
 Description = ""
 
 title = "Tu Marca Personal"
-url = "marca-personal"
+slug = "marca-personal"
 +++
 
 

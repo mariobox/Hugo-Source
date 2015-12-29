@@ -11,7 +11,7 @@ Drafts = "true"
 Description = ""
 
 title = "How To Use Gmail With Your Own Domain"
-url = "/gmail"
+slug = "gmail"
 +++
 
 

@@ -10,7 +10,7 @@ Description = "How to create a barebones but functional Hugo site"
 
 title = "How To Create a Minimal Hugo Site"
 
-url = "/minimalhugo"
+slug = "minimalhugo"
 
 +++
 

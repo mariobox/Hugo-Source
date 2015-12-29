@@ -9,7 +9,7 @@ Tags = ["money"]
 Description = ""
 
 title = "Unsolicited Financial Advice"
-url = "/money-tips"
+slug = "money-tips"
 +++
 
 

@@ -2,4 +2,5 @@
 Description = ""
 Categories = []
 Tags = []
+slug = ""
 +++

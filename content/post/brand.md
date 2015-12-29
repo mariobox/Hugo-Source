@@ -9,7 +9,7 @@ Tags = ["business"]
 Description = ""
 
 title = "How To Build a Brand"
-url = "/brand"
+slug = "brand"
 +++
 
 

@@ -9,7 +9,7 @@ Tags = ["productivity"]
 Description = ""
 
 title = "Using The Best Tools"
-url = "/best-tools"
+slug = "best-tools"
 +++
 
 
