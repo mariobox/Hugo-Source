@@ -15,7 +15,7 @@ I was born and raised in [Lima, Peru](http://farm5.staticflickr.com/4115/4935682
 
 Since then, I have developed  [my career](http://www.linkedin.com/in/mariobox/) in large consumer goods companies doing business in the **U.S. and Latin America**. 
 
-My **core competencies** are product strategy, product development and sourcing, product marketing, and international business from the marketing and sales side.
+My **core competencies** are product strategy, product development and sourcing, and product marketing.
 
 My engineering background helps me approach marketing from a **numbers-oriented, process-driven perspective**, where <mark>proper execution is as important as the strategy behind it</mark>. 
 
@@ -27,13 +27,14 @@ For more on my professional background you can visit my [Linkedin](http://www.li
 
 * I'm fluent in English, Spanish and Portuguese.
 
-* I'm defined as an [ISTJ](http://www.16personalities.com/istj-personality) introvert according to the Myers-Briggs personality type indicator. I am most comfortable by myself, and thrive in working environments that are challenging, process-driven and detail-oriented, and where I have the autonomy to set my own pace and make decisions.
+* I'm defined as an [ISTJ](http://www.16personalities.com/istj-personality) introvert according to the Myers-Briggs personality type indicator. I am most comfortable by myself, and thrive in working environments that are challenging, process-driven and detail-oriented.
+
+* I am teaching myself the basics of front end web development, which so far has involved learning HMTL5, CSS3, Git and using a static site generator built with [Go](http://golang.org). Here are some details of [how I made this website](../colophon).
 
 * I am an avid soccer fan. I rarely miss a game of my favorite team, Argentine side [River Plate](http://farm5.staticflickr.com/4055/4448440498_5d731b2102_z.jpg). I also follow Spain's La Liga, Italy's Serie A and the German Bundesliga.
 
 * I am a frequent traveler both for business and pleasure. So far, I've visited 55 different countries. Here are some [pictures](../photos).
 
-* I am a big proponent of digital self-reliance and some of my free time is spent tinkering with website code and learning web design and development. Here are some details of [how I made this website](../colophon).
 
 * I enjoy [reading](../reading/) especially books about marketing, personal finance, personal development and biographies.
 

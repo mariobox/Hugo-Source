@@ -7,8 +7,6 @@ slug = "photos"
 
 Places I've been. Things that caught my eye.
 
-<center><h3>2015</h3></center>
-
 <ul>
 <li class="travpic">
 <a href="https://www.flickr.com/photos/mariobox/albums/72157661654698219">
@@ -35,19 +33,11 @@ Bogota</a>
 <img src="../../images/dubai.jpg" class="travpic">
 Dubai</a>
 </li>
-</ul>
-
-<center><h3>2014</h3></center>
-<ul>
 <li class="travpic">
 <a href="https://www.flickr.com/photos/mariobox/albums/72157644876612770">
 <img src="../../images/russia.jpg" class="travpic">
 Russia</a>
 </li>
-</ul>
-
-<center><h3>2013</h3></center>
-<ul>
 <li class="travpic">
 <a href="https://www.flickr.com/photos/mariobox/albums/72157638066507933">
 <img src="../../images/spain.jpg" class="travpic">Spain</a>
