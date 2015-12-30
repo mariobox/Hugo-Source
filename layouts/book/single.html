@@ -3,6 +3,10 @@
 
 <h1>{{ .Title }}</h1>
 
+{{ if .Params.subtitle }}
+<h5>{{ .Params.subtitle }}</h5>
+{{ end }}
+
 {{ .Content }}
 
 <p><strong>Tags:</strong> 

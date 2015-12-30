@@ -2,16 +2,26 @@
 
 <h1>Latest</h1>
 
+<h4>Blog Posts</h4>
 <ul class="nobullet">
-	<li>New blog post: <a href="./100office/">My $100 Office</a>.</li>
-	<li>New blog post: <a href="./minimalhugo/">How To Create a Minimal Hugo Site</a>.</li>
-	<li>New book highlights and notes: <a href="./sgtci/">So Good They Can't Ignore You</a>.</li>
-	<li>New blog post: <a href="./gcs/">Git Cheat Sheet</a>.</li>
+{{ range first 3 (where .Data.Pages "Section" "post") }}
+{{ if eq .Type "post" }}
+{{ .Render "li" }}
+{{ end }}
+{{ end }}
 </ul>
 
-<p>I have just started a mailing list. You can <a href="http://www.tinyletter.com/mariosanchez">join here</a>.</p>
+<h4>Book Reviews</h4>
+<ul class="nobullet">
+{{ range first 3 (where .Data.Pages "Section" "book") }}
+{{ if eq .Type "book" }}
+{{ .Render "li" }}
+{{ end }}
+{{ end }}
+</ul>
 
-<p><span class="date">Last updated 12-23-2015</span></p>
+
+<p>I have just started a mailing list. You can <a href="http://www.tinyletter.com/mariosanchez">join here</a>.</p>
 
 {{ partial "footer.html" . }}
 

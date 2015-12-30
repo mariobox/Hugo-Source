@@ -1,7 +1,5 @@
 {{ partial "header.html" . }}
 
-<h1>{{ .Title }}</h1>
-    
 <div class="date">
 
 <p>
@@ -10,7 +8,21 @@
 
 </div>
 
+<article>
+
+
+<h1>{{ .Title }}</h1>
+
+{{ if .Params.subtitle }}
+
+<h5>{{ .Params.subtitle }}</h5>
+
+{{ end }}
+
+
 {{ .Content }}
+
+</article>
 
 <br />
 
