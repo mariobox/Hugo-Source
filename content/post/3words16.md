@@ -4,7 +4,7 @@ Description = ""
 Subtitle = "My 2016 take on Chris Brogan's yearly challenge"
 Tags = ["productivity", "business", "life"]
 date = "2015-12-30T15:25:11-05:00"
-draft = "true"
+draft = "false"
 slug = "3words16"
 title = "My 3 Words for 2016"
 
