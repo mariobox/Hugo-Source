@@ -21,12 +21,12 @@ NYC</a>
 <li class="travpic">
 <a href="https://www.flickr.com/photos/mariobox/albums/72157624720611409">
 <img src="../../images/lima.jpg" class="travpic">
-Lima</a>
+Peru</a>
 </li>
 <li class="travpic">
 <a href="https://www.flickr.com/photos/mariobox/albums/72157662242437980">
 <img src="../../images/bogota.jpg" class="travpic">
-Bogota</a>
+Colombia</a>
 </li>
 <li class="travpic">
 <a href="https://www.flickr.com/photos/mariobox/albums/72157662242417670">
@@ -44,7 +44,47 @@ Russia</a>
 </li>
 <li class="travpic">
 <a href="https://www.flickr.com/photos/mariobox/albums/72157633187026630">
-<img src="http://41.media.tumblr.com/09784396750c3cdfab2cb0d5379f2160/tumblr_nogpcm9V3V1qz7ur9o7_1280.jpg" class="travpic">
+<img src="../../images/iim.jpg" class="travpic">
 IIM</a>
+</li>
+<li class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157626699660659">
+<img src="../../images/norway.jpg" class="travpic">
+Norway</a>
+</li>
+<li class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157626654672137">
+<img src="../../images/sweden.jpg" class="travpic">
+Sweden</a>
+</li>
+<li class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157623658693104">
+<img src="../../images/japan.jpg" class="travpic">
+Japan</a>
+</li>
+<li class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157623660333118">
+<img src="../../images/portugal.jpg" class="travpic">
+Portugal</a>
+</li>
+<li class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157631581189350">
+<img src="../../images/israel.jpg" class="travpic">
+Israel</a>
+</li>
+<li class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157623656536742">
+<img src="../../images/brasil.jpg" class="travpic">
+Brazil</a>
+</li>
+<li class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157623657717740">
+<img src="../../images/argentina.jpg" class="travpic">
+Argentina</a>
+</li>
+<li class="travpic">
+<a href="https://www.flickr.com/photos/mariobox/albums/72157623531748115">
+<img src="../../images/croatia.jpg" class="travpic">
+Croatia</a>
 </li>
 </ul>
