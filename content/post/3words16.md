@@ -30,13 +30,13 @@ I tend to gravitate towards the same things over and over again: the same restau
 
 During 2016 I will focus on trying new things in the spirit of continuous self-improvement. 
 
-Paraphrasing Tim Ferris, if you want opportunities to come to you, you must first throw a lot of things against the wall (experiment). 
+Paraphrasing Tim Ferriss, if you want opportunities to come to you, you must first throw a lot of things against the wall (experiment). 
 
 This guiding word also dovetails nicely with the first one (Learn) as they share many common themes.
 
 #### Self-Awareness
 
-At this stage it is crystal clear to me that as important as deciding what to (or even more important) is to decide what **NOT** to do. 
+At this stage it is crystal clear to me that as important as deciding what to do (or even more important) is to decide what **NOT** to do. 
 
 By developing my career mostly in large corporations I've spent most of my working years living up to other people's expectations: there is always a boss to please, employees to manage, politics to play. A few times I have also been required to play roles that were not in alignment with my core strengths and personality traits. 
 
