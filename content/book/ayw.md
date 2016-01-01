@@ -2,7 +2,7 @@
 Categories = []
 Description = ""
 Subtitle = ""
-Tags = ["book"]
+Tags = ["books"]
 date = "2015-12-31T15:38:02-05:00"
 draft = "false"
 slug = "ayw"
