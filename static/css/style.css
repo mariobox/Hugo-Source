@@ -182,6 +182,10 @@ a:focus {
   color: #999;
 }
 
+a.social:link, a.social:visited, a.social:hover, a.social:active {
+  color: #999;
+}
+
 mark {
     background-color: #ccffcc;
     color: #000;
