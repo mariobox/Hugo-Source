@@ -41,7 +41,7 @@ I must be neutral, study even successful people I don't like. My mind should not
 
 Greatness is not something you are, it's something you do.    
 
-Serve, build, inspire, connect, defend, protect, establish, write, experiment, teach, help.    
+<mark>Serve, build, inspire, connect, defend, protect, establish, write, experiment, teach, help</mark>.    
 
 Start building skills, resources, experiences, and mobility.    
 
@@ -59,7 +59,7 @@ Learn how to negotiate. Read books on negotiation. I think Critical Conversation
 
 Never, ever, ever get into debt. Just don't do it. If you have debt (student loans, credit cars, etc), pay them off as soon as you have any cash at all.    
 
-Debt cripples a man's ability to do what he wants with his life. Stay away from it at all costs.    
+<mark>Debt cripples a man's ability to do what he wants with his life</mark>. Stay away from it at all costs.    
 
 Train yourself to do arithmetic fast. There's more value in being able to add, subtract, divide, and do percents fast than in any other kind of math.    
 
@@ -73,7 +73,7 @@ So, what are your larger roles? It's not easy to pick. It's not like a minute ex
 
 There's many ways to live a good and meaningful life, but I think one of the most important steps is to think on what a good and meaningful life would be to you.    
 
-If/when you do know what matters most to you, then the rest of the points are just cost/benefit, expected value, planning, forecasting, things like that.    
+<mark>If/when you do know what matters most to you, then the rest of the points are just cost/benefit, expected value, planning, forecasting, things like that</mark>.    
 
 In a world where marketing and advertising exists, you need to do it because that's the equilibrium. If you fight against equilibriums, you lose.    
 
@@ -135,15 +135,13 @@ Looking out for people outside of the scope of the deal can help make it about m
 
 I never liked spending money on comfort or luxury that doesn't serve a higher purpose. I eat very simply, I sleep simply, I don't need or want much.    
 
- out of  people are relatively ungracious.  out of  say thanks and nothing else. But  person out of  winds up becoming something very special and cool.    
-
 I'm not trying to sacrifice and suffer and martyr myself when I help people. I ask for feedback.    
 
 Make connecting with people part of my entertainment time. You know, when most people are watching TV, I'm reading email, writing email, hopping on the phone with people, answering questions, helping other people do strategy.    
 
 I added a note to my daily checklist for a while, "Reach out to someone".    
 
-Make connecting with people part of your entertainment time.    
+<mark>Make connecting with people part of your entertainment time</mark>.    
 
 Start by sending out short (the shorter the better) emails to people who you see saying or doing something cool. Even if they don't write back, I guarantee they appreciate it.    
 
@@ -161,7 +159,7 @@ The rest of good marketing is offering people something worth many, many times m
 
 Tell people what you're doing and let them decide if it's right for them.    
 
-The first step to being a great marketer is respecting your own time.    
+<mark>The first step to being a great marketer is respecting your own time</mark>.    
 
 The quintessential, alpha-omega principle of strategy, which is - Do things for reasons.    
 
@@ -197,7 +195,7 @@ Strip your observations down to cause and effect. "X seems to have happened, wha
 
 (a) Ask ourselves what we're trying to achieve;  (b) Ask ourselves how we could tell if we achieved it ("what does it look like to be a good comedian?") and how we can track progress;  (c) Find ourselves strongly, intrinsically curious about information that would help us achieve our goal;  (d) Gather that information (e.g., by asking as how folks commonly achieve our goal, or similar goals, or by tallying which strategies have and haven't worked for us in the past);  (e) Systematically test many different conjectures for how to achieve the goals, including methods that aren't habitual for us, while tracking which ones do and don't work;  (f) Focus most of the energy that *isn't* going into systematic exploration, on the methods that work best; (g) Make sure that our "goal" is really our goal, that we coherently want it and are not constrained by fears or by uncertainty as to whether it is worth the effort, and that we have thought through any questions and decisions in advance so they won't continually sap our energies; (h) Use environmental cues and social contexts to bolster our motivation, so we can keep working effectively in the face of intermittent frustrations, or temptations based in hyperbolic discounting.    
 
-If you choose to make one thing your goal, then you're choosing not to make something else your goal. You have to prioritize, or you'll be stuck serving multiple masters,    
+<mark>If you choose to make one thing your goal, then you're choosing not to make something else your goal</mark>. You have to prioritize, or you'll be stuck serving multiple masters,    
 
 You might need natural talent to win at a zero-sum game, or if you're competing for limited pieces of pie. But you don't need natural talent for positive sum games. Positive sum games make multiple winners and expand the pie more than what the person eats.    
 
@@ -247,7 +245,7 @@ It's not that getting your package  days from now instead of makes such a big di
 
 Cognitive cost: if the man is thinking about the fence, he's not thinking about something else.    
 
-If you want to make excellent stuff, you need to make a lot of crap.    
+<mark>If you want to make excellent stuff, you need to make a lot of crap</mark>.    
 
 In order to do high impact excellent work, you have to do a lot of work, which includes low impact not excellent work.    
 
@@ -275,7 +273,7 @@ Shifting your time from watching random TV to trying to do something creative is
 
 I could give you some tactical guidelines on this question: how do you become a faster decision maker? But that's probably not the real question we're grappling with. Is that the real question though? Make sure the underlying issue is not that you are afraid of failing.    
 
-Define "adequately complete", then ask, "What's the fastest way to adequately complete?" Then do that.    
+<mark>Define "adequately complete"</mark>, then ask, "What's the fastest way to adequately complete?" Then do that.    
 
 "Slightly better" often takes twice as long, for very little gain.    
 
@@ -283,7 +281,7 @@ Consult, advise, or work for other people. It's damn near impossible to evaluate
 
 You've just got to become comfortable with failing more often.    
 
-Start the day with 20 minutes planning the day and working for an hour on his most important thing    
+Start the day with 20 minutes planning the day and working for an hour on his most important thing.    
 
 To take better actions, you need to gradually establish better habits.    
 
@@ -299,7 +297,7 @@ Something going wrong is an expensive lesson I already paid for. Might as well t
 
 There's plenty of good time for details. But there's one bad time: that's when you're paying attention to details instead of taking the big actions.    
 
-Narrow it down to the bare minimum you need to do to get started. Do that.    
+<mark>Narrow it down to the bare minimum you need to do to get started. Do that</mark>.    
 
 Action first. Then details.    
 
@@ -309,12 +307,11 @@ After you've met your goal for a specific area, continue tracking it for a few w
 
 When you're having a highly creative day, run it out as much as you can. Resist the temptation to say, "Well, that's enough" and just go chill out or whatever.    
 
-Normal life during normal times. Milk the cow as much as possible when things are unusually great. Fundamentals and trying to avoid being stupid when things are bad.    
+Normal life during normal times. <mark>Milk the cow as much as possible when things are unusually great. Fundamentals and trying to avoid being stupid when things are bad</mark>.    
 
 Trying to improve 30 things at once is a great formula for falling off a cliff and getting nothing done.    
 
 Useful skills: Writing, negotiating, speaking, conflict resolution, do basic arithmetic fast, probability and statistics, project management.    
-
 Work hard on tangible stuff, document and claim credit for doing it, and notify people with what benefit the work provides.    
 
 Prepare a BATNA (Best Alternative to Negotiated Agreement). If they say no, what will you do? You need to know this.    
@@ -324,7 +321,6 @@ You can't work with idiots. You can't appeal to their interest, because they're 
 "Everything is worth what its purchaser will pay for it."    
 
 I don't believe that kissing the ass of someone you don't like and blindly hoping things are going to get better will result in a good life.    
-
 Correspond with 100 new people per month, help them out at no cost, while simultaneously keeping up correspondence with 20 to 50 "core people" in my life.    
 
 My entertainment is reading, writing, and connecting with smart people.    
@@ -341,11 +337,11 @@ What do I stand for?
 
 Everyone will value my time extremely highly, treat me very well, I'll deliver the highest level of service and ability that I can to them, they'll honor that and use it immediately, I'll be treated with extreme respect and gratitude, I'll be extremely grateful too, we'll buy gifts for each other, I won't accept any pay from someone that they don't willingly excitedly give.    
 
-Any simple deal can be written in one page. If it's under $100K, on a one-off job and there's no regulations in play, then there's no excuse for a bazillion pages.    
+<mark>Any simple deal can be written in one page</mark>. If it's under $100K, on a one-off job and there's no regulations in play, then there's no excuse for a bazillion pages.    
 
 "Sorry, I don't understand contracts. I only sign one page contracts that are very simple."    
 
-Not thinking < Tactics < Strategy < Philosophy    
+Not Thinking < Tactics < Strategy < Philosophy    
 
 Repeatedly stress that they're making an investment into a durable and long-lasting asset. Costs get cut, assets get invested in.    
 
@@ -353,7 +349,7 @@ Use some multiplication and bullshit charts. Whoever is paying you needs to just
 
 The haggling doesn't matter if we'll never see each other again. But if we're going to interact more? Then haggling is a no-go: it destroys goodwill, since it makes things transactional.    
 
-Do everything you can to stay relational/social instead of market/transactional.    
+Do everything you can to <mark>stay relational/social instead of market/transactional</mark>.    
 
 Be a trusted advisor. Over deliver on work.    
 
@@ -367,7 +363,7 @@ Lay down a set of principles about what your time, your art, and your life are w
 
 1.) Regularly update with the work you completed, and the benefit it provides. 2.) Decide what you want, and what you'll do as Plan B if your current company won't give it to you. 3.) Go stress that you'd be able to produce more value if you transition your role to a more highly paid and enjoyable one.    
 
-If you don't ask for money periodically, you're likely to be underpaid.    
+<mark>If you don't ask for money periodically, you're likely to be underpaid</mark>.    
 
 It's crucial to give whoever is paying you "the warm fuzzy feeling." Part of that is letting them know what you're working on.    
 
@@ -383,7 +379,7 @@ You need to know what you're going to do if this doesn't work. BATNA, a backup p
 
 You're always responsible for finance in any business you own, always, no matter what.    
 
-It's not a 'what have you done for me lately' kind of world. It's a 'what are you going to do for me going forwards' kind of world.    
+<mark>It's not a 'what have you done for me lately' kind of world. It's a 'what are you going to do for me going forwards' kind of world</mark>.    
 
 Don't expect loyalty or pay or compensation for things you did in the past. You get loyalty and pay and compensation for things you're going to do going forwards.    
 
