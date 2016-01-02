@@ -7,7 +7,15 @@
 <h5>{{ .Params.subtitle }}</h5>
 {{ end }}
 
+
 {{ .Content }}
+
+
+<hr />
+
+<p>Author: {{ .Params.authorname }}</p>
+<p><a href="{{ .Params.amazonlink }}">Amazon Link</a></p>
+<p><a href="{{ .Params.bookpage }}">Official Book Page</a></p>
 
 <p><strong>Tags:</strong> 
 
