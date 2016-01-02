@@ -139,6 +139,11 @@ h5 {
 	margin-bottom: .3em;
 }
 
+h5#subtitle {
+	color: #999;
+	font-weight: normal;
+}
+
 h6 {
 	font-size: 1em;
 	line-height: 1.2em;

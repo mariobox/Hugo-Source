@@ -3,7 +3,7 @@
 <div class="date">
 
 <p>
-{{ .Date.Format "January 2, 2006" }} - {{ .WordCount }} Words
+{{ .Date.Format "January 2, 2006" }}
 </p>
 
 </div>
@@ -15,7 +15,7 @@
 
 {{ if .Params.subtitle }}
 
-<h5>{{ .Params.subtitle }}</h5>
+<h5 id="subtitle">{{ .Params.subtitle }}</h5>
 
 {{ end }}
 
