@@ -22,7 +22,7 @@ I will focus on expanding my competence in new areas of knowledge. It is all too
 
 Dedicating 2015 to learn the basics of web development and being finally able to deploy a website from scratch, helped me understand how much I missed learning new things and the feeling of accomplishment that comes with it. 
 
-During 2016 I will double down on learning. A few things I want to learn: to operate a VPS, improve my Portuguese, and get better at fixing things.
+During 2016 I will double down on learning. A few things I want to learn: to operate a [VPS](https://en.wikipedia.org/wiki/Virtual_private_server), improve my Portuguese, and get better at fixing things.
 
 #### Experiments
 
