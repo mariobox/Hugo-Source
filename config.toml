@@ -12,3 +12,6 @@ title = "Mario Sanchez Carrion"
    blogblurb = "These are some things I've written, mainly as notes-to-self on things I want to remember. These posts revolve around themes like productivity, business, tech, money and life in general. Hope you find them useful."
    bookblurb = "I am an avid reader of books, especially  about business and personal development. These are some of the books I've read."
    description = "Mario Sanchez Carrion's personal website."
+
+[blackfriday]
+plainIdAnchors = true

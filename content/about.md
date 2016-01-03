@@ -27,7 +27,7 @@ For more on my professional background you can visit my [Linkedin](http://www.li
 
 * I'm fluent in English, Spanish and Portuguese.
 
-* I'm defined as an [INTJ](http://mariosanchez.org/images/INTJ.png) introvert according to the Myers-Briggs personality type indicator. I am most comfortable by myself, and thrive in working environments that are challenging, process-driven and detail-oriented.
+* I'm defined as an [INTJ](http://mariosanchez.org/images/INTJ.PNG) introvert according to the Myers-Briggs personality type indicator. I am most comfortable by myself, and thrive in working environments that are challenging, process-driven and detail-oriented.
 
 * I am teaching myself the basics of front end web development, which so far has involved learning HMTL5, CSS3, Git and using a static site generator built with [Go](http://golang.org). Here are some details of [how I made this website](../colophon).
 
