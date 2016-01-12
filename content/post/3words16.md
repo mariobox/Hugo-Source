@@ -16,7 +16,7 @@ I find this exercise to be extremely powerful, as it forces us to sit down and t
 
 I am now sharing my Three Words for 2016: LEARN, EXPERIMENTS, SELF-AWARENESS.
 
-#### Learn
+### Learn
 
 I will focus on expanding my competence in new areas of knowledge. It is all too easy to just focus on the day-to-day tasks you've been performing for years, get complacent and stop learning. That's how you become obsolete. 
 
@@ -24,7 +24,7 @@ Dedicating 2015 to learn the basics of web development and being finally able to
 
 During 2016 I will double down on learning. A few things I want to learn: to operate a [VPS](https://en.wikipedia.org/wiki/Virtual_private_server), improve my Portuguese, and get better at fixing things.
 
-#### Experiments
+### Experiments
 
 I tend to gravitate towards the same things over and over again: the same restaurants, the same kind of books, the same passtimes. I like predictablilty and reliability, which probably means that I've missed out on many good things for not experimenting enough. 
 
@@ -34,7 +34,7 @@ Paraphrasing Tim Ferriss, if you want opportunities to come to you, you must fir
 
 This guiding word also dovetails nicely with the first one (Learn) as they share many common themes.
 
-#### Self-Awareness
+### Self-Awareness
 
 At this stage it is crystal clear to me that as important as deciding what to do (or even more important) is to decide what **NOT** to do. 
 

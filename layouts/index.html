@@ -2,7 +2,7 @@
 
 <h1>Latest</h1>
 
-<h4>Blog Posts</h4>
+<h3>Blog Posts</h3>
 <ul class="nobullet">
 {{ range first 3 (where .Data.Pages "Section" "post") }}
 {{ if eq .Type "post" }}
@@ -11,7 +11,7 @@
 {{ end }}
 </ul>
 
-<h4>Book Reviews</h4>
+<h3>Book Reviews</h3>
 <ul class="nobullet">
 {{ range first 3 (where .Data.Pages "Section" "book") }}
 {{ if eq .Type "book" }}
