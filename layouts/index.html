@@ -1,8 +1,12 @@
 {{ partial "header.html" . }}
 
-<h1>Latest</h1>
+<h2>Intro</h2>
 
-<h3>Blog Posts</h3>
+<p>
+Industrial engineer and marketer with 20+ years of experience developing and marketing consumer products in Latin America for Fortune 500 companies. A lifelong learner, I am currently self-studying front-end web development and basic programming, and using this site to practice what I learn.
+</p>
+
+<h2>Blog Posts</h2>
 <ul class="nobullet">
 {{ range first 3 (where .Data.Pages "Section" "post") }}
 {{ if eq .Type "post" }}
@@ -11,7 +15,7 @@
 {{ end }}
 </ul>
 
-<h3>Book Reviews</h3>
+<h2>Book Reviews</h2>
 <ul class="nobullet">
 {{ range first 3 (where .Data.Pages "Section" "book") }}
 {{ if eq .Type "book" }}
