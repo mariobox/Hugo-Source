@@ -5,6 +5,9 @@ Subtitle = ""
 Tags = ["books"]
 date = "2015-12-31T15:38:02-05:00"
 draft = "false"
+authorname = "Derek Sivers"
+amazonlink = "http://amzn.to/1RUlQQF"
+bookpage = "https://sivers.org/a"
 slug = "ayw"
 title = "Anything You Want"
 
@@ -153,10 +156,4 @@ impress an invisible jury.
 
 If it makes you happy, that's OK. It's your choice to remain small.
 
------
 
-Author: [Derek Sivers](http://sivers.org)
-
-[Amazon Link](http://amzn.to/1R0RCfY)
-
-[Official Book Site](http://sivers.org/a)

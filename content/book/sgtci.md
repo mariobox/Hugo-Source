@@ -7,6 +7,9 @@ Categories = []
 Tags = ["books"]
 
 Description = ""
+authorname = "Cal Newport"
+amazonlink = "http://amzn.to/1n6YbBq"
+bookpage = "http://calnewport.com/books/so-good/"
 
 title = "So Good They Can't Ignore You"
 
@@ -191,11 +194,4 @@ For a mission-driven project to succeed, it should be remarkable in two differen
 
 
 
----------
-
-Author: Cal Newport.
-
-[Amazon Link](http://amzn.to/1O6Jrwn)
-
-[Official Book Site](http://calnewport.com/books/so-good/)
 

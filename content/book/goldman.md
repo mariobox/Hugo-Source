@@ -7,6 +7,9 @@ Categories = []
 Tags = ["books"]
 
 Description = ""
+authorname = "Greg Smith"
+amazonlink = "http://amzn.to/1RUmDkH"
+bookpage = "http://www.hachettebookgroup.com/titles/greg-smith/why-i-left-goldman-sachs/9781455527472/"
 
 title = "Why I Left Goldman Sachs"
 slug = "goldman"

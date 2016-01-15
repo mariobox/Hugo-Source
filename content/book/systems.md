@@ -8,6 +8,10 @@ Tags = ["books"]
 
 Description = ""
 
+authorname= "Sam Carpenter"
+amazonlink = "http://amzn.to/1n6ZxfB"
+bookpage = "http://www.workthesystem.com"
+
 title = "Work The System"
 
 slug = "systems"
@@ -52,11 +56,5 @@ Ground breaking book about the importance of implementing systems in your busine
 
 <p>Highly recommended.</p>
 
----------
 
-Author: Sam Carpenter.
-
-[Amazon Link](http://amzn.to/1OhtyVJ)
-
-[Official Book Site](http://workthesystem.com)
 

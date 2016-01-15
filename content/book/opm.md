@@ -8,6 +8,10 @@ Tags = ["books"]
 
 Description = ""
 
+authorname = "Charles V. Bagli"
+amazonlink = "http://amzn.to/1n6Yv3d"
+bookpage = "http://www.penguin.com/book/other-peoples-money-by-charles-v-bagli/9780142180716"
+
 title = "Other People's Money"
 slug = "opm"
 +++
@@ -23,5 +27,4 @@ Goes deep into the details of the deal itself and the personalities and egoes of
 
 Highly recommended.
 
-[Amazon Link](http://amzn.to/1lUYIpL)
 

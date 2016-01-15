@@ -20,71 +20,71 @@ You can save yourself reading through pages and pages of empirical evidence and 
 
 #### My highlights and notes
  
-Satisfied people do their work because they feel that they are in charge. Their workday offers them a measure of *autonomy and discretion*. And they use that autonomy and discretion to achieve a level of mastery or expertise. They learn new things, developing both as workers and as people.    
+"Satisfied people do their work because they feel that they are in charge. Their workday offers them a measure of *autonomy and discretion*. And they use that autonomy and discretion to achieve a level of mastery or expertise. They learn new things, developing both as workers and as people."    
 
-Gallup found that only 13 percent of workers feel engaged by their jobs.  
+"Gallup found that only 13 percent of workers feel engaged by their jobs."  
 
-<mark>The four characteristics of good work: challenge, engagement, meaning, and satisfaction. To this I would add **autonomy and discretion**</mark>.
+"<mark>The four characteristics of good work: challenge, engagement, meaning, and satisfaction. To this I would add **autonomy and discretion**</mark>."
 
-Job crafting is what Wrzesniewski and her colleagues called when we shape our jobs with the central purpose of our employer.
+"Job crafting is what Wrzesniewski and her colleagues called when we shape our jobs with the central purpose of our employer."
 
-To be satisfied with our work, we typically need a belief in the purpose of what we do.  
+"To be satisfied with our work, we typically need a belief in the purpose of what we do."  
 
-It is people who see their work as a "calling" who find it most satisfying.   
+"It is people who see their work as a "calling" who find it most satisfying."   
 
-Work < Career < Calling 
+"Work < Career < Calling" 
 
-Take discretion, engagement, and meaning out of work and people feel less "called" to it. 
+"Take discretion, engagement, and meaning out of work and people feel less "called" to it." 
 
-Virtually any job has the potential to offer people satisfaction. It can be made meaningful by connecting them to the welfare of others. 
+"Virtually any job has the potential to offer people satisfaction. It can be made meaningful by connecting them to the welfare of others." 
 
-**Factors that effective organizations have in common**:
+"**Factors that effective organizations have in common**:
 
 * Employment security.
 * Self-managed teams and decentralized decision-making. 
 * They pay more than the market.
 * They provide extensive training. 
 * They don't overmeasure employee performance.
-* They put great emphasis on the company mission. 
+* They put great emphasis on the company mission." 
 
-In short, you take discretion, engagement, and meaning out of work and people get less satisfaction from doing it.   
+"In short, you take discretion, engagement, and meaning out of work and people get less satisfaction from doing it."   
 
-When people are in states of positive emotion, they think expansively and creatively. 
+"When people are in states of positive emotion, they think expansively and creatively." 
 
-Carrots and sticks. What is striking is that, in the analysis that Pfeffer offers, both of these tools have negative effects on employee engagement and work satisfaction. 
+"Carrots and sticks. What is striking is that, in the analysis that Pfeffer offers, both of these tools have negative effects on employee engagement and work satisfaction." 
 
-When you create an environment in which workers are respected, they want to be there and they want to work. 
+"When you create an environment in which workers are respected, they want to be there and they want to work." 
 
-Carefully crafted incentive schemes, designed to ensure top performance, can often produce the opposite result.
+"Carefully crafted incentive schemes, designed to ensure top performance, can often produce the opposite result."
 
-Social motives and financial ones compete. No incentives can ever be smart enough to substitute for people who do the right thing because it's the right thing. 
+"Social motives and financial ones compete. No incentives can ever be smart enough to substitute for people who do the right thing because it's the right thing." 
 
-When we lose confidence that people have the will to do the right thing, and we turn to incentives, we find that we get what we pay for. 
+"When we lose confidence that people have the will to do the right thing, and we turn to incentives, we find that we get what we pay for." 
 
-The "watch where they walk, then pave it" metaphor argues that the empirical data shape the theories people develop. The "if you build it, they will come" metaphor argues that theories shape data. [The author] defends the second metaphor. 
+"The "watch where they walk, then pave it" metaphor argues that the empirical data shape the theories people develop. The "if you build it, they will come" metaphor argues that theories shape data. [The author] defends the second metaphor." 
 
-Work over which people exercise some discretion and control leads to cognitive flexibility and to an engaged orientation to self and society; in contrast, excessively monitored, oppressively supervised working conditions lead to distress. 
+"Work over which people exercise some discretion and control leads to cognitive flexibility and to an engaged orientation to self and society; in contrast, excessively monitored, oppressively supervised working conditions lead to distress." 
 
-People don't think of themselves as primarily motivated by material incentives, but <mark>they think that pretty much everyone else is</mark>. 
+"People don't think of themselves as primarily motivated by material incentives, but <mark>they think that pretty much everyone else is</mark>." 
 
-French emperor Napoleon termed ideologues were so in love with ideas that they ignored empirical evidence. 
+"French emperor Napoleon termed ideologues were so in love with ideas that they ignored empirical evidence." 
 
-Better data and theories drive out worse ones, and progress is made. Why does this not happen in the case of theories about human nature?
+"Better data and theories drive out worse ones, and progress is made. Why does this not happen in the case of theories about human nature?"
 
-<mark>Theories about human nature can actually produce changes in how people behave</mark>. A theory that is false can become true simply by people believing it's true. 
+"<mark>Theories about human nature can actually produce changes in how people behave</mark>. A theory that is false can become true simply by people believing it's true." 
 
-**Performance-oriented** vs. **Mastery-oriented**: Performance-oriented people want to <em>prove</em> their ability while mastery-oriented people want to <em>improve</em> their ability. 
+"**Performance-oriented** vs. **Mastery-oriented**: Performance-oriented people want to <em>prove</em> their ability while mastery-oriented people want to <em>improve</em> their ability." 
 
-So is intelligence fixed? Partly, that depends on whether you believe it's fixed. 
+"So is intelligence fixed? Partly, that depends on whether you believe it's fixed." 
 
-Unless there is a collective effort to combat this ideology, we will all become the lazy, selfish pursuers of self-interest, not just in work but in our lives as a whole, that at least some social scientists have assumed we always were. So the question becomes: What can we do? 
+"Unless there is a collective effort to combat this ideology, we will all become the lazy, selfish pursuers of self-interest, not just in work but in our lives as a whole, that at least some social scientists have assumed we always were. So the question becomes: What can we do?" 
 
-<mark>If we design workplaces that permit people to do work they value, we will be designing a human nature that values work</mark>. 
+"<mark>If we design workplaces that permit people to do work they value, we will be designing a human nature that values work</mark>." 
 
-The first step to taking responsibility over the structure of our workplace is to start asking questions. 
+"The first step to taking responsibility over the structure of our workplace is to start asking questions." 
 
-Are the results of our transactions with customers positive sum, so that both sides leave the transaction better off? 
+"Are the results of our transactions with customers positive sum, so that both sides leave the transaction better off?" 
 
-We can demand of ourselves the effort to find the ways in which other people benefit if we do our jobs with enthusiasm rather than indifference. 
+"We can demand of ourselves the effort to find the ways in which other people benefit if we do our jobs with enthusiasm rather than indifference." 
 
-Industrialization has been a spectacular human achievement. But as it has relieved material poverty, it has done so at the price of poverty of spirit.
+"Industrialization has been a spectacular human achievement. But as it has relieved material poverty, it has done so at the price of poverty of spirit."

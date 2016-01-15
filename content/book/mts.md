@@ -6,6 +6,10 @@ Categories = []
 
 Tags = ["books"]
 
+authorname= "Chip and Dan Heath"
+amazonlink = "http://amzn.to/1Nc4icl"
+bookpage = "http://heathbrothers.com/books/made-to-stick/"
+
 Description = ""
 
 title = "Made To Stick"
@@ -22,11 +26,4 @@ Many good ideas don't get the attention they deserve simply because they are com
 
 This book will teach you how to make people care, pay attention, remember, and act on your ideas. Next time you stumble upon a great  communicator, you'll recognize that they are applying  some or all of the techniques discussed in this book. 
 
----------
-
-Author: Chip and Dan Heath.
-
-[Amazon Link](http://amzn.to/22gNCMi)
-
-[Official Book Site](http://heathbrothers.com/books/made-to-stick/)
 
