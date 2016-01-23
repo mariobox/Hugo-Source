@@ -17,7 +17,7 @@ The economies of scale achieved through technology have dramatically reduced the
 
 ### 2. Lesson Delivery
 
-While some people will always prefer face to face lessons, the advantages of video are hard to ignore. For one, cost: why pay somebody to deliver the same lesson over and over again, when you can just capture it on video, once?  Today's educational videos are highly optimized pieces of content, where everything: from the instructor's tone of voice, to the words chosen to explain the concepts, to the infographics used as teaching aids, and even the backround decor, have been thoroughly tested to provide the most effective learning experience. A video can also reach millions, not just the number of students that fit in a typical classroom. You can also rewind a video at your leisure, watch it as many times as you want, when you want, wherever you may be.
+While some people will always prefer face to face lessons, the advantages of video are hard to ignore. For one, cost: why pay somebody to deliver the same lesson over and over again, when you can just capture it on video, once?  Today's educational videos are highly optimized pieces of content where everything, from the instructor's tone of voice, to the words chosen to explain the concepts, to the infographics used as teaching aids, and even the backround decor, have been thoroughly tested to provide the most effective learning experience. A video can also reach millions, not just the number of students that fit in a typical classroom. You can also rewind a video at your leisure, watch it as many times as you want, when you want, wherever you may be.
 
 ### 3. Socialization and Interaction
 
