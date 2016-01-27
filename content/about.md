@@ -56,7 +56,7 @@ For more on my professional background you can visit my [Linkedin](http://www.li
 
 ### Influencers
 
-Motivational speaker Jim Rohn once said the [you are the average of the five people you spend the most time with](http://www.goodreads.com/quotes/1798-you-are-the-average-of-the-five-people-you-spend). I hope that he also meant the five (or so) people you read the most. These are a few people that I follow and whose work has influenced the way I think:
+Motivational speaker Jim Rohn once said that [you are the average of the five people you spend the most time with](http://www.goodreads.com/quotes/1798-you-are-the-average-of-the-five-people-you-spend). I hope that he also meant the five (or so) people you read the most. These are a few people that I follow and whose work has influenced the way I think:
 
 * [Derek Sivers](http://sivers.org)
 
@@ -67,12 +67,6 @@ Motivational speaker Jim Rohn once said the [you are the average of the five peo
 * [Tim Ferris](http://fourhourworkweek.com)
 
 * [James Altucher](http://www.jamesaltucher.com)
-
-* [Sebastian Marshall](http://www.sebastianmarshall) 
-
-* [Sacha Chua](http://www.sachachua.com)
-
-* [Garr Reynolds](http://www.presentationzen.com)
 
 
 ### How To Contact Me ###
