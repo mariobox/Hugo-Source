@@ -36,7 +36,7 @@ For more on my professional background you can visit my [Linkedin](http://www.li
 
 * I enjoy [reading](../reading/) especially books about marketing, personal finance, personal development and biographies.
 
-### Themes and Areas of Interest and Focus
+### Themes and Areas of Interest
 
 * [Web development](/tags/tech/) and digital self-reliance.
 
