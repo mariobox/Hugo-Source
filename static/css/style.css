@@ -60,10 +60,8 @@ body {
 	color: #222;
         font-size: 1.2em;
 	line-height: 1.0em;
-	max-width: 800px;
-        margin: auto;
-        padding: 1.5em 0.5em 0.0em 0.5em;
-}
+	margin: auto;
+       }
 
 p  {
 	line-height: 1.7em;
@@ -197,15 +195,15 @@ a:focus {
 }
 
 .date {
-  color: #D8D8D8;
+  color: #E5E4E2;
 }
 
 a.social:link, a.social:visited, a.social:hover, a.social:active {
-  color: #D8D8D8;
+  color: #D1D0C3;
 }
 
 .social {
-  color: #D8D8D8;
+  color: #D1D0C3;
 }  
 
 mark {
@@ -289,10 +287,19 @@ li#tags {
 
 .menu {
     font-weight: normal;
-    float: left;
     margin-right: 30px;
     
 }
+
+.home {
+    	font-weight: bold;
+	margin-right: 60px;
+    	font-size: 1.2em;
+
+    
+}
+
+
 
 .menu a:hover {
     color: #222;
@@ -410,12 +417,24 @@ button:active {
 
 /* navigation */
 
+.wrap-menu {
+   	position: fixed;
+	background-color: #E5E4E2;
+	padding-top: 1.0em;
+	padding-bottom: 1.0em;
+	box-shadow: 0 1px 4px rgba(0,0,0, .4);
+	top: 0;
+ 	z-index: 1000;
+	width: 100%;
 
-nav {
-        margin-top: 5px;
-        text-align: left;
-        color: #222;
 }
+
+.wrap-footer {
+   	background-color: #463E3F;
+	padding-top: 1.0em;
+	padding-bottom: 1.0em;
+}
+
 
 nav a:link {
         text-decoration: none;
@@ -432,7 +451,38 @@ nav a:active {
         color: #999;
 }
 
+.home a:link {
+        text-decoration: none;
+        color: #333;
+}
+
+.home a:visited {
+        text-decoration: none;
+        color: #333;
+}
+
+.home a:active {
+        text-decoration: none;
+        color: #333;
+}
+
+
 /* Grid */
+
+.wrap {
+	max-width: 800px;
+	margin: 0 auto;
+	
+}
+
+.wrap-content {
+	max-width: 800px;
+	margin: 0 auto;
+	padding-top: 3.5em;
+	padding-bottom: 3.0em;
+		
+}
+
 
 .contain {
 	position: relative;
