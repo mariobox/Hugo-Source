@@ -199,11 +199,11 @@ a:focus {
 }
 
 a.social:link, a.social:visited, a.social:hover, a.social:active {
-  color: #D1D0C3;
+  color: #777;
 }
 
 .social {
-  color: #D1D0C3;
+  color: #777;
 }  
 
 mark {
@@ -288,6 +288,7 @@ li#tags {
 .menu {
     font-weight: normal;
     margin-right: 30px;
+    vertical-align: middle;
     
 }
 
@@ -295,7 +296,7 @@ li#tags {
     	font-weight: bold;
 	margin-right: 60px;
     	font-size: 1.2em;
-
+	
     
 }
 
@@ -419,10 +420,10 @@ button:active {
 
 .wrap-menu {
    	position: fixed;
-	background-color: #E5E4E2;
+	background-color: #FFFFFF;
 	padding-top: 1.0em;
 	padding-bottom: 1.0em;
-	box-shadow: 0 1px 4px rgba(0,0,0, .4);
+	box-shadow: 0 1px 0px rgba(0,0,0, .4);
 	top: 0;
  	z-index: 1000;
 	width: 100%;
@@ -430,7 +431,7 @@ button:active {
 }
 
 .wrap-footer {
-   	background-color: #463E3F;
+   	background-color: #E5E4E2;
 	padding-top: 1.0em;
 	padding-bottom: 1.0em;
 }
