@@ -61,6 +61,8 @@ body {
         font-size: 1.2em;
 	line-height: 1.0em;
 	margin: auto;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
        }
 
 p  {
