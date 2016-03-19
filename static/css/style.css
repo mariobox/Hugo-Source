@@ -61,9 +61,7 @@ body {
         font-size: 1.2em;
 	line-height: 1.0em;
 	margin: auto;
-	padding-left: 0.5em;
-	padding-right: 0.5em;
-       }
+}
 
 p  {
 	line-height: 1.7em;
@@ -425,6 +423,8 @@ button:active {
 	background-color: #FFFFFF;
 	padding-top: 1.0em;
 	padding-bottom: 1.0em;
+        padding-left: 0.5em;
+	padding-right: 0.5em;
 	box-shadow: 0 1px 0px rgba(0,0,0, .4);
 	top: 0;
  	z-index: 1000;
@@ -436,6 +436,8 @@ button:active {
    	background-color: #E5E4E2;
 	padding-top: 1.0em;
 	padding-bottom: 1.0em;
+ 	padding-left: 0.5em;
+	padding-right: 0.5em;
 }
 
 
@@ -483,6 +485,8 @@ nav a:active {
 	margin: 0 auto;
 	padding-top: 3.5em;
 	padding-bottom: 3.0em;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
 		
 }
 
