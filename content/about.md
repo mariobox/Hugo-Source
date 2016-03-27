@@ -15,7 +15,7 @@ I was born and raised in [Lima, Peru](http://farm5.staticflickr.com/4115/4935682
 
 Since then, I have helped Fortune 500 companies develop and market consumer products in Latin America. My core competencies are product strategy, product development, sourcing, and product marketing.
 
-My engineering background helps me approach marketing from a **numbers-oriented, process-driven perspective**, where <mark>proper execution is as important as the strategy behind it</mark>. 
+My engineering background helps me approach marketing from a **numbers-oriented, process-driven perspective**. 
 
 For more on my professional background you can visit my [Linkedin](http://www.linkedin.com/in/mariobox/) page.
 
@@ -25,7 +25,7 @@ For more on my professional background you can visit my [Linkedin](http://www.li
 
 * I'm fluent in English, Spanish and Portuguese.
 
-* I'm defined as an [INTJ](http://mariosanchez.org/images/INTJ.PNG) introvert according to the Myers-Briggs personality type indicator. I am most comfortable working by myself, and thrive in challenging work environments where I have a high degree of autonomy and control over my deliverables.
+* I'm defined as an [INTJ](http://mariosanchez.org/images/INTJ.PNG) introvert according to the Myers-Briggs personality type indicator. I am most comfortable working by myself, and thrive in challenging work environments where I have a high degree of autonomy and control over my work.
 
 * I am teaching myself the basics of front end web development, which so far has involved learning HMTL5, CSS3, Javascript, Git and how to use a static site generator to publish on the web (I am currently using [Hugo](http://gohugo.io), a static site generator built with [Go](http://golang.org)). 
 
@@ -42,21 +42,19 @@ For more on my professional background you can visit my [Linkedin](http://www.li
 
 * The [disruption of traditional education](/post/onlineed) by technology.
 
-* [Minimalism](/post/mini) as an enabler of freedom, flexibility and mobility.
-
-* The sharing economy and its role in transforming lives based on owning things into lives focused on experiences.
+* [Minimalism](/post/mini) as an enabler for freedom, flexibility and mobility.
 
 * Frugality and [conservative investments](/post/money-tips).
 
-* Systems, automation, delegation, and other techniques that free up time to focus on priorities.
+* Systems, automation, delegation, and other techniques that give us more time to do what we want.
 
-* [Branding](/post/brand/) as a facilitator to communicate good ideas.
+* [Branding](/post/brand/) as tool for effective communication.
 
 * Authentic, purpose-driven marketing, and products with a strong POV (point of view).
 
 ### Influencers
 
-Motivational speaker Jim Rohn once said that [you are the average of the five people you spend the most time with](http://www.goodreads.com/quotes/1798-you-are-the-average-of-the-five-people-you-spend). I hope that he also meant the five (or so) people you read the most. These are a few people that I follow and whose work has influenced the way I think:
+Motivational speaker Jim Rohn once said that [you are the average of the five people you spend the most time with](http://www.goodreads.com/quotes/1798-you-are-the-average-of-the-five-people-you-spend). These are five people that I follow and whose work has influenced the way I think:
 
 * [Derek Sivers](http://sivers.org)
 
