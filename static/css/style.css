@@ -61,6 +61,9 @@ body {
         font-size: 1.2em;
 	line-height: 1.0em;
 	margin: auto;
+        max-width: 800px;
+        padding-left: 1em;
+        padding-right: 1em;
 }
 
 p  {
@@ -431,12 +434,16 @@ button:active {
 }
 
 .wrap-footer {
-   	background-color: #E5E4E2;
+   	background-color: #FFFFFF;
 	padding-top: 1.0em;
 	padding-bottom: 1.0em;
  	
 }
 
+nav {
+     padding-top: 1em;
+     
+}
 
 nav a:link {
         text-decoration: none;
@@ -499,12 +506,6 @@ nav a:active {
 }
 /* For devices larger than 400px */
 
-@media (min-width: 400px) {
-	.contain {
-		width: 100%;
-		padding: 0;
-	}
-}
 /* For devices larger than 550px */
 
 @media (min-width: 550px) {

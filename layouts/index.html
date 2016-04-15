@@ -1,35 +1,12 @@
 {{ partial "header.html" . }}
 
-<h1>Intro</h1>
 
 <p>
-This is the personal website of <strong>Mario Sanchez Carrion</strong>. I am a Miami-based product marketing manager with 20+ years of experience developing and marketing consumer products in Latin America. I am self-studying front-end web development and basic programming, and use this site to practice what I learn.
+This is the personal website of <strong>Mario Sanchez Carrion</strong>. I am a Miami-based marketing professional with 20+ years of experience designing and executing product marketing strategies for consumer products in Latin America. 
 
 </p>
 <p>[<a href="/about">More</a>]</p>
 
-<h2>Blog Posts</h2>
-<ul class="nobullet">
-{{ range first 3 (where .Data.Pages "Section" "post") }}
-{{ if eq .Type "post" }}
-{{ .Render "li" }}
-{{ end }}
-{{ end }}
-</ul>
-<p>[<a href="/post">More</a>]</p>
-
-<h2>Book Reviews</h2>
-<ul class="nobullet">
-{{ range first 3 (where .Data.Pages "Section" "book") }}
-{{ if eq .Type "book" }}
-{{ .Render "li" }}
-{{ end }}
-{{ end }}
-</ul>
-<p>[<a href="/book">More</a>]</p>
-
-
-<p>I have just started a mailing list. You can <a href="http://www.tinyletter.com/mariosanchez">join here</a>.</p>
 
 {{ partial "footer.html" . }}
 
