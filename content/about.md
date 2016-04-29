@@ -13,9 +13,9 @@ My name is Mario Sanchez Carrion. I am a **Miami-based marketing professional**,
 
 I was born and raised in [Lima, Peru](http://farm5.staticflickr.com/4115/4935682049_a0215ceb6e_z.jpg). A couple of years after finishing my engineering studies at [Pontificia Universidad Catolica del Peru](http://www.pucp.edu.pe/en/about-pucp/our-university/welcome/) I came to the United States where I enrolled in the University of Miami on a merit scholarship and earned an **MBA in marketing and international business**.
 
-Since then, I've been helping Fortune 500 companies develop and market consumer products in Latin America. My core competencies are product strategy, product development, sourcing, and product marketing.
+Since then, I've been helping Fortune 500 companies develop and market consumer and industrial products in Latin America. My core competencies are product strategy, product development, sourcing, and product marketing.
 
-For more on my professional background you can visit my [Linkedin](http://www.linkedin.com/in/mariobox/) page.
+For more on my professional background visit my [Linkedin](http://www.linkedin.com/in/mariobox/) page.
 
 <a name="2"></a>
 
@@ -23,15 +23,15 @@ For more on my professional background you can visit my [Linkedin](http://www.li
 
 * I'm fluent in English, Spanish and Portuguese.
 
-* I'm defined as an [INTJ](http://mariosanchez.org/images/INTJ.PNG) introvert according to the Myers-Briggs personality type indicator. I am most comfortable working by myself, and thrive in challenging work environments where I have a high degree of autonomy and control over my deliverables.
+* I'm defined as an [INTJ](http://mariosanchez.org/images/INTJ.PNG) introvert according to the Myers-Briggs personality type indicator. I am most comfortable working by myself, and thrive in challenging environments where I have a high degree of autonomy and control over my work.
 
-* In my spare time I try to learn all I can about front end web development and basic programming, using online platforms like [Treehouse](https://teamtreehouse.com/mariosanchezcarrion) and [Codecademy](https://www.codecademy.com/scriptNinja80439). 
+* In my spare time I am learning front end web development and basic programming, using online platforms like [Treehouse](https://teamtreehouse.com/mariosanchezcarrion) and [Codecademy](https://www.codecademy.com/scriptNinja80439). 
 
 * I am an avid soccer fan. I rarely miss a game of my favorite team, Argentine side [River Plate](http://farm5.staticflickr.com/4055/4448440498_5d731b2102_z.jpg). I also follow Spain's La Liga and other European leagues.
 
 * I am a frequent traveler both for business and pleasure. So far, I've visited 55 different countries. Here are some [pictures](../photos).
 
-* I enjoy [reading](../reading/) especially books about marketing, personal finance, personal development and biographies.
+* I enjoy [reading](../reading/), especially books about marketing, personal finance, personal development and biographies.
 
 ### Themes and Areas of Interest
 
@@ -49,8 +49,6 @@ For more on my professional background you can visit my [Linkedin](http://www.li
 
 
 ### Influencers
-
-Motivational speaker Jim Rohn once said that [you are the average of the five people you spend the most time with](http://www.goodreads.com/quotes/1798-you-are-the-average-of-the-five-people-you-spend). These are five people that I follow online and whose work has influenced the way I think:
 
 * [Derek Sivers](http://sivers.org)
 
