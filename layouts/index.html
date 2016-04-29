@@ -8,6 +8,20 @@ This is the personal website of <strong>Mario Sanchez Carrion</strong>. I specia
 
 <p>Here are some details on how I built <a href="/colophon">this site</a>.</p>
 
+<hr />
+
+<h3>Articles</h3>
+
+<ul>
+{{ range first 3 (where .Data.Pages "Section" "post") }}
+{{ if eq .Type "post" }}
+{{ .Render "li" }}
+{{ end }}
+{{ end }}
+</ul>
+
+<p>[<a href="/post">More</a>]</p>
+
 
 {{ partial "footer.html" . }}
 
