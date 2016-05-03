@@ -12,7 +12,7 @@ title = "Before You Sharpen That Axe"
 
 Most people don't fail because they don't have enough money or plans, but because they don't know what they want. 
 
-Figuring out what you want is hard, that's why so few people do it. It is easier to just start doing things, like answering email or running errands: they keep us busy and give us the illusion that we're making progress.
+Figuring out what you want is hard, that's why so few people engage on it. It is easier to just start doing things, like answering email or running errands: they keep us busy and give us the illusion of making progress.
 
 Deciding what we really want, though, is the first step before starting a project, launching a career or designing a life plan.
 
