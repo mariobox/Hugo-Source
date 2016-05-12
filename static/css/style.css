@@ -178,17 +178,17 @@ hr {
 
 
 a:link {
-	color: #222;
+	color: #555;
 	text-decoration: underline;
 }
 
 a:visited {
-	color: #222;
+	color: #555;
 	text-decoration: underline;
 }
 
 a:active {
-	color: #222;
+	color: #555;
 	text-decoration: none;
 }
 
@@ -198,15 +198,15 @@ a:focus {
 }
 
 .date {
-  color: #E5E4E2;
+  color: #777;
 }
 
 a.social:link, a.social:visited, a.social:hover, a.social:active {
-  color: #777;
+  color: #555;
 }
 
 .social {
-  color: #777;
+  color: #222;
 }  
 
 mark {
