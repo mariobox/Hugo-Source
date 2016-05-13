@@ -59,6 +59,6 @@ This is what you do:
 
 * If you want to call the repository something else, just rename it as you want. 
 
-* Finally, clone the repository to your local computer by going back to the terminal and typing <code>git clone [URL OF THE REPOSITORY]</code>.  
+* Finally, clone the repository to your local computer by going back to the terminal and typing <code>git clone URL OF THE REPOSITORY</code>.  
 
-Once you've cloned the repository amd done some work on it, the process is the same as when you update a local repository created from scratch: you work on your files, make some changes, add them to the staging area, commit them, and finally push them back to the remote repository with <code>git push origin master</code>.
+Once you've cloned the repository and done some work on it, the process is the same as when you update a local repository created from scratch: you work on your files, make some changes, add them to the staging area, commit them, and finally push them back to the remote repository with <code>git push origin master</code>.
