@@ -8,6 +8,8 @@ Tags = ["tech"]
 
 Description = ""
 
+draft = "true"
+
 title = "Understanding Static Site Generators"
 slug = "ssg"
 +++

@@ -4,7 +4,7 @@ Description = ""
 Subtitle = ""
 Tags = ["money", "life"]
 date = "2016-02-28T13:14:04-05:00"
-draft = "false"
+draft = "true"
 slug = ""
 title = "Getting Your Message Across With Stories"
 

@@ -28,8 +28,6 @@ Here's what I did:
 
 My new Ubuntu installation works perfectly. It is fast and efficient, and the interface is intuitive enough that anybody can use it. Ubuntu also comes Firefox already installed, and with LibreOffice, an open source office suite  compatible with Microsoft Office. That means you can open and edit files like Word documents, Excel spreadsheets and PowerPoint presentations and share them with other users quickly and easily. 
 
-I also tried to run Ubuntu from the USB port in my other computer (the one I use every day), but I run into a problem that I haven't yet been able to solve: Ubuntu doesn't detect any wifi networks. I guess plain old Windows will have to do for my main computer for now.
-
 Overall, I am very happy that my old laptop got a new lease of life, and that installing (and using) the free and open source Ubuntu on it was easy and painless.
 
 <img src="/../images/ubuntu.jpg">

@@ -6,7 +6,7 @@ Categories = []
 
 Tags = ["tech"]
 
-Drafts = "true"
+draft = "true"
 
 Description = ""
 
