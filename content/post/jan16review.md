@@ -4,7 +4,7 @@ Description = ""
 Subtitle = ""
 Tags = ["tech"]
 date = "2016-02-03T17:04:27-05:00"
-draft = "false"
+draft = "true"
 slug = ""
 title = "January Review: Learning Javascript"
 

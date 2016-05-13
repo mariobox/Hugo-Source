@@ -32,7 +32,7 @@ Here we go.
 
 	* Go to Github and create a new project folder where you're going to place and track *grocery.txt*. You can call it *new-project*. 
 	* Look around the screen for the URL of the project folder you just created. It should be something like <code>https://www.github.com/youraccount/new-project.git</code>  
-	* Copy that URL, go back to your terminal, and type <br /><code>git add remote origin http://www.github.com/youraccount/new-project/.git</code> 
+	* Copy that URL, go back to your terminal, and type <br /><code>git add remote origin http://www.github.com/youraccount/new-project.git</code> 
 	* Push your file to the remote repository with <code>git push origin master</code> (if at any point Github asks you for your username and password type them in).
 
 Now you are tracking *grocery.txt* both in your local repository (your computer) and a remote repository!
@@ -57,7 +57,7 @@ This is what you do:
 
 * Go to Github and follow the instructions to fork the repository to your profile. 
 
-* If you want to call the repository something else, just rename as you want. 
+* If you want to call the repository something else, just rename it as you want. 
 
 * Finally, clone the repository to your local computer by going back to the terminal and typing <code>git clone [URL OF THE REPOSITORY]</code>.  
 
