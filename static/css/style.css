@@ -58,12 +58,12 @@ html {
 body {
 	font-family: 'Roboto'; sans-serif;
 	color: #222;
-        font-size: 1.2em;
+    font-size: 1.2em;
 	line-height: 1.0em;
 	margin: auto;
-        max-width: 800px;
-        padding-left: 1em;
-        padding-right: 1em;
+    max-width: 800px;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 p  {
@@ -85,14 +85,14 @@ ul {
 }
 
 ul.nobullet {
-        list-style-type:none;
-        padding-left: 0px;
-        margin-left: -1em;
+    list-style-type:none;
+    padding-left: 0px;
+    margin-left: -1em;
 }
 
 li {
 	line-height: 1.5em;
-        margin-bottom: .38em;
+    margin-bottom: .38em;
 	margin-left: 1em;
 }
 
@@ -115,11 +115,6 @@ h1 {
 	margin-bottom: .4em;
 }
 
-h1#logo {
-	font-size: 2.5em;
-	line-height: 1.2em;
-	margin-bottom: .4em;
-}
 
 h2 {
 	font-size: 1.8em;
@@ -201,14 +196,6 @@ a:focus {
   color: #777;
 }
 
-a.social:link, a.social:visited, a.social:hover, a.social:active {
-  color: #555;
-}
-
-.social {
-  color: #222;
-}  
-
 mark {
     background-color: #ccffcc;
     color: #000;
@@ -288,28 +275,6 @@ li#tags {
 
 /* menu items */
 
-.menu {
-    font-weight: normal;
-    margin-right: 30px;
-    vertical-align: middle;
-    
-}
-
-.home {
-    	font-weight: bold;
-	margin-right: 60px;
-    	font-size: 1.2em;
-	
-    
-}
-
-
-
-.menu a:hover {
-    color: #222;
-    font-weight: bold;
-}
-
 
 
 /* images */
@@ -328,11 +293,11 @@ img.roundnew {
 
 img.profile {
 	padding: 4px;
-        border: 1px solid #ccc;
-        box-shadow: 1px 3px 3px #ddd;
+    border: 1px solid #ccc;
+    box-shadow: 1px 3px 3px #ddd;
 	margin-bottom: 1em;
-        margin-right:2%;
-        float: left;
+    margin-right:2%;
+    float: left;
 }
 
 img {
@@ -421,74 +386,9 @@ button:active {
 
 /* navigation */
 
-.wrap-menu {
-   	/* position: fixed;*/
-	background-color: #FFFFFF;
-	padding-top: 1.0em;
-	padding-bottom: 1.0em;
-        box-shadow: 0 1px 0px rgba(0,0,0, .4);
-	top: 0;
- 	/* z-index: 1000;*/
-	width: 100%;
-	
-}
-
-.wrap-footer {
-   	background-color: #FFFFFF;
-	padding-top: 1.0em;
-	padding-bottom: 1.0em;
- 	
-}
-
-nav {
-     padding-top: 1em;
-     
-}
-
-nav a:link {
-        text-decoration: none;
-        color: #999;
-}
-
-nav a:visited {
-        text-decoration: none;
-        color: #999;
-}
-
-nav a:active {
-        text-decoration: none;
-        color: #999;
-}
-
-.home a:link {
-        text-decoration: none;
-        color: #333;
-}
-
-.home a:visited {
-        text-decoration: none;
-        color: #333;
-}
-
-.home a:active {
-        text-decoration: none;
-        color: #333;
-}
 
 
 /* Grid */
-
-.wrap {
-	max-width: 800px;
-	margin: 0 auto;
-	
-}
-
-.wrap-content {
-	max-width: 800px;
-	margin: 0 auto;
-			
-}
 
 
 .contain {
@@ -501,7 +401,7 @@ nav a:active {
 .col {
 	width: 100%;
 	float: left;
-        padding-bottom: 1em;
+    padding-bottom: 1em;
 	box-sizing: border-box;
 }
 /* For devices larger than 400px */
@@ -517,7 +417,7 @@ nav a:active {
 		box-sizing: border-box;
 	}
 
-        .col:first-child {
+    .col:first-child {
 		margin-left: 0;
 	}
 	
