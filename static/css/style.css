@@ -275,6 +275,9 @@ li#tags {
 
 /* menu items */
 
+nav {
+    padding-top: 1em;
+ }
 
 
 /* images */
