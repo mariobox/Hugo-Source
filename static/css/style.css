@@ -57,7 +57,7 @@ html {
 
 body {
 	font-family: 'Roboto'; sans-serif;
-	color: #222;
+	color: #555;
     font-size: 1.2em;
 	line-height: 1.0em;
 	margin: auto;
@@ -106,7 +106,7 @@ h5,
 h6 {
 	font-family: 'Roboto Condensed'; sans-serif;
 	font-weight: 600;
-	color: #333;
+	color: #555;
 }
 
 h1 {
@@ -173,17 +173,17 @@ hr {
 
 
 a:link {
-	color: #555;
+	color: #222;
 	text-decoration: underline;
 }
 
 a:visited {
-	color: #555;
+	color: #222;
 	text-decoration: underline;
 }
 
 a:active {
-	color: #555;
+	color: #222;
 	text-decoration: none;
 }
 
@@ -193,7 +193,7 @@ a:focus {
 }
 
 .date {
-  color: #777;
+  color: #999;
 }
 
 mark {
