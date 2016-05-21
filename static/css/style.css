@@ -58,12 +58,13 @@ html {
 body {
 	font-family: 'Roboto'; sans-serif;
 	color: #555;
-    font-size: 1.2em;
+    font-size: 1.1em;
 	line-height: 1.0em;
 	margin: auto;
-    max-width: 800px;
+    max-width: 900px;
     padding-left: 1em;
     padding-right: 1em;
+    background: #fffafa;
 }
 
 p  {
@@ -92,8 +93,8 @@ ul.nobullet {
 
 li {
 	line-height: 1.5em;
-    margin-bottom: .38em;
-	margin-left: 1em;
+    margin-bottom: 1.0em;
+	margin-left: 1.0em;
 }
 
 
@@ -173,17 +174,17 @@ hr {
 
 
 a:link {
-	color: #222;
+	color: #000;
 	text-decoration: underline;
 }
 
 a:visited {
-	color: #222;
+	color: #000;
 	text-decoration: underline;
 }
 
 a:active {
-	color: #222;
+	color: #000;
 	text-decoration: none;
 }
 
@@ -193,7 +194,7 @@ a:focus {
 }
 
 .date {
-  color: #999;
+  color: #555;
 }
 
 mark {
