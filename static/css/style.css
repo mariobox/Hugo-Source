@@ -58,10 +58,10 @@ html {
 body {
 	font-family: 'Roboto'; sans-serif;
 	color: #555;
-    font-size: 1.1em;
+    font-size: 1.2em;
 	line-height: 1.0em;
 	margin: auto;
-    max-width: 900px;
+    max-width: 850px;
     padding-left: 1em;
     padding-right: 1em;
     background: #fffafa;
