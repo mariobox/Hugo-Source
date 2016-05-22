@@ -20,9 +20,9 @@ Here we go.
 
 * Type <code>git init</code> to create a new subdirectory, called .git, where your file changes are going to be tracked.
 
-* Create a new file, let's say: *grocery.txt* (a simple text file listing different grocery stores in your neighborhood).
+* Create a new file, for example one called *grocery.txt* (a simple text file listing different grocery stores in your neighborhood) by typing <code>touch grocery.txt</code>.
 
-* Add some grocery store names and save the file.
+* Open your favorite text editor, add some grocery store names and save the file.
 
 * Add the file to the staging area by doing <code>git add grocery.txt</code>
 
@@ -32,7 +32,7 @@ Here we go.
 
 	* Go to Github and create a new project folder where you're going to place and track *grocery.txt*. You can call it *new-project*. 
 	* Look around the screen for the URL of the project folder you just created. It should be something like <code>https://www.github.com/youraccount/new-project.git</code>  
-	* Copy that URL, go back to your terminal, and type <br /><code>git add remote origin http://www.github.com/youraccount/new-project.git</code> 
+	* Copy that URL, go back to your terminal, and type <br /><code>git add remote origin https://www.github.com/youraccount/new-project.git</code> 
 	* Push your file to the remote repository with <code>git push origin master</code> (if at any point Github asks you for your username and password type them in).
 
 Now you are tracking *grocery.txt* both in your local repository (your computer) and a remote repository!
