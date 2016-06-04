@@ -5,17 +5,15 @@ date = "2014-09-27"
 slug = "about"
 +++
 
-<p><img src="http://mariosanchez.org/images/msc-rio.jpg" class="roundcorners"></p>
-
 <a name="1"></a>
 
-My name is Mario Sanchez Carrion. I am a Miami-based marketing professional, industrial engineer and tech enthusiast. 
+My name is **Mario Sanchez Carrion**. I am a Miami-based marketing professional and web development enthusiast. 
 
-I was born and raised in [Lima, Peru](http://farm5.staticflickr.com/4115/4935682049_a0215ceb6e_z.jpg). A couple of years after finishing my engineering studies at [Pontificia Universidad Catolica del Peru](http://www.pucp.edu.pe/en/about-pucp/our-university/welcome/) I came to the United States where I enrolled in the University of Miami on a merit scholarship and earned an **MBA in marketing and international business**.
+I was born and raised in [Lima, Peru](http://farm5.staticflickr.com/4115/4935682049_a0215ceb6e_z.jpg) and have been living in the U.S. since 1989. On the academic front, I graduated as an industrial engineer from the [Pontificia Universidad Catolica del Peru](http://www.pucp.edu.pe/en/about-pucp/our-university/welcome/) and then earned an MBA from the [University of Miami](http://www.miami.edu).
 
-Since then, I've been helping Fortune 500 companies [develop and market consumer and industrial products](http://www.linkedin.com/in/mariobox/) in Latin America. My core competencies are product strategy, product development, sourcing, and product marketing.
+For the last twenty years I've been helping Fortune 500 companies [develop and market consumer and industrial products](http://www.linkedin.com/in/mariobox/) in Latin America. My core competencies are product strategy, product development, sourcing, and product marketing.
 
-Most recently I've started exploring (and learning the basics of) **web development technology**, and its applications in **publishing, education and branding**.
+Most recently I've started exploring different web development technologies and their applications in **publishing, education and branding**.
 
 
 <a name="2"></a>
@@ -49,4 +47,4 @@ Most recently I've started exploring (and learning the basics of) **web developm
 
 ### How To Contact Me ###
 
-The best way to reach me is by Email: <a href="mailto:mario@mariosanchez.org">mario@mariosanchez.org</a>. I also maintain profiles in some [social networks](../contact/).
+Email works best: <a href="mailto:mario@mariosanchez.org">mario@mariosanchez.org</a>. I also maintain profiles in some [social networks](../contact/).

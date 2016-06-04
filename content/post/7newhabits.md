@@ -6,7 +6,7 @@ Tags = ["business", "life", "tech"]
 date = "2016-05-30T11:17:25-04:00"
 draft = "false"
 slug = ""
-title = "7 (New) Habits for Success in the Digital Age"
+title = "7 Useful Habits for the Digital Age"
 
 +++
 
