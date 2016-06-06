@@ -1,60 +1,7 @@
 
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic);
-
-@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400italic,700italic,400,700);
-
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700);
-
-
-/* baseline */
-
-html,
-body,
-div,
-span,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-hr,
-p,
-blockquote,
-pre,
-a,
-li,
-ul,
-ol,
-cite,
-code,
-del,
-em,
-img,
-article,
-header,
-footer,
-nav {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 1em;
-	font: inherit;
-	vertical-align: baseline;
-}
-
-body,
-header,
-footer,
-article {
-	display: block;
-}
-
-html { 
-  overflow-y: scroll; 
-}
 
 
 /* typography */
@@ -77,7 +24,7 @@ p  {
 }
 
 p.small {
-        font-size: 0.8em;
+    font-size: 0.8em;
 
 }
 
@@ -111,7 +58,7 @@ h4,
 h5,
 h6 {
 	font-family: 'Open Sans Condensed'; sans-serif;
-	font-weight: 600;
+	font-weight: 700;
 	color: #555;
 }
 
@@ -223,7 +170,7 @@ pre {
 
 code {
 	font-family: monospace;
-	font-size: 1em;
+	font-size: 1.1em;
 	background: #ededed;
 	color: #000;
 	border-radius: 5px;
