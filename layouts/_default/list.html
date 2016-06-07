@@ -1,6 +1,9 @@
 
 {{ partial "header.html" . }}
 
+<div class="row">
+	<div class="twelve columns">
+
 <h1>{{ .Title }}</h1>
 
 {{ range .Data.Pages.GroupByDate "2006" }}
@@ -14,6 +17,11 @@
 </ul>
 
 {{ end }}
+
+<hr />
+
+</div>
+</div>
 
 {{ partial "footer.html" . }}
 					

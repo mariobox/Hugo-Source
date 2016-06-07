@@ -21,28 +21,19 @@ Most recently I've started exploring different web development technologies and 
 ### Other Facts About Me ###
 
 * I'm fluent in English, Spanish and Portuguese.
-
 * I'm defined as an [INTJ](http://mariosanchez.org/images/INTJ.PNG) introvert according to the Myers-Briggs personality type indicator. I am most comfortable working by myself, and thrive in challenging environments where I have a high degree of autonomy and control over my work.
-
 * I am an avid soccer fan. I rarely miss a game of my favorite team, Argentine side [River Plate](http://farm5.staticflickr.com/4055/4448440498_5d731b2102_z.jpg). I also follow Spain's La Liga and other European leagues.
-
 * I am a frequent traveler both for business and pleasure. So far, I've visited 55 different countries. Here are some [pictures](../photos).
-
 * I enjoy [reading](../reading/), especially books about marketing, personal finance, personal development and biographies.
 
 
 ### Influencers
 
 * [Derek Sivers](http://sivers.org)
-
 * [Seth Godin](http://sethgodin.typepad.com)
-
 * [Tim Ferris](http://fourhourworkweek.com)
-
 * [James Altucher](http://www.jamesaltucher.com)
-
 * [Josh Kaufman](http://joshkaufman.net)
-
 
 
 ### How To Contact Me ###

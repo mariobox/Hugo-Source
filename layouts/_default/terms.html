@@ -1,6 +1,9 @@
 
 {{ partial "header.html" . }}
 
+<div class="row">
+	<div class="twelve columns">
+
 <h1>{{ .Title }}</h1>
 
 <ul>
@@ -8,6 +11,9 @@
     <li id="tags"><a href="/tags/{{ $name | urlize }}">{{ $name }}</a></li>
   {{ end }}
 </ul>
+
+</div>
+</div>
 
 {{ partial "footer.html" . }}
 					
