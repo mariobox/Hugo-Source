@@ -13,4 +13,6 @@ For styling, I am using a minimalistic responsive css sheet called [style.css](.
 
 I keep track of changes to the site with [Git](http://www.git-scm.com), and store my [source files](https://github.com/mariobox/mariosanchez.org) in a [Github](http://www.github.com) remote repository.
 
+I do most of my work from the command line, on a Linux terminal emmulator called Git Bash that comes with [Git for Windows](https://git-scm.com/).
+
 
