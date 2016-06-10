@@ -26,8 +26,10 @@ Here's what I did:
 
 5. Finally, I activated the wifi connection by looking for it in the connections icon at the top right of the main window.
 
-My new Ubuntu installation works perfectly. It is fast and efficient, and the interface is intuitive enough that anybody can use it. Ubuntu also comes Firefox already installed, and with LibreOffice, an open source office suite  compatible with Microsoft Office. That means you can open and edit files like Word documents, Excel spreadsheets and PowerPoint presentations and share them with other users quickly and easily. 
+My new Ubuntu installation works perfectly. It is fast and efficient, and the interface is intuitive enough that anybody can use it. Ubuntu also comes Firefox already installed, and with LibreOffice, an open source office suite compatible with Microsoft Office. That means you can open and edit files like Word documents, Excel spreadsheets and PowerPoint presentations and share them with other users quickly and easily. 
 
 Overall, I am very happy that my old laptop got a new lease of life, and that installing (and using) the free and open source Ubuntu on it was easy and painless.
 
 <img src="/../images/ubuntu.jpg">
+
+Related: [How to Get a Decent Dev Computer](http://evbogue.com/decentdevcomputer/) 
