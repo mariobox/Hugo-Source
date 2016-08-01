@@ -189,11 +189,13 @@ You are now ready to upload or git push your site to your web hosting service. Y
 
 **Update:**
 
-If you don't want to start from scratch, I have created a Minimal Hugo Site and git pushed the [source code](https://github.com/mariobox/MinimalHugoSite) to Github.
+If you don't want to start from scratch, I have created a Minimal Hugo Site and git pushed the [source code](https://github.com/mariobox/MinimalHugoSite) to Github. 
 
 You can simply clone the repository by running:
 
 <pre><code>git clone https://github.com/mariobox/MinimalHugoSite.git</code></pre>
+
+You can [see a live demo here](http://mariobox.github.io/minimalhugodemo/).
 
 
 
