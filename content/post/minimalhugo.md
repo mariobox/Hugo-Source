@@ -195,7 +195,7 @@ You can simply clone the repository by running:
 
 <pre><code>git clone https://github.com/mariobox/MinimalHugoSite.git</code></pre>
 
-You can [see a live demo here](http://mariobox.github.io/minimalhugodemo/).
+
 
 
 
