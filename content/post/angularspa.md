@@ -33,13 +33,13 @@ What a SPA does is to allow the header and the footer to stay right where they a
 
 The switch between the content of your <code>index.html</code> and your <code>about.html</code> page is done on the fly by the browser of the person viewing your site, by following the **Angular.js** directives embedded in the page code.
 
-I wanted to test building a SPA by creating a barebones, basic brochure site, using Angular.js to generate four page views: Home, About, Contact and Resume.
+I wanted to test building a SPA by creating a barebones, basic brochure site, using **Angular.js** to generate four page views: Home, About, Contact and Resume.
 
 I found an [excellent tutorial](https://www.airpair.com/angularjs/building-angularjs-app-tutorial) online. After reading it carefully several times I started by creating the index template, which contains the Angular directives to make the site work, and which acts as a template for the whole site. 
 
 I then created bare-bones html files for the other three pages of the site: About, Contact and Resume (nothing fancy, just a couple of <code>\<h1></code> tags and a paragraph).
 
-Finally, I tweaked the **main.js** file to refer to my four pages: <code>/home</code>, <code>/contact</code>, <code>/about</code>, and <code>/resume</code>, instead of all the different pages listed in the tutorial (which uses a bloated website template that I decided not to follow, for simplicity's sake. I also didn't use the Bootstrap style sheets suggested by the author, opting instead for a much simpler style sheet based on [Skeleton](http://getskeleton.com). 
+Finally, I tweaked the **main.js** file to refer to my four pages: <code>/home</code>, <code>/contact</code>, <code>/about</code>, and <code>/resume</code>, instead of all the different pages listed in the tutorial (which uses a bloated website template that I decided not to follow, for simplicity's sake. I also didn't use the Bootstrap style sheets suggested by the author, opting instead for a much simpler style sheet based on [Skeleton](http://getskeleton.com)). 
 
 The **main.js** file is where the real magic happens: it contains the Routes, which are basically the instructions that **Angular.js** gives the browser: "if user clicks on <code>/about</code> do this; if user clicks on <code>/contact</code> do that".
 
