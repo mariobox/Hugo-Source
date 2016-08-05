@@ -86,9 +86,6 @@ li#tags {
 
 /* menu items */
 
-nav {
-    padding-top: 1em;
- }
 
 
 /* images */
@@ -143,6 +140,27 @@ img.travpic {
     border: 1px solid #ccc;
     width: 120px;
         
+}
+
+nav {
+  margin-top: 0.5em;  
+}
+
+.navmenu {
+  padding-top: 1.0em;
+}
+
+.navmenu li {
+  padding-right: 1.5em;
+  list-style-type: none;
+  display: inline;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.0em;
+}
+
+.navmenu a {
+  text-decoration: none;
+  color: #222;
 }
 
 
