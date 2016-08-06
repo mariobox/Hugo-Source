@@ -9,32 +9,32 @@
 
 
 hr {
-	border: solid #ddd;
-	clear: both;
-	border-width: 1px 0 0;
-	height: 0;
-	margin-bottom: .9em;
+  border: solid #ddd;
+  clear: both;
+  border-width: 1px 0 0;
+  height: 0;
+  margin-bottom: .9em;
 }
 
 
 a:link {
-	color: #000;
-	text-decoration: underline;
+  color: #000;
+  text-decoration: underline;
 }
 
 a:visited {
-	color: #000;
-	text-decoration: underline;
+  color: #000;
+  text-decoration: underline;
 }
 
 a:active {
-	color: #000;
-	text-decoration: none;
+  color: #000;
+  text-decoration: none;
 }
 
 a:hover,
 a:focus {
-	color: #000;
+  color: #000;
 }
 
 .date {
@@ -47,7 +47,7 @@ mark {
 }
 
 ul {
-	list-style-type: square;
+  list-style-type: square;
 }
 
 
@@ -99,16 +99,16 @@ img.roundnew {
         
 
 img.profile {
-	padding: 4px;
+  padding: 4px;
     border: 1px solid #ccc;
     box-shadow: 1px 3px 3px #ddd;
-	margin-bottom: 1em;
+  margin-bottom: 1em;
     margin-right:2%;
     float: left;
 }
 
 img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 li.travpic {
@@ -162,5 +162,4 @@ nav {
   text-decoration: none;
   color: #222;
 }
-
 
