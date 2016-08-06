@@ -169,7 +169,6 @@ nav {
 /* Flexnav */
 
 .main-nav {
-  margin-top: 20px;
   list-style-type: none;
 }
 
@@ -191,6 +190,10 @@ nav {
 
 .main-nav, .main-header {
   display: flex;
+}
+
+.main-nav {
+  margin-top: 20px;
 }
 
 
