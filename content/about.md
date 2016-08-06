@@ -5,7 +5,7 @@ date = "2014-09-27"
 slug = "about"
 +++
 
-<img src="/images/msc-rio.jpg">
+<img src="/images/msc-rio.jpg" class="roundnew">
 
 My name is **Mario Sanchez Carrion**. I am a marketing professional and web development enthusiast.
 
@@ -17,7 +17,7 @@ My name is **Mario Sanchez Carrion**. I am a marketing professional and web deve
 
 [Lima, Peru](https://www.youtube.com/watch?v=RYTO_J7ix9Y)
 
-### 15 Second Resume ###
+### 5 Second Resume ###
 
 * Marketing Manager - Black & Decker (2012-present)
 * Marketing Director - Stanley Tools (2008-2012)

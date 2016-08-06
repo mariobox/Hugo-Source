@@ -91,20 +91,19 @@ li#tags {
 /* images */
 
 img.roundnew {
-    border-radius: 10%;
-    border: 1px solid #ccc;
-    margin-bottom: 0.5em;
-    float: left;
+  border-radius: 2%;
+  border: 1px solid #ccc;
+   
 }
         
 
 img.profile {
   padding: 4px;
-    border: 1px solid #ccc;
-    box-shadow: 1px 3px 3px #ddd;
+  border: 1px solid #ccc;
+  box-shadow: 1px 3px 3px #ddd;
   margin-bottom: 1em;
-    margin-right:2%;
-    float: left;
+  margin-right:2%;
+  float: left;
 }
 
 img {
@@ -142,6 +141,8 @@ img.travpic {
         
 }
 
+/* Old Navigation 
+
 nav {
   margin-top: 0.5em;  
 }
@@ -160,6 +161,63 @@ nav {
 
 .navmenu a {
   text-decoration: none;
-  color: #222;
+  color: #222; 
+}  */
+
+/* ---------- NEW NAVIGATION ----------- */
+
+/* Flexnav */
+
+.main-nav {
+  margin-top: 20px;
+  list-style-type: none;
+}
+
+.main-nav a,
+.main-header a {
+  text-align: center;
+  display: block;
+  padding: 0 15px 0 0;
+  text-decoration: none;
+  
+}
+
+.main-nav li {
+  margin: 0;
+}
+
+
+@media (min-width: 769px) {
+.main-header, .main-nav {
+  display: flex;
+}
+
+.main-header {
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-nav li {
+  width: 100px;
+}
+
+}
+
+@media (min-width: 1025px) {
+
+.main-nav {
+  display: flex;
+}
+
+
+.main-header {
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.main-nav li {
+  width: 100px;
+}
+
 }
 
