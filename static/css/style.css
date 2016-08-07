@@ -90,10 +90,10 @@ li#tags {
 /* images */
 
 img.roundnew {
-    border-radius: 10%;
+    border-radius: 3%;
     border: 1px solid #ccc;
     margin-bottom: 0.5em;
-    float: left;
+    
 }
         
 
