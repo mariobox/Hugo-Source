@@ -1,0 +1,37 @@
+
+
+figure {
+	margin: 0;
+	position: relative;
+}
+
+figure img {
+	width: 100%;
+}
+
+figcaption {
+	font-size: 0.85em;
+	line-height: 1.5;
+	color: #fff;
+	background: rgba(19,43,102, .50);
+	bottom: 0;
+	position: absolute;
+	margin-bottom: 12px;
+	margin-left: 5px;
+	padding: 0.6em;
+}
+
+img.frame {
+  padding: 4px;
+  border: 1px solid #ccc;
+  box-shadow: 1px 3px 3px #ddd;
+}
+
+
+
+
+
+
+
+
+
