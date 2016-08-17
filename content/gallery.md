@@ -7,25 +7,21 @@ slug = "gallery"
 
 Places I've been. Things that caught my eye.
 
-<div class="row">
-<div class="four columns"><figure><img src="https://66.media.tumblr.com/048db88744dcc7f30127ae3ccae3ce66/tumblr_obzbaq5C0Z1qz7ur9o1_540.jpg" class="frame"><figcaption>Google Analytics IQ class</figcaption></figure></div>
-<div class="four columns"><figure><img src="https://67.media.tumblr.com/8647cda79e25754c8e47d01a8cfd4d97/tumblr_obzannm7fP1qz7ur9o1_540.jpg" class="frame"><figcaption>Monumental de River</figcaption></figure></div>
-<div class="four columns"><figure><img src="http://66.media.tumblr.com/3453ff27919cf46b7955e28f71c254c4/tumblr_obza4vDzSq1qz7ur9o1_540.jpg" class="frame"><figcaption>Port of Miami at dusk</figcaption></figure></div>
-</div><div class="row">
-<div class="four columns"><figure><img src="http://67.media.tumblr.com/4a096d78507ad9616c947ff35e449b17/tumblr_obza4vDzSq1qz7ur9o2_540.jpg" class="frame"><figcaption>Working at home</figcaption></figure></div>
-<div class="four columns"><figure><img src="http://67.media.tumblr.com/56efe0813e644376afa7802807d3b24e/tumblr_nx1zvtPaxq1qz7ur9o3_540.jpg" class="frame"><figcaption>Dried fish at Monterosso al Mare</figcaption></figure></div>
-<div class="four columns"><figure><img src="http://67.media.tumblr.com/aba0b27f9be305fdfa0a772d0f7eb397/tumblr_nx1xselzwl1qz7ur9o9_540.jpg" class="frame"><figcaption>Manarola, Cinque Terre</figcaption></figure></div>
-</div><div class="row">
-<div class="four columns"><figure><img src="http://67.media.tumblr.com/102fee3542e5ff746f7adf20b37d3dca/tumblr_nsgn7woPjG1qz7ur9o1_540.jpg" class="frame"><figcaption>Brooklyn townhouse</figcaption></figure></div>
-<div class="four columns"><figure><img src="http://67.media.tumblr.com/b3d3fff1a1857c1b03b3f6eec6ceb325/tumblr_nsgmwt1apO1qz7ur9o8_540.jpg" class="frame"><figcaption>Downtown NYC</figcaption></figure></div>
-<div class="four columns"><figure><img src="http://67.media.tumblr.com/09784396750c3cdfab2cb0d5379f2160/tumblr_nogpcm9V3V1qz7ur9o7_540.jpg" class="frame"><figcaption>Italian icons</figcaption></figure></div>
-</div><div class="row">
-<div class="four columns"><figure><img src="http://66.media.tumblr.com/9439de5a70d9c47640a63d76f335eb98/tumblr_nplc2hPYSe1qz7ur9o3_540.jpg" class="frame"><figcaption>La Rosa Nautica restaurant, Lima, Peru</figcaption></figure></div>
-<div class="four columns"><figure><img src="http://67.media.tumblr.com/775dcedf9a0785b9374ab8d5c3e4706e/tumblr_nplc2hPYSe1qz7ur9o4_540.jpg" class="frame"><figcaption>Lima, Peru</figcaption></figure></div>
-<div class="four columns"><figure><img src="http://65.media.tumblr.com/9245d7420ec6e64cc74bfa89e38e9b46/tumblr_nmnn7lm1sF1qz7ur9o1_540.jpg" class="frame"><figcaption>Bogota from Monserrate</figcaption></figure></div>
-</div><div class="row">
-<div class="four columns"><figure><img src="https://66.media.tumblr.com/e02e25a8b1e9d05a6eb062bede48ed93/tumblr_nmap6sWgT21qz7ur9o1_1280.jpg" class="frame"><figcaption>Dune safari, Dubai</figcaption></figure></div>
-<div class="four columns"></div>
-<div class="four columns"></div>
-</div>
+
+<div class="picbox"><figure><img src="https://66.media.tumblr.com/048db88744dcc7f30127ae3ccae3ce66/tumblr_obzbaq5C0Z1qz7ur9o1_540.jpg" class="frame"><figcaption>Google Analytics IQ class</figcaption></figure></div>
+<div class="picbox"><figure><img src="https://67.media.tumblr.com/8647cda79e25754c8e47d01a8cfd4d97/tumblr_obzannm7fP1qz7ur9o1_540.jpg" class="frame"><figcaption>Monumental de River</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://66.media.tumblr.com/3453ff27919cf46b7955e28f71c254c4/tumblr_obza4vDzSq1qz7ur9o1_540.jpg" class="frame"><figcaption>Port of Miami at dusk</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://67.media.tumblr.com/4a096d78507ad9616c947ff35e449b17/tumblr_obza4vDzSq1qz7ur9o2_540.jpg" class="frame"><figcaption>Working at home</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://67.media.tumblr.com/56efe0813e644376afa7802807d3b24e/tumblr_nx1zvtPaxq1qz7ur9o3_540.jpg" class="frame"><figcaption>Dried fish at Monterosso al Mare</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://67.media.tumblr.com/aba0b27f9be305fdfa0a772d0f7eb397/tumblr_nx1xselzwl1qz7ur9o9_540.jpg" class="frame"><figcaption>Manarola, Cinque Terre</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://67.media.tumblr.com/102fee3542e5ff746f7adf20b37d3dca/tumblr_nsgn7woPjG1qz7ur9o1_540.jpg" class="frame"><figcaption>Brooklyn townhouse</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://67.media.tumblr.com/b3d3fff1a1857c1b03b3f6eec6ceb325/tumblr_nsgmwt1apO1qz7ur9o8_540.jpg" class="frame"><figcaption>Downtown NYC</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://67.media.tumblr.com/09784396750c3cdfab2cb0d5379f2160/tumblr_nogpcm9V3V1qz7ur9o7_540.jpg" class="frame"><figcaption>Italian icons</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://66.media.tumblr.com/9439de5a70d9c47640a63d76f335eb98/tumblr_nplc2hPYSe1qz7ur9o3_540.jpg" class="frame"><figcaption>La Rosa Nautica restaurant, Lima, Peru</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://67.media.tumblr.com/775dcedf9a0785b9374ab8d5c3e4706e/tumblr_nplc2hPYSe1qz7ur9o4_540.jpg" class="frame"><figcaption>Lima, Peru</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://65.media.tumblr.com/9245d7420ec6e64cc74bfa89e38e9b46/tumblr_nmnn7lm1sF1qz7ur9o1_540.jpg" class="frame"><figcaption>Bogota from Monserrate</figcaption></figure></div>
+<div class="picbox"><figure><img src="https://66.media.tumblr.com/e02e25a8b1e9d05a6eb062bede48ed93/tumblr_nmap6sWgT21qz7ur9o1_1280.jpg" class="frame"><figcaption>Dune safari, Dubai</figcaption></figure></div>
+<div class="picbox"></div>
+<div class="picbox"></div>
+
 <br />

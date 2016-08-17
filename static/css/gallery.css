@@ -1,4 +1,7 @@
-
+.picbox {
+	display: block;	
+	margin: 0.5em;
+}
 
 figure {
 	margin: 0;
@@ -25,6 +28,22 @@ img.frame {
   padding: 4px;
   border: 1px solid #ccc;
   box-shadow: 1px 3px 3px #ddd;
+}
+
+
+/* -- Media Queries -- */
+
+@media (min-width: 500px) {
+	.picbox {
+		width: 45%;
+		display: inline-block;			
+	}
+}
+
+@media (min-width: 900px) {
+	.picbox {
+		width: 30%;
+	}
 }
 
 
