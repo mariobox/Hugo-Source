@@ -7,7 +7,8 @@ slug = "gallery"
 
 Places I've been. Things that caught my eye.
 
-
+<div class="picbox"><figure><img src="http://67.media.tumblr.com/bb52a98d00fc300a5d011cfaa7d1cf14/tumblr_ocy7coAtdY1qz7ur9o1_540.jpg" class="frame"><figcaption>Landing in Panama City</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://67.media.tumblr.com/84c510905100c38d2d5b28b5a5332ea0/tumblr_occ8msLjaF1qz7ur9o1_540.jpg" class="frame"><figcaption>Sanibel, FL</figcaption></figure></div>
 <div class="picbox"><figure><img src="https://66.media.tumblr.com/048db88744dcc7f30127ae3ccae3ce66/tumblr_obzbaq5C0Z1qz7ur9o1_540.jpg" class="frame"><figcaption>Google Analytics IQ class</figcaption></figure></div>
 <div class="picbox"><figure><img src="https://67.media.tumblr.com/8647cda79e25754c8e47d01a8cfd4d97/tumblr_obzannm7fP1qz7ur9o1_540.jpg" class="frame"><figcaption>Monumental de River</figcaption></figure></div>
 <div class="picbox"><figure><img src="http://66.media.tumblr.com/3453ff27919cf46b7955e28f71c254c4/tumblr_obza4vDzSq1qz7ur9o1_540.jpg" class="frame"><figcaption>Port of Miami at dusk</figcaption></figure></div>
