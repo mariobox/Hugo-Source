@@ -145,20 +145,45 @@ nav {
   margin-top: 0.5em;  
 }
 
-.navmenu {
-  padding-top: 1.0em;
+
+
+.blocknav a {
+    display: block;
+    text-align: center;    
+    text-decoration: none;
+    
+  }
+  
+.blocknav a {
+    text-transform: uppercase;
+  }
+
+.blocknav li {
+list-style-type: none;
+margin-left: 0;
+
+  }
+
+.logo {
+  width: 120px;
+  text-align: center;
 }
 
-.navmenu li {
-  padding-right: 1.5em;
-  list-style-type: none;
-  display: inline;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 1.0em;
+@media (min-width: 769px) {
+
+.blocknav li {
+  display: inline-block;
+  margin-right: 1em;
 }
 
-.navmenu a {
-  text-decoration: none;
-  color: #222;
+.logo {
+ text-align: left;
+ vertical-align: middle;
+ margin-right: 3em;
 }
+
+
+}
+
+
 
