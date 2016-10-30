@@ -17,7 +17,7 @@ My name is **Mario Sanchez Carrion**. I am a marketing professional and web deve
 
 [Lima, Peru](https://www.youtube.com/watch?v=RYTO_J7ix9Y)
 
-### 5 Second Resume ###
+### 15 Second Resume ###
 
 * Marketing Manager - Black & Decker (2012-present)
 * Marketing Director - Stanley Tools (2008-2012)
@@ -43,7 +43,7 @@ My name is **Mario Sanchez Carrion**. I am a marketing professional and web deve
 
 * Fluent in English, Spanish and Portuguese.
 * [INTJ](http://mariosanchez.org/images/INTJ.PNG) Myers-Briggs personality type.
-* Avid soccer fan. [Vamos Millo!!](http://farm5.staticflickr.com/4055/4448440498_5d731b2102_z.jpg). 
+* Avid soccer fan. [Vamos Millo!](http://farm5.staticflickr.com/4055/4448440498_5d731b2102_z.jpg). 
 * Frequent traveler: 55 countries and counting. [Pictures](/photos).
 
 ### Influencers

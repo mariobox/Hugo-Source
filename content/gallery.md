@@ -7,6 +7,9 @@ slug = "gallery"
 
 Places I've been. Things that caught my eye.
 
+<div class="picbox"><figure><img src="http://66.media.tumblr.com/3a9fce7081e44f1fbafab7adc6051f10/tumblr_ofv7d2aqfP1qz7ur9o3_540.jpg" class="frame"><figcaption>Visual Storytelling Summit @ The Idea Center</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://67.media.tumblr.com/5b1ff46184c72d8eb99ce41e13953bc1/tumblr_ofv7d2aqfP1qz7ur9o2_540.jpg" class="frame"><figcaption>Capitol, Annapolis, MD</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://67.media.tumblr.com/6cee5295e83e548ece49d8408c31e99f/tumblr_ofv7d2aqfP1qz7ur9o1_540.jpg" class="frame"><figcaption>Harbor, Annapolis, MD</figcaption></figure></div>
 <div class="picbox"><figure><img src="http://67.media.tumblr.com/bb52a98d00fc300a5d011cfaa7d1cf14/tumblr_ocy7coAtdY1qz7ur9o1_540.jpg" class="frame"><figcaption>Landing in Panama City</figcaption></figure></div>
 <div class="picbox"><figure><img src="http://67.media.tumblr.com/84c510905100c38d2d5b28b5a5332ea0/tumblr_occ8msLjaF1qz7ur9o1_540.jpg" class="frame"><figcaption>Sanibel, FL</figcaption></figure></div>
 <div class="picbox"><figure><img src="https://66.media.tumblr.com/048db88744dcc7f30127ae3ccae3ce66/tumblr_obzbaq5C0Z1qz7ur9o1_540.jpg" class="frame"><figcaption>Google Analytics IQ class</figcaption></figure></div>
@@ -24,5 +27,6 @@ Places I've been. Things that caught my eye.
 <div class="picbox"><figure><img src="https://66.media.tumblr.com/e02e25a8b1e9d05a6eb062bede48ed93/tumblr_nmap6sWgT21qz7ur9o1_540.jpg" class="frame"><figcaption>Dune safari, Dubai</figcaption></figure></div>
 <div class="picbox"><figure><img src="http://67.media.tumblr.com/828a74b77b6cbb1fa7ba1b81f01a76a8/tumblr_njsc54cAVW1qz7ur9o1_540.jpg" class="frame"><figcaption>Caviar, smoked salmon and vodka</figcaption></figure></div>
 <div class="picbox"><figure><img src="http://65.media.tumblr.com/bb7fe01f3c9f38009ac143a31714ffd4/tumblr_njsbfyVTKX1qz7ur9o1_540.jpg" class="frame"><figcaption>Matchbox</figcaption></figure></div>
-<div class="picbox"><figure><img src="http://66.media.tumblr.com/6d87d638dd85e5becce7b7b1634479cd/tumblr_njsbemErgw1qz7ur9o1_1280.jpg" class="frame"><figcaption>Church of The Spilled Blood, St. Petersburg</figcaption></figure></div>
+<div class="picbox"><figure><img src="http://66.media.tumblr.com/6d87d638dd85e5becce7b7b1634479cd/tumblr_njsbemErgw1qz7ur9o1_540.jpg" class="frame"><figcaption>Church of The Spilled Blood, St. Petersburg</figcaption></figure></div>
 <br />
+
