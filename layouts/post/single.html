@@ -34,7 +34,7 @@
 {{ $baseurl := .Site.BaseURL }}
 
 <ul>
-{{ range .Params.tags }}<li id="tags"> <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> </li>{{ end }}
+{{ range .Params.tags }}<li class="tagbox"> <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> </li>{{ end }}
 </ul>
 
 <br />

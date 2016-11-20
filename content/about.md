@@ -5,11 +5,12 @@ date = "2014-09-27"
 slug = "about"
 +++
 
-<img src="/images/msc-rio.jpg" class="roundnew">
+<img src="/images/mypictr_165x165.jpg" class="profile">
+My name is **Mario Sanchez Carrion**. I am a marketing professional and web developer in training living in [Miami, FL](https://vimeo.com/172828815). I am originally from Peru, where I graduated as an Industrial Engineer prior to coming to the United States, where I specialized in Marketing and performed different product development and marketing roles throughout the years.
 
-My name is **Mario Sanchez Carrion**. I am a marketing professional and web development enthusiast living in [Miami, FL](https://vimeo.com/172828815)
+I am currently studying to become a front end web developer and use this site to practice what I learn.
 
-### Details ###
+### Other Details ###
 
 <details>
 	<summary><strong>15 Second Resume</strong></summary>
