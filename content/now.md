@@ -14,13 +14,7 @@ slug = "/now"
 +++
 
 
-This is how I spend my time these days:
-
-* I start my day with a 30-45 minute stretching routine followed by a healthy breakfast.
-* I spend my work days doing product marketing for a large power tools manufacturer.
-* I'm teaching myself front end web development and basic programming. 
-* I am currently reading [Running Lean: Iterate From Plan A to a Plan That Works](http://amzn.to/1Ysos9Y).
-* I rarely miss a game of my favorite soccer team, Argentine side [River Plate](http://farm5.staticflickr.com/4055/4448440498_5d731b2102_z.jpg).
+These days I spend most of the time on my job, as a Product Marketing Manager for Latin America at a Fortune 500 company. I spend most of my free time learning front end web development, through online at Treehouse, Codecademy and Coursera. I also recently enrolled in the WebDev program at [The Idea Center](http://theideacenter.co). Other than that, I am an avid soccer fan, and usually catch some good games on the weekends, especially if my favorite team, River Plate, is playing. 
 
 This page was inspired by the awesome [Derek Sivers](http://www.sivers.org/nowff).
 <p>
@@ -29,5 +23,5 @@ This page was inspired by the awesome [Derek Sivers](http://www.sivers.org/nowff
 
 </p>
 
-Last Updated: May 14, 2016
+Last Updated: November 19, 2016
 
