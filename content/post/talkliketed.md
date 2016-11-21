@@ -44,7 +44,7 @@ As if fate had it, a few days later I was at a Fedex store and saw [Talk Like Te
 	2. Volume
 	3. Inflections, and
 	4. Pauses
-* The ideal speaking speed when your delivering a presentation is **190 words/minute**.
+* The ideal speaking speed when you deliver a presentation is **190 words/minute**.
 * When you present, try to **act and look like a leader**: looks, poise, confidence, matter almost as much as your content.
 * Gestures are important. Hand movements are necessary, but for maximum effectiveness you need to use them sparingly.
 * Keep your hand movements within your **"power sphere"**: the arch between your eyes, your extended arms and your waist.
