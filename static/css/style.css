@@ -105,9 +105,6 @@ li.tagbox {
 
 a.brand {
   display: block;
-  text-align: center;    
-  text-decoration: none;
-  text-transform: uppercase;
   background-color: #FFF;
 }
 
@@ -133,10 +130,8 @@ a.brand {
 }
 
 .logo {
- text-align: left;
  vertical-align: middle;
  margin-right: 3em;
- border: 0;
 }
 
 
