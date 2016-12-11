@@ -112,7 +112,6 @@ a.brand {
 
 .logo {
   width: 120px;
-  margin-bottom: 1.8em;
 }
 
 .date {
@@ -137,6 +136,10 @@ a.brand, ul.blocknav {
 ul.blocknav {
   float: right;
   margin-top: 10px;
+}
+
+.logo {
+  margin-bottom: 1.8em;
 }
 
 
