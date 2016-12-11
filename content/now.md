@@ -27,5 +27,5 @@ This page was inspired by the awesome [Derek Sivers](http://www.sivers.org/nowff
 
 </p>
 
-Last Updated: November 19, 2016
+Last Updated: December 10, 2016
 
